@@ -1,0 +1,13 @@
+# position
+
+Research Assistant Professor of Civil and Environmental
+Engineering
+
+# biography
+
+Dr. Sifat Muin is a Research Assistant Professor at the Sonny Astani Department of Civil and Environmental Engineering. She earned her PhD in Civil and Environmental Engineering at UC Berkeley in 2018. She finished her BS and MS in Civil Engineering from Bangladesh University of Engineering and Technology and UC Berkeley, respectively. Before joining USC she was a postdoctoral researcher at the Pacific Earthquake Engineering Research (PEER) Center. Dr. Muin is an active member of Structural Extreme Events Reconnaissance (StEER) network and Earthquake Engineering Research Institute (EERI).
+
+# research_summary
+
+Research Summary Dr. Muin’s expertise is in structural health monitoring(SHM). She is currently working in areas of response-based damage detection using machine learning, SHM sensor development, and disaster resiliency modeling. The overarching goal of her research is to develop a holistic post-disaster monitoring and recovery system that will study the data collected from the structural and human components of a community and improve the resiliency of a city. Dr Muin’s research interest lies in structural health monitoring, earthquake engineering, response of long period structures, machine learning, data-driven community resilience, disaster reconnaissance, feasible SHM sensors.
+

@@ -1,0 +1,35 @@
+# position
+
+Professor of Electrical and Computer Engineering- Systems Practice
+
+# biography
+
+Dr. Nazarian's  teaching and research activities span over a broad range of topics related to design, optimization and verification of digital hardware and software systems. He has designed several USC undergraduate and graduated courses on logic design, SoC design, system verification, sofware and algorithm design for electrical engineers. He has worked as a consultant and designer for numerous projects involving semiconductor and software companies such as Broadcom, Facebook, Fitbit, Fujitsu, Google, Huawei, Hulu, Intel, LG, MediaTek, MStar, Nokia, Qualcomm, Samsung, Semcon, Synopsys, TI, TiVo, and ZTE.
+
+# research_summary
+
+
+
+# interests
+
+## Verification
+## Software/hardware efficiency
+## Hardware acceleration
+## Computer aided design
+## Machine
+
+
+# publications
+
+Title: In silico design and immunoinformatics analysis of a universal multi-epitope vaccine against monkeypox virus, 2023
+Title: A Majority Logic Synthesis Framework For Single Flux Quantum Circuits, 2023
+Title: Formal Verification of Sequential Circuits in Superconducting Single Flux Quantum Technologies, 2023
+Title: Prometheus: processing-in-memory heterogenous architecture design from a multi-layer network theoretic strategy, 2022
+Title: End-to-end mapping in heterogeneous systems using graph representation learning, 2022
+Title: Trustworthiness Evaluation and Trust-Aware Design of CNN Architectures, 2022
+Title: Structural Code Representation Learning for Auto-Vectorization, 2022
+Title: An in silico deep learning approach to multi-epitope vaccine design: a SARS-CoV-2 case study, 2021
+Title: A COVID-19 rumor dataset, 2021
+Title: A general trust framework for multi-agent systems, 2021
+
+

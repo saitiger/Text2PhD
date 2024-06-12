@@ -1,0 +1,39 @@
+# position
+
+Kenneth C. Dahlberg Early Career Chair and Associate Professor of Electrical and Computer Engineering and Computer Science
+
+# biography
+
+Pierluigi Nuzzo is the Kenneth C. Dahlberg Early Career Chair and an Associate Professor of Electrical and Computer Engineering and Computer Science at the University of Southern California, Los Angeles. He received the Ph.D. in Electrical Engineering and Computer Sciences (EECS) from the University of California at Berkeley in 2015. He also holds a M.Sc. degree in Electrical Engineering from the University of Pisa and the Sant'Anna School of Advanced Studies, Pisa, Italy. 
+
+Between August 2015 and August 2016, he was a Postdoctoral Scholar at U.C. Berkeley. Before joining U.C. Berkeley, he was a Researcher at IMEC, Leuven, Belgium, and the University of Pisa, working on the design of energy-efficient A/D converters, frequency synthesizers for reconfigurable radio, and design methodologies for mixed-signal integrated circuits. 
+
+Prof. Nuzzo received the National Science Foundation CAREER Award in 2019, the Defense Advanced Research Projects Agency Young Faculty Award in 2020, the IEEE Technical Committee on Cyber-Physical Systems (TCCPS) Early-Career Award in 2022, the Okawa Foundation Research Grant in 2022, the Best Submission in the 2006 DAC (Design Automation Conference) and ISSCC (International Solid-State Circuit Conference) Design Competition, and Best Paper Awards from the International Conference on Cyber-Physical Systems (ICCPS) in 2016 and the International Conference on Methods and Models for System Design (MEMOCODE) in 2020. His awards and honors also include the U.C. Berkeley EECS Ph.D. Fellowship in 2008, the U.C. Berkeley Outstanding Graduate Student Instructor Award in 2013, the IBM Ph.D. Fellowship in 2012 and 2014, and the U.C. Berkeley EECS David J. Sakrison Memorial Prize in 2016 for his doctoral research.
+
+# research_summary
+
+Research Summary Pierluigi's research interests include: methodologies and tools for the design of cyber-physical systems and mixed-signal systems; contract-based design and compositional methods for embedded system design and requirement engineering; the application of automated formal methods and optimization theory to problems in embedded and cyber-physical systems, electronic design automation, security, and artificial intelligence (AI); formal foundations, analysis, and design methods for hardware IP protection; and verification and synthesis methods for the design and certification of safe and dependable AI-enabled autonomous systems.
+
+# interests
+
+## System Design
+## Trustworthy AI
+## Hardware Security
+## Cyber-Physical Systems
+## Analog and Mixed-Signal De
+
+
+# publications
+
+Title: Co-Design of Topology, Scheduling, and Path Planning in Automated Warehouses, 2023
+Title: Safe Posterior Sampling for Constrained MDPs with Bounded Constraint Violation, 2023
+Title: Computer-Aided Generation of Assurance Cases, 2023
+Title: Efficient Encodings for Scalable Exploration of Cyber-Physical System Architectures, 2023
+Title: Correct-by-Construction Design of Contextual Robotic Missions Using Contracts, 2023
+Title: Optimal Control of Logically Constrained Partially Observable and Multi-Agent Markov Decision Processes, 2023
+Title: Contract-Based Specification Refinement and Repair for Mission Planning, 2023
+Title: Similarity-Based Logic Locking Against Machine Learning Attacks, 2023
+Title: Similarity-Based Logic Locking Against Machine Learning Attacks, 2023
+Title: Exact and Cost-Effective Automated Transformation of Neural Network Controllers to Decision Tree Controllers, 2023
+
+

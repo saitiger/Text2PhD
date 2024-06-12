@@ -1,0 +1,33 @@
+# position
+
+Provost Professor of Biological Sciences, Biomedical Engineering, Physiology and Biophysics, Stem Cell Biology and Regenerative Medicine, Pediatrics, Radiology, and Ophthalmology
+
+# biography
+
+Professor Scott E. Fraser has a long-standing commitment to quantitative biology, applying the tools of chemistry, engineering, and physics to problems in biology and medicine. His personal research centers on imaging and molecular analyses of intact biological systems, with an emphasis on early development, organogenesis, and medical diagnostics. After training in physics (BS, Harvey Mudd College, 1976) and biophysics (PhD, Johns Hopkins University, 1979), he joined the faculty at UC Irvine, and rose through the ranks to become Chair of the Department of Physiology and Biophysics. In 1990 he moved to Caltech to serve as the Anna L. Rosen Professor of Biology, and the Director of the Biological Imaging Center. He is deeply committed to interdisciplinary training and translational research, having helped found the Caltech Brain Imaging Center and the Kavli Institute of Nanoscience, as well as serving as the Director of the Rosen Center for Biological Engineering. In Fall 2012, he moved to USC to take a Provost Professorship in the Dornsife College of Letters Arts and Sciences, the Children’s Hospital Los Angeles, Keck School of Medicine and the Viterbi School of Engineering. He remains active in interdisciplinary research and serves as the Director of Science Initiatives for the USC campuses.
+
+# research_summary
+
+Research Summary Develop new technologies for the imaging of biological structure and function.
+
+# interests
+
+## Convergent Biosciences
+## Biological Imaging
+## Sensors
+
+
+# publications
+
+Title: Cilia function as calcium-mediated mechanosensors that instruct left-right asymmetry, 2023
+Title: HyU: Hybrid Unmixing for longitudinal in vivo imaging of low signal-to-noise fluorescence, 2023
+Title: baz1b loss-of-function in zebrafish produces phenotypic alterations consistent with the domestication syndrome, 2023
+Title: A single-shot hyperspectral phasor camera for fast, multi-color fluorescence microscopy, 2023
+Title: Aboriginal community‐controlled art centres: Keeping Elders strong and connected. Articulating an ontologically situated, intergenerational model of care, 2023
+Title: Application of fluorescence lifetime imaging microscopy to monitor glucose metabolism in pancreatic islets in vivo, 2023
+Title: Optimized gene editing utilizing a recombinant endonuclease system, 2023
+Title: METHOD TO GENERATE BIOCOMPATIBLE DENDRITIC POLYMERS FOR ANALYTE DETECTION WITH MULTIMODAL LABELING Ahttps://dav. uspto. gov/prex/index. html# domesticContinuityND SIGNAL …, 2023
+Title: Scalable trio guide rna approach for integration of large donor dna, 2023
+Title: O-237 Metabolic classification of embryos and oocytes based on hyperspectral imaging and machine learning, 2023
+
+

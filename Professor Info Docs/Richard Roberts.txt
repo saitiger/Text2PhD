@@ -1,0 +1,12 @@
+# position
+
+Professor of Chemistry, Chemical Engineering and Materials Science, Biomedical Engineering, and Molecular and Computational Biology
+
+# biography
+
+Rich Roberts graduated with honors and highest distinction in Chemistry from the University of Kansas in 1987. He then received his Ph.D. in Biophysical Chemistry in 1993, working in Don Crothers lab at Yale. There, he was the first to establish the striking stability of RNA-DNA hybrid triplexes, determine the specificity of triplex recognition, and develop a set of thermodynamic and kinetic rules for the formation of nucleic acid triple helices. In 1993, he began postdoctoral work with Lasker Award winner Jack Szostak, designing and developing mRNA display, a system for totally in vitro peptide and protein selection. In 1997, he co-founded the biotechnology company Phylos Inc. (with Jack Szostak and Brian Seed) and joined the Chemistry faculty at the California Institute of Technology. In 2006, he joined the faculty of USC, where he is an Associate Professor of Chemistry, Biology, and Chemical Engineering.
+
+# research_summary
+
+Research Summary Prof. Roberts lab uses mRNA display to design new peptides and proteins exploring fundamental aspects of molecular recognition, strategies for new drug development, and probes for biological systems. Research in the Roberts lab focuses on the protein synthesis machinery both as a tool for polypeptide design and as a target that can be probed using chemical means. A key aspect of my lab's work is peptide and protein design using in vitro selection experiments. Toward this end, we use mRNA display, a technique the PI conceived and implemented to enable polypeptide design (see figure below). This approach allows
+

@@ -1,0 +1,34 @@
+# position
+
+Arthur G. Settle Trust Endowment for USC Leonard Silverman Chair and Professor of Electrical and Computer Engineering, Biomedical Engineering, and Radiology
+
+# biography
+
+Ph.D. in Electrical Engineering, 1984, University of Newcastle, England. 1985-1991: Assistant Professor, Dept. of Electrical Engineering, USC 1989- present: Associate Editor, IEEE Transactions on Medical Imaging. 1991 -1997: Associate Professor, Dept. of Electrical Engineering, USC 1997-present: Professor, Electrical Engineering, Biomedical Engineering and Radiology, USC 1997-present Director: Signal and Image Processing Institute, USC 2000: Visiting Professor (Sabbatical), Crump Institute for Molecular Imaging, School of Medicine, UCLA. 2001-present: Associate Member, CRUMP Institute for Molecular Imaging, UCLA 2001-present: Associate Member, Laboratory of Neuroimaging, UCLA 2001: Co-chair, International Conference on Information Processing in Medical Imaging, IPMI01, Davis, CA
+
+# research_summary
+
+Research Summary Dr. Leahy's research interests lie in the application of signal and image processing theory to the formation and analysis of biomedical images. His research group is currently involved in the development and analysis of computational methods for formation of positron emission tomography (PET) images with applications in clinical oncology and gene expression imaging in small animals. For the past 15 years, Dr. Leahy has been involved in the development of inverse method for spatio-temporal imaging of neural activity from measurements of magnetoencephalographic (MEG) and electroencephalographic (EEG) data. The results of this research are distributed to the research community
+
+# interests
+
+## medical imaging
+## brain mapping
+## signal processing
+## image processing
+
+
+# publications
+
+Title: Age differences in the functional architecture of the human brain, 2023
+Title: Brainstorm-DUNEuro: An integrated and user-friendly Finite Element Method for modeling electromagnetic brain activity, 2023
+Title: Tuning Minimum-Norm regularization parameters for optimal MEG connectivity estimation, 2023
+Title: Learning From Positive and Unlabeled Data Using Observer-GAN, 2023
+Title: Identification of overlapping and interacting networks reveals intrinsic spatiotemporal organization of the human brain, 2023
+Title: Multilayer brain networks can identify the epileptogenic zone and seizure dynamics, 2023
+Title: BrainSuite BIDS App: Containerized Workflows for MRI Analysis, 2023
+Title: A hybrid high-resolution anatomical MRI atlas with sub-parcellation of cortical gyri using resting fMRI, 2022
+Title: A robust variational autoencoder using beta divergence, 2022
+Title: Reduced subgenual cingulate–dorsolateral prefrontal connectivity as an electrophysiological marker for depression, 2022
+
+

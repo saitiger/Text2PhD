@@ -1,0 +1,31 @@
+# position
+
+Northrop Grumman Chair in Electrical and Computer Engineering and Professor of Computer Science and Electrical and Computer Engineering
+
+# biography
+
+Dr. Ramesh Govindan is the Northrop Grumman Chair in Engineering and Professor of Computer Science and Electrical Engineering at the University of Southern California (USC). Dr. Govindan received the B.Tech degree from the Indian Institute of Technology at Madras, and the M.S. and Ph.D. degrees from the University of California at Berkeley. Prior to joining USC, he was a member of the technical staff at Bell Communications Research, a project leader at USC's Information Sciences Institute and at the International Computer Science Institute at Berkeley.
+
+# research_summary
+
+Research Summary Dr. Govindan's research has focused on scalable and robust routing infrastructures in large networks such as the Internet, on the structural properties of the Internet, and on the architectures and programming systems for wireless and mobile networks. He is a Fellow of the ACM and of the IEEE, a former Editor-in-Chief of the IEEE Transactions on Mobile Computing, and a Distinguished Alumnus of the Indian Institute of Technology, Madras.
+
+# interests
+
+## Computer Networks
+
+
+# publications
+
+Title: Scheduling Network Function Chains Under Sub-Millisecond Latency SLOs, 2023
+Title: METHODS AND SYSTEMS FOR EFFICIENT AND SECURE NETWORK FUNCTION EXECUTION, 2023
+Title: NORA: Towards Large-Scale Vehicular Analytics for Driving Environment Monitoring/Assessment, 2023
+Title: Dragonfly: Higher Perceptual Quality For Continuous 360 Video Playback, 2023
+Title: Reinforcement learning based routing for time-aware shaper scheduling in time-sensitive networks, 2023
+Title: Mitigating the Performance Impact of Network Failures in Public Clouds, 2023
+Title: Method of creating 3d volumetric scene, 2023
+Title: Optimal Oblivious Routing With Concave Objectives for Structured Networks, 2023
+Title: Quadrant: A cloud-deployable nf virtualization platform, 2022
+Title: Optimal oblivious routing for structured networks, 2022
+
+

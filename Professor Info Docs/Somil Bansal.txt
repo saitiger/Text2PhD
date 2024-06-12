@@ -1,0 +1,33 @@
+# position
+
+Assistant Professor of Electrical and Computer Engineering and of Computer Science
+
+# biography
+
+Somil Bansal is an Assistant Professor at the Department of Electrical and Computer Engineering and the Department of Computer Science at the University of Southern California, Los Angeles. He received the Ph.D. in Electrical Engineering and Computer Sciences (EECS) from the University of California at Berkeley in 2020. Before that, he obtained a B.Tech. in Electrical Engineering from Indian Institute of Technology, Kanpur, and an M.S. in Electrical Engineering and Computer Sciences from UC Berkeley in 2012 and 2014, respectively. Between August 2020 and August 2021, he spent a year as a Research Scientist at Waymo (formerly known as Google Self-Driving Car project). He has collaborated closely with companies like Skydio, Google, Waymo, Boeing, as well as NASA Ames. Somil has received several awards, most notably the NSF CAREER award, the Eli Jury Award at UC Berkeley for his doctoral research, the outstanding graduate student instructor award at UC Berkeley, and the academic excellence award at IIT Kanpur.
+
+# research_summary
+
+Research Summary Somil is broadly interested in robotics and autonomous systems. Specifically, his research focuses on understanding how machine learning methods can be combined with classical, model-based planning and control methods with the goal of (a) enabling robots to make intelligent decisions in a data-efficient manner, especially when they rely on perception and vision sensors; and, (b) assuring robot safety while it relies on learning for decision-making. Research keywords: robotics; safe learning; learning and control; robot perception; dynamics and control.
+
+# interests
+
+## Robotics
+## Artificial intelligence
+## Dynamic systems and control
+
+
+# publications
+
+Title: Online update of safety assurances using confidence-based predictions, 2023
+Title: Parameter-conditioned reachable sets for updating safety assurances online, 2023
+Title: Generating formal safety assurances for high-dimensional reachability, 2023
+Title: Discovering Closed-Loop Failures of Vision-Based Controllers via Reachability Analysis, 2023
+Title: Computation of regions of attraction for hybrid limit cycles using reachability: An application to walking robots, 2022
+Title: Deepreach: A deep learning approach to high-dimensional reachability, 2021
+Title: Fastrack: a modular framework for real-time motion planning and guaranteed safe tracking, 2021
+Title: Visual navigation among humans with optimal control as a supervisor, 2021
+Title: Combining optimal control and learning for visual navigation in novel environments, 2020
+Title: A hamilton-jacobi reachability-based framework for predicting and analyzing human motion for safe planning, 2020
+
+

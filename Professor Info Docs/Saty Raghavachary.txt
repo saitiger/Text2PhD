@@ -1,0 +1,39 @@
+# position
+
+Associate Professor of Computer Science Practice
+
+# biography
+
+Dr. Saty Raghavachary is a Senior Lecturer at the CS Dept, where he teaches courses on computer graphics (CG), databases and introductory programming. From 2004-2014 he was a part-time lecturer in CS, during which time he taught graphics and animation courses.
+
+Before joining USC full-time, Saty was a Designated Support Specialist at Autodesk Inc., makers of Maya, Softimage, 3DS Max, AutoCAD and several other industry-leading software tools. Prior to joining Autodesk, Saty spent 16 wonderful years at DreamWorks Feature Animation (with screen credits in 20 movies, including Puss in Boots, How to Train Your Dragon, Kung Fu Panda and Shrek4), where he developed CG software tools in the R&D department, and trained incoming artists on the tools and pipeline. Before that, he was Software Manager at MetroLight Studios, one of the pioneering visual effects studios in Hollywood during the late 80s and early 90s.
+
+Saty has published two popular books on RenderMan, the CG industry’s leading rendering software. He is working on a third book, on Maya Python. Saty also gives talks to schools and colleges in the LA area (eg. Cal Lutheran, LMU, GCC) on animation production and CG.
+
+Saty obtained three MS degrees and PhD at The Ohio State University, and also did postdoctoral research there. He is a member of ACM, IEEE (Computer Society), ASEE and American Mensa.
+
+# research_summary
+
+Research Summary Computer graphical modeling of physical phenomena such as brittle fracture;visual pattern synthesis; dataflow computation for media creation and editing (images, 3D graphics, audio, video).
+
+# interests
+
+## CS
+## CG
+## AI
+
+
+# publications
+
+Title: Biological Intelligence Considered in Terms of Physical Structures and Phenomena, 2022
+Title: Intelligence-consider this and respond!, 2021
+Title: A Physical Structural Perspective of Intelligence, 2021
+Title: As a CS educator, how do you think we can address inequity issues that exist in the field?, 2021
+Title: A VR-based system and architecture for computational modeling of minds, 2020
+Title: Drawing with a turtle, 2020
+Title: Geospatial data handling, 2019
+Title: Introduction to cloud-based machine learning, 2019
+Title: Curriculum design for'introduction to data informatics'(a new data-related undergraduate course at USC), 2019
+Title: Benefits of exposing K-12 students to computer science through summer camp programs, 2018
+
+

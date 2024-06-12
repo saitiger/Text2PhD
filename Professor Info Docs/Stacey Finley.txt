@@ -1,0 +1,36 @@
+# position
+
+Nichole A. and Thuan Q. Pham Professor and Associate Professor of Biomedical Engineering, Chemical Engineering and Materials Science, and Quantitative and Computational Biology
+
+# biography
+
+Dr. Stacey Finley is holder of the Nichole A. and Thuan Q. Pham Professorship and Associate Professor of Biomedical Engineering, as well as Quantitative and Computational Biology, at the University of Southern California. Dr. Finley received her B.S. in Chemical Engineering from Florida A & M University and obtained her Ph.D. in Chemical Engineering from Northwestern University. She completed postdoctoral training at Johns Hopkins University in the Department of Biomedical Engineering. Dr. Finley joined the faculty at USC in 2013, and she leads the Computational Systems Biology Laboratory. Dr. Finley has a joint appointment in the Department of Chemical Engineering and Materials Science, and she is a member of the USC Norris Comprehensive Cancer Center. Dr. Finley is also a standing member of the MABS Study Section at NIH. Her research has been supported by grants from the NSF, NIH, and American Cancer Society.
+
+Selected honors. 2016 NSF Faculty Early CAREER Award; 2016 Young Innovator by the Cellular and Molecular Bioengineering journal; Leah Edelstein-Keshet Prize from the Society of Mathematical Biology; Junior Research Award from the USC Viterbi School of Engineering; the Hanna Reisler Mentorship Award; 2018 AACR NextGen Star; 2018 Orange County Engineering Council Outstanding Young Engineer; 2021 Elected Fellow of American Institute for Biological and Medical Engineering; 2022 Fellow of the Biomedical Engineering Society
+
+# research_summary
+
+Research Summary The Computational Systems Biology Laboratory at USC develops mechanistic models of biological processes and utilize the models to: - gain insight into the dynamics and regulation of biological systems - synthesize and interpret experimental and clinical observations - provide a quantitative framework to test biological hypotheses - contribute to the development of novel therapeutics for pathological conditions We collaborate closely with experimental and clinical researchers, in order to construct experimentally validated computational models that increase our understanding of specific biological processes. These fruitful collaborations enable experimental testing of the model predictions. The main projects are focused on applying
+
+# interests
+
+## Systems biology
+## Mathematical modeling
+## Angiogenesis
+## Metabolism
+
+
+# publications
+
+Title: Systematic Bayesian posterior analysis guided by Kullback-Leibler divergence facilitates hypothesis formation, 2023
+Title: Calibrating agent-based models to tumor images using representation learning, 2023
+Title: Genome-scale modeling predicts metabolic differences between macrophage subtypes in colorectal cancer, 2023
+Title: A Systems and Computational Biology Perspective on Advancing CAR Therapy, 2023
+Title: Flux Sampling in Genome-scale Metabolic Modeling of Microbial Communities, 2023
+Title: How to improve adoptive cell therapy for cancer: Suggestions from a mathematical model, 2023
+Title: Modeling the complex multi-cellular ecosystem of the tumor microenvironment in colorectal cancer using multi-omics data, 2023
+Title: Ensemble-based genome-scale modeling predicts metabolic differences between macrophage subtypes in colorectal cancer, 2023
+Title: Proof‐of‐concept for incorporating mechanistic insights from multi‐omics analyses of polymyxin B in combination with chloramphenicol against Klebsiella pneumoniae, 2023
+Title: Predictive modeling of signal transduction anchored by quantitative imaging, 2023
+
+

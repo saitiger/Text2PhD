@@ -1,0 +1,34 @@
+# position
+
+Assistant Professor of Chemical Engineering and Materials Science
+
+# biography
+
+Professor Branicio's background is in high performance computing, applied math, materials physics, and materials science and engineering. His graduate research was focused on atomistic simulations of metallic nanowires, and semiconductors. As a postdoctoral researcher at the Louisiana State University and University of Southern California, he mastered the state of the art of large-scale parallel molecular dynamics algorithms and visualization techniques for analysis of massive simulation data. He has carried out the first realistic atomistic simulation of hypervelocity impact on high performance ceramic materials and coatings using parallel molecular dynamics.
+
+# research_summary
+
+Research Summary Professor Branicio current interests are on materials under extreme conditions, high strength ceramics, phase change materials, metallic glasses and nanoglasses, polymers, and cement.
+
+# interests
+
+## Molecular Dynamics
+## Dynamic Plasticity
+## Metallic Glasses
+## Mechanics of Materials
+
+
+# publications
+
+Title: Atomistic simulations of nanoindentation on nanoglasses: Effects of grain size and gradient microstructure on the mechanical properties, 2023
+Title: Composition-dependent fracture energy in metallic glasses, 2023
+Title: CoFeNiTix and CrFeNiTix high entropy alloy thin films microstructure formation, 2023
+Title: Uncovering metallic glasses hidden vacancy-like motifs using machine learning, 2023
+Title: Effects of rejuvenation modes on the microstructures and mechanical properties of metallic glasses, 2023
+Title: Defect reversibility regulates dynamic tensile strength in silicon carbide at high strain rates, 2022
+Title: Mechanical properties, failure mechanisms, and scaling laws of bicontinuous nanoporous metallic glasses, 2022
+Title: Tuning the mechanical properties of cellular metallic glasses, 2022
+Title: Ultralow friction of graphene-coated silica nanoparticle film, 2022
+Title: Photoexcitation-Induced Nonthermal Ultrafast Loss of Long-Range Order in GeTe, 2022
+
+

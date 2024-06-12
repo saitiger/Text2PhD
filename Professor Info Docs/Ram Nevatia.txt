@@ -1,0 +1,12 @@
+# position
+
+Fletcher Jones Professor in Computer Science and Professor of Computer Science and Electrical and Computer Engineering
+
+# biography
+
+Ph.D. in Electrical Engineering, 1975, Stanford University, Palo Alto, CA.
+
+# research_summary
+
+Research Summary Computer vision, robotics, artificial intelligence, computer graphics and image processing, pattern recognition.
+

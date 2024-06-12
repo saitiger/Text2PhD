@@ -1,0 +1,12 @@
+# position
+
+Professor of Electrical and Computer Engineering
+
+# biography
+
+Ph.D. in Electrical Engineering, 1991, U of. Massachusetts, Amherst, MA.
+
+# research_summary
+
+Research Summary Design for testability, test, and validation of high speed systems.
+

@@ -1,0 +1,14 @@
+# position
+
+Daniel J. Epstein Chair and Professor of Industrial and Systems Engineering
+
+# biography
+
+Dr. Ross received his B. S. degree in Mathematics from Brooklyn College in 1963. He received his M.S. degrees in Mathematics from Purdue University in 1964 and his Ph.D. degree in Statistics from Stanford University in 1968.
+
+Dr. Ross served as a Professor at the University of California, Berkeley from 1976 until joining us in 2004. Dr. Ross also serves as the Editor for Probability in the Engineering and Informational Sciences,  the Advisory Editor for International Journal of Quality Technology and Quantitative Management, and an Editorial Board Member of the Journal of Bond Trading and Management. Dr. Ross is the author of Introduction to Mathematical Finance: Options and Other Topics, Simulation, A First Course in Probability, Probability Models for Computer Science , and many more titles, articles and reports.
+
+# research_summary
+
+Research Summary * Applied probability model. * Financial engineering. * Simulation. * Stochastic dynamic programming.
+

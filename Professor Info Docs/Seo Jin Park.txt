@@ -1,0 +1,16 @@
+# position
+
+Assistant Professor of Computer Science 
+
+# biography
+
+I started my Assistant Professor job at USC Computer Science Department in 2023 Fall. Before joining USC, I spent a year at Google Systems Research Group.
+
+I did my postdoc at MIT CSAIL with Prof. Mohammad Alizadeh. I received a Ph.D. in Computer Science from Stanford University in 2019, where I was advised by Prof. John Ousterhout. For my PhD study, I was supported by Samsung Scholarship (2013-2018).
+
+I received a B.S. in Computer Science and in Mathematics, and a M.Eng in Electrical Engineering and Computer Science from MIT in 2013.
+
+# research_summary
+
+Research Summary The goal of my research is to make warehouse-scale parallel systems efficient so that big data applications (e.g., DNN training, analytics) can run 100–1000x faster and 10-100x cheaper. For that goal, I have three thrusts: (1) Flash burst computing (2) Resource efficient deep learning (3) Distributed systems for energy efficiency. To learn more about my research, please visit my website. I previously worked on many areas in distributed systems: distributed deep learning system, distributed analytics, blockchain, resource fungibility, low-latency consensus, distributed system consistency, in-memory large-scale storage, server overload control. I usually publish to networked systems venues, such as
+

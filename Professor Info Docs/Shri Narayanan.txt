@@ -1,0 +1,41 @@
+# position
+
+Niki and Max Nikias Chair in Engineering and University Professor of Electrical and Computer Engineering, Computer Science, Linguistics, Psychology, Pediatrics, and Otolaryngology
+
+# biography
+
+Shrikanth Narayanan received his M.S., Engineer, and Ph.D., all in electrical engineering, from UCLA in 1990, 1992, and 1995, respectively, and his bachelor of engineering in electrical engineering from the College of Engineering, Guindy (Chennai, India) in 1988. From 1995-2000 he was with AT&T Labs-Research, Florham Park and AT&T Bell Labs, Murray Hill--first as a Senior Member and later as a Principal Member of its Technical Staff. Currently he is University Professor and holder of the Niki and Max Nikias Chair in Engineering at the University of Southern California (USC), and a Professor in the Signal and Image Processing Institute of USC's Ming Hsieh Electrical & Computer Engineering department with joint appointments as Professor in Computer Science, Linguistics, Psychology, Neuroscience, Pediatrics and Otolaryngology-Head and Neck Surgery. He is also the inaugural director of the Ming Hsieh Institute and a Research Director for the Information Sciences Institute at USC. 
+
+Shri Narayanan is a Fellow of the National Academy of Inventors (NAI), the Acoustical Society of America (ASA), the Institute of Electrical and Electronics Engineers (IEEE), the International Speech Communication Association (ISCA), the Association for Psychological Science (APS), the American Association for the Advancement of Science (AAAS), the American Institute for Medical and Biological Engineering (AIMBE) and the Association for the Advancement of Affective Computing (AAAC). Shri Narayanan is a 2022 Guggenheim Fellow and a member of the European Academy of Sciences and Arts.
+
+Shri Narayanan served as the inaugural VP for Education for the IEEE Signal Processing Society (2020-22). He is an Editor for the Computer, Speech and Language Journal and an Associate Editor for the APSIPA Transactions on Signal and Information Processing, having previously served as Editor-in-Chief for the IEEE Journal of Selected Topics in Signal Processing (2016-2018) and as an Associate Editor for the IEEE Transactions of Speech and Audio Processing (2000-2004), the IEEE Signal Processing Magazine (2005-2008), the IEEE Transactions on Multimedia (2008-2012), IEEE Transactions on Signal and Information Processing over Networks (2014-2015), the IEEE Transactions on Affective Computing (2010-2016) and the Journal of Acoustical Society of America (2009-2016). He holds or has held positions on the Speech Communication and Acoustic Standards committees of the Acoustical Society of America and the Advisory Council of the International Speech Communication Association, the BigData SIG (2014-2017) the Speech Processing Technical Committee (2003-2007) and on the Multimedia Signal Processing technical committee (2005-2008; 2014-2020) of the IEEE Signal Processing Society. At USC, he was Chair of the Joint Provost-Senate University Research Committee (2006-09) and, a Past President of the Phi Kappa Phi Academic Honor Society (2007-08).
+
+Shri Narayanan is a member of Tau Beta Pi, Phi Kappa Phi and Eta Kappa Nu. He held the inaugural Viterbi Professorship in Engineering at USC (2007-2016). He is the recipient of the 2023 ISCA Medal for Scientific Achievement from the International Speech Communication Association (ISCA).  He is a recipient of an NSF CAREER award, USC Associates Award for Creativity in Research and Scholarship, USC Viterbi Engineering Junior and Senior Research Awards and Use-inspired research award, USC Electrical Engineering Northrop-Grumman Research award, a Mellon award for mentoring excellence, a USC Distinguished Faculty Service Award, an Okawa Research Award, IBM Faculty Awards (2008, 2010), Google Faculty Research Award (2016), Amazon Research Award (2020), the 2011 UCLA Engineering Alumni Professional Achievement Award, a 2019 Distinguished Alumnus Award from College of Engineering-Guindy (India) and a faculty fellowship from the USC Center for Interdisciplinary research. He is a recipient of a 2018 ISCA Best Journal Paper Award (for paper published in Computer Speech and Language Journal with Ming Li and Kyu Han), an Engineer's Council 2015 Distinguished Engineering Educator Award, ACM ICMI 2020 Sustained Accomplishment Award, the Ten Year Technical Impact Award from the 2014 ACM ICMI, a 2009 Best Transactions Paper award (with Chul Min Lee) and a 2005 Best Transactions Paper Award (with Alexandros Potamianos) from the IEEE Signal Processing society and was selected as Signal Processing Society Distinguished Lecturer for 2010-2011, the International Speech Communication Association (ISCA) Distinguished Lecturer for 2015-16, and the 2017 Willard R. Zemlin Memorial Lecturer for American Speech and Hearing Association (ASHA). Papers co-authored with his students have won recognition at MediaEval 2020 (Emotions and Themes in Music), ACM-AVEC 2018 Emotion Gold-standard Subchallenge, 2018 Behavioral, Economic, and Socio-Cultural Computing Conference (Distinguished Research on Digital Humanities) Interspeech 2016, ICASSP 2016, Interspeech2015-Nativeness Challenge, Interspeech2014-Cognitive Load Challenge, Interspeech2013-Paralinguistics Challenge, Interspeech 2013, Interspeech2012-Speaker Trait Challenge, Interspeech2011-Speaker State Challenge, InterSpeech 2010, InterSpeech 2009-Emotion Challenge, IEEE DCOSS 2009, IEEE MMSP 2007, IEEE MMSP 2006, ICASSP 2005 and ICSLP 2002. His research interests are in signals and systems modeling with an interdisciplinary emphasis on speech, audio, language, multimodal and biomedical problems and applications with direct societal relevance. His laboratory is supported by federal (NSF, NIH, DARPA, IARPA, ONR, Army and DHS) and industry grants. He has published over 1000 papers and has 18 granted U.S. patents. His research and inventions have led to technology commercialization including through startups he co-founded: Behavioral Signals Technologies focused on the telecommunication services and AI based conversational assistance industry and Lyssn focused on mental health care delivery, treatment and quality assurance.
+
+# research_summary
+
+Research Summary HUMAN-CENTERED SENSING, COMPUTING AND INFORMATION PROCESSING -Human-centered Signal Processing and Machine Learning -Behavioral Signal Processing, Emotions, Behavioral Informatics -Speech and Language Processing, Automatic Speech/Speaker Recognition, Speech Translation -Multimedia Signal Processing, Computational Media Intelligence -Human-Machine and Mediated Interactions; Spoken dialog and Multimodal Systems; Virtual Humans -Speech production modeling, Articulatory-Acoustics, Speech/Audio Synthesis; Audio/Music -Biomedical Signal Processing and Modeling: Imaging & Instrumentation
+
+# interests
+
+## signal processing
+## speech/language
+## emotions
+## biosignals/behavior
+## multimedia
+
+
+# publications
+
+Title: Increasing coordination and responsivity of emotion-related brain regions with a heart rate variability biofeedback randomized trial, 2023
+Title: Fedaudio: A federated learning benchmark for audio tasks, 2023
+Title: A review of speech-centric trustworthy machine learning: Privacy, safety, and fairness, 2023
+Title: Ten questions concerning the impact of environmental stress on office workers, 2023
+Title: Movieclip: Visual scene recognition in movies, 2023
+Title: Leveraging label correlations in a multi-label setting: A case study in emotion, 2023
+Title: A study of bias mitigation strategies for speaker recognition, 2023
+Title: Multimodal neuroimaging data from a 5-week heart rate variability biofeedback randomized clinical trial, 2023
+Title: On the Role of Visual Context in Enriching Music Representations, 2023
+Title: Trustser: On the trustworthiness of fine-tuning pre-trained speech embeddings for speech emotion recognition, 2023
+
+

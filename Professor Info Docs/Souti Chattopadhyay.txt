@@ -1,0 +1,12 @@
+# position
+
+WiSE Gabilan Assistant Professor and Assistant Professor of Computer Science 
+
+# biography
+
+Souti "Rini" Chattopadhyay is an assistant professor in computer science at the University of Southern California. She received her Ph.D. in 2022 from the Oregon State University.
+
+# research_summary
+
+Research Summary Souti's research is in the intersection of Software Engineering and Human Computer Interaction. Her work focusses on studying how humans process information when interacting with software, identifying where human thinking doesn't align with the software workflow, and improve design and experience to make software more cognitively accessible.
+

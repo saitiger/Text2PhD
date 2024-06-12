@@ -1,0 +1,36 @@
+# position
+
+Dean's Professor of Electrical and Computer Engineering and Professor of Electrical and Computer Engineering and Computer Science 
+
+# biography
+
+Salman Avestimehr is a Dean's Professor, the inaugural director of the  USC-Amazon Center for Secure and Trusted Machine Learning (Trusted AI), and director of the  Information Theory and Machine Learning (vITAL) research lab. He is also the CEO and co-founder of  FedML. He was also an Amazon Scholar in 2021. He received his Ph.D. in 2008 in Electrical Engineering and Computer Science from the University of California, Berkeley. Prior to that, he obtained his B.S. in Electrical Engineering from Sharif University of Technology in 2003. He was an Assistant Professor at the ECE school of Cornell University from 2009 to 2013. He was also a postdoctoral scholar at the Center for the Mathematics of Information (CMI) at Caltech in 2008. His research interests are in the areas of information theory, machine learning, distributed computing, secure and private learning/computing, and federated learning.
+
+Dr. Avestimehr has received various awards for his research and teaching, including The 2019 IEEE Information Theory Society James L. Massey Research & Teaching Award, an Information Theory Society and Communication Society Joint Paper Award, a Presidential Early Career Award for Scientists and Engineers (PECASE) from President Obama, a Young Investigator Program (YIP) award from the U. S. Air Force Office of Scientific Research, a National Science Foundation CAREER award, the David J. Sakrison Memorial Prize, and several Best Paper Awards at Conferences. He has been an Associate Editor for IEEE Transactions on Information Theory. He was a general Co-Chair of the 2020 International Symposium on Information Theory (ISIT). He is also a Fellow of IEEE.
+
+# research_summary
+
+Research Summary Current research areas of Prof. Avestimehr include information theory, machine learning, distributed computing, secure and private learning/computing, and federated learning. Prof. Avestimehr is the inaugural director of the USC-Amazon Center for Secure and Trusted Machine Learning (Trusted AI), and director of the Information Theory and Machine Learning (vITAL) research lab. He is also the CEO and co-founder of FedML
+
+# interests
+
+## Information Theory
+## Machine Learning
+## Distributed Computing
+## Secure/Private Learning/Computing
+
+
+# publications
+
+Title: Fairfed: Enabling group fairness in federated learning, 2023
+Title: Securing secure aggregation: Mitigating multi-round privacy leakage in federated learning, 2023
+Title: Fedaudio: A federated learning benchmark for audio tasks, 2023
+Title: Layer-wise adaptive model aggregation for scalable federated learning, 2023
+Title: Secure aggregation in federated learning is not private: Leaking user data at large scale through model modification, 2023
+Title: FedML-HE: An Efficient Homomorphic-Encryption-Based Privacy-Preserving Federated Learning System, 2023
+Title: Federated analytics: A survey, 2023
+Title: Partial model averaging in federated learning: Performance guarantees and benefits, 2023
+Title: FedMultimodal: A Benchmark For Multimodal Federated Learning, 2023
+Title: Gpt-fl: Generative pre-trained model-assisted federated learning, 2023
+
+

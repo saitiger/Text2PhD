@@ -1,0 +1,32 @@
+# position
+
+Assistant Professor of Medicine and Biomedical Engineering
+
+# biography
+
+Shannon Mumenthaler, Ph.D., is an Assistant Professor of Medicine and Biomedical Engineering at the University of Southern California. She is also the Lab Director for the Lawrence J. Ellison Institute for Transformative Medicine of USC. As Lab Director, Dr. Mumenthaler helps guide the scientific planning of the institute, ensure the faculty have the tools they need for their research, and strategize the partnerships and goals of the institute. 
+
+Dr. Mumenthaler completed her B.S. in Genetics at UC Davis and then went on to earn a Ph.D. in Cellular and Molecular Pathology at UCLA. Although her primary scientific training is in cell biology, she applies a unique multidisciplinary approach toward her research program, partnering with mathematicians, clinicians and engineers to explore critical areas in cancer. Her overall research interest focuses on the importance of the tumor microenvironment in influencing tumor progression and treatment response. She is developing more physiologically-relevant model systems that capture the microenvironmental context of a tumor and coupling these preclinical models with microscopy-based imaging pipelines to provide deeper insights into the evolving tumor. She is inspired by working with colleagues from diverse scientific backgrounds to think outside the box, devise new ways of approaching cancer, create new model systems, and push the limits of cancer research.
+
+# research_summary
+
+
+
+# interests
+
+
+
+# publications
+
+Title: Breast cancer and neurotransmitters: emerging insights on mechanisms and therapeutic directions, 2023
+Title: Organs-on-chips: A decade of innovation, 2023
+Title: Phenotypic deconvolution in heterogeneous cancer cell populations using drug-screening data, 2023
+Title: Comprehensive profiling of clock genes expression in hepatocellular carcinoma (HCC)., 2023
+Title: Phosphorylation and stabilization of EZH2 by DCAF1/VprBP trigger aberrant gene silencing in colon cancer, 2023
+Title: Fluorescence lifetime imaging microscopy to assess drug response in patient-derived colorectal cancer organoids, 2023
+Title: Peristalsis based modulation of colorectal cancer cells leads to changes in stemness and invasiveness in an organ on chip model, 2023
+Title: The impact of extracellular matrix modulation and cancer-associated fibroblast presence on patient-derived tumor organoid growth rate, morphology, and chemoresistance, 2023
+Title: Abstract P4-08-06: Clock Genes in Breast Cancer, 2023
+Title: Reprogramming CBX8-PRC1 function with a positive allosteric modulator, 2022
+
+

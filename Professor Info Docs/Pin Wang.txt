@@ -1,0 +1,13 @@
+# position
+
+Zohrab A. Kaprielian Fellow in Engineering and Professor of Chemical Engineering and Materials Science and Biomedical Engineering
+
+# biography
+
+Ph.D., Chemical Engineering, California Institute of Technology, 2003
+B.S., Material Science and Engineering, University of Science and Technology of China, 1997
+
+# research_summary
+
+Research Summary The Wang laboratory focuses on an emerging field of “immunobioengineering” with the aim of employing engineering tools and principles to quantitatively understand the immune system in health and disease and to develop novel molecular and cellular immunotherapies by precisely modulating disease-specific immune responses. The ongoing research research projects include: 1) exploring various strategies to engineer virus-derived vector systems for dendritic cell-targeted vaccine delivery and oncolytic virus-based immunotherapy; 2) designing and optimizing cellular immunotherapy that is based on molecular engineering of chimeric antigen receptors (CARs); 3) exploring immune cells as drug carriers for targeted delivery of immunomodulatory drugs to
+

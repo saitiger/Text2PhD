@@ -1,0 +1,16 @@
+# position
+
+Professor of Electrical and Computer Engineering
+
+# biography
+
+Peter Beerel received his B.S.E. degree in Electrical Engineering from Princeton University in 1989, and his M.S. and Ph.D. degrees in Electrical Engineering from Stanford University in 1991 and 1994, respectively. He joined the Department of Electrical Engineering-Systems at the University of Southern California's Viterbi School of Engineering in 1994, where he is currently a Full Professor and Associate Chair of the Computer Engineering Division. He is also a Research Director at USC's Information Sciences Institute.
+
+Previously, Dr. Beerel was the Faculty Director of Innovation Studies at the USC Stevens Institute for Innovation from 2006 to 2008. In May of 2008, he took a leave of absence from USC and co-founded TimeLess Design Automation with one of his Ph.D. students, Dr. Georgios Dimou. Their mission was to demonstrate and commercialize an asynchronous ASIC flow for high-performance systems. They were successful and sold the company in July of 2010 to Fulcrum Microsystems which was acquired by Intel in 2011. 
+
+Dr. Beerel was recipient of a VSoE Outstanding Teaching Award in 1997 and the VSoE Junior Research Award in 1998. He received a National Science Foundation CAREER Award and a 1995 Zumberge Fellowship. His interests include a variety of topics in CAD, VLSI, and Machine Learning. He and his students have won several best paper awards, including at ASYNC'99, ASYNC'2014, and ASYNC'2020. He was the 2008 recipient of the IEEE Region 6 Outstanding Engineer Award and is a Senior Member of the IEEE.
+
+# research_summary
+
+Research Summary My research interests span circuits, micro-architecture, and algorithms that target a variety of emerging areas in energy-efficient, secure, and sustainable computing. My group is guided by academic curiosity, integrity, and the spirit of collaboration to solve real-world problems using the wide array of mathematics that make up the foundation of Electrical and Computer Engineering. My group’s current research projects include topics in machine-learning algorithm hardware co-design, superconducting electronics, hardware security, and asynchronous VLSI design. My group is also collaborating on multidisciplinary problems including mitigating wild fires using a network of drones.
+

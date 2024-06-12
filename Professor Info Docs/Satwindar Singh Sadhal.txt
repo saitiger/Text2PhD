@@ -1,0 +1,35 @@
+# position
+
+Professor of Aerospace and Mechanical Engineering and Ophthalmology
+
+# biography
+
+1978 PhD, Engineering Science, California Institute of Technology
+1976 MASc, Mechanical Engineering, University of Toronto
+1975 BASc, Nuclear/Thermal Engineering Science, University of Toronto
+
+# research_summary
+
+Research Summary Current activity includes ocular fluid dynamics and transport associated with drug delivery, transport and permeability properties of the vitreous humor and the retina. Numerical and analytical modeling of fluid dynamics and transport phenomena in the eye. Drops and bubbles in acoustic fields
+
+# interests
+
+## Fluid mechanics
+## heat and mass transfer
+## ocular drug delivery
+
+
+# publications
+
+Title: Boundary effects on the streaming flow around a bubble located at the velocity antinode of a standing wave, 2023
+Title: Mathematical model of macromolecular drug transport in a partially liquefied vitreous humor, 2022
+Title: Simulation of Thermally-Driven Buoyant Convection for Ocular Drug Delivery Enhancement, 2022
+Title: Analytical and computational modeling of sustained-release drug implants in the vitreous humor, 2021
+Title: In Vivo Experimental and Analytical Studies for Bevacizumab Diffusion Coefficient Measurement in the Rabbit Vitreous Humor, 2021
+Title: Sustained-Release Drug Implants in the Vitreous Humor: Analytical and Computational Modeling, 2021
+Title: Measurement of the hydraulic conductivity of the vitreous humor, 2020
+Title: SIMULATION AND MODELING OF SACCADIC MOTION WITH SYNERESIS OF NANOPARTICLE SURROGATE DRUG DISPERSION, 2020
+Title: Diffusive Transport in the Vitreous Humor: Experimental and Analytical Studies, 2019
+Title: BEVACIZUMAB DIFFUSION COEFFICIENT IN VIVO MEASUREMENT OF RABBIT VITREOUS HUMOR WITH FLUORESCEIN LABELING, 2019
+
+

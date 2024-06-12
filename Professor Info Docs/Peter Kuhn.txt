@@ -1,0 +1,32 @@
+# position
+
+Professor of Biological Sciences, Medicine, Aerospace and Mechanical Engineering, and Biomedical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## cancer
+## structural biology
+
+
+# publications
+
+Title: Simultaneous Copy Number Alteration and Single-Nucleotide Variation Analysis in Matched Aqueous Humor and Tumor Samples in Children with Retinoblastoma, 2023
+Title: Investigation of liquid biopsy analytes in peripheral blood of individuals after SARS-CoV-2 infection, 2023
+Title: BLOODPAC: Collaborating to chart a path towards blood‐based screening for early cancer detection, 2023
+Title: Cell State and Cell Type: Deconvoluting Circulating Tumor Cell Populations in Liquid Biopsies by Multi-Omics, 2023
+Title: Mathematical Oncology to Integrate Multimodal Clinical and Liquid Biopsy Data for the Prediction of Survival, 2023
+Title: Plasticity of circulating tumor cells in small cell lung cancer, 2023
+Title: Early detection of cancer, 2022
+Title: Single-cell spatial analysis of tumor immune architecture in diffuse large B-cell lymphoma, 2022
+Title: Phase 1 study of PSCA-targeted chimeric antigen receptor (CAR) T cell therapy for metastatic castration-resistant prostate cancer (mCRPC)., 2022
+Title: Potential of aqueous humor as a liquid biopsy for uveal melanoma, 2022
+
+

@@ -1,0 +1,27 @@
+# position
+
+Lecturer of Aerospace and Mechanical Engineering 
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Aerospace engineering
+## commercial aviation
+
+
+# publications
+
+Title: Modeling Well-to-Wake Life-Cycle CO2 Emissions for Electrified Aircraft, 2021
+Title: Power distribution and thermal management modeling for electrified aircraft, 2020
+Title: Propulsion System Component Modeling for an All-Electric Commuter Aircraft Mission, 2020
+Title: Feasibility of electrified propulsion for ultra-efficient commercial aircraft final report, 2019
+Title: Electrified aircraft trade-space exploration, 2018
+
+

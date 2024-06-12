@@ -1,0 +1,34 @@
+# position
+
+Associate Professor of Computer Science
+
+# biography
+
+Shaddin Dughmi is an Associate Professor in the Department of Computer Science at USC, where he is a member of the Theory Group. He received a B.S. in computer science, summa cum laude, from Cornell University in 2004, and a PhD in computer science from Stanford University in 2011. He is a recipient of the NSF CAREER award, the Arthur L. Samuel best doctoral thesis award, and the ACM EC best student paper award.
+
+# research_summary
+
+Research Summary Algorithms, optimization, game theory, mechanism design.
+
+# interests
+
+## Theoretical Computer Science
+## Algorithms
+## Algorithmic Game Theory
+## Optimization
+
+
+# publications
+
+Title: On Supermodular Contracts and Dense Subgraphs, 2023
+Title: On Supermodular Contracts and Dense Subgraphs, 2023
+Title: Delegated Pandora's box, 2022
+Title: Matroid secretary is equivalent to contention resolution, 2022
+Title: On Sparsification of Stochastic Packing Problems, 2022
+Title: Bernoulli factories and black-box reductions in mechanism design, 2021
+Title: Delegated stochastic probing, 2021
+Title: The outer limits of contention resolution on matroids and connections to the secretary problem, 2020
+Title: Bayesian Repeated Zero-Sum Games with Persistent State, with Application to Security Games, 2020
+Title: On the hardness of designing public signals, 2019
+
+

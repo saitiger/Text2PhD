@@ -1,0 +1,12 @@
+# position
+
+Associate Professor of Chemical Engineering and Materials Science and Chemistry
+
+# biography
+
+Shaama Mallikarjun Sharada is an Associate Professor in the Mork Family Department of Chemical Engineering and Materials Science. Shaama received her undergraduate degree in Chemical Engineering from the Indian Institute of Technology, Bombay and PhD from the University of California at Berkeley, where she also served as a software developer for Q-Chem, a quantum chemistry package. She was a postdoctoral researcher at Stanford University prior to joining USC in Fall 2017.
+
+# research_summary
+
+Research Summary Shaama's research focuses on developing catalysts and photocatalysts to meet energy-efficiency and sustainability goals. Her group utilizes quantum chemistry to find active, selective, and stable catalytic materials for efficient valorization of CH bonds and green conversion of anthropogenic carbon dioxide. Shaama is also keen on making quantum chemical predictions more reliable. She is developing algorithms inspired from signal processing to make otherwise prohibitive but accurate kinetics theories more tractable for routine studies.
+

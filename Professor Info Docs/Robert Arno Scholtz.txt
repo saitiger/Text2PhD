@@ -1,0 +1,20 @@
+# position
+
+Professor Emeritus of Electrical and Computer Engineering
+
+# biography
+
+Robert A. Scholtz is a Distinguished Alumnus of the University of Cincinnati, where, as a Sheffield Scholar, he received the Degree in Electrical Engineer in 1958. He was a Hughes Masters and Doctoral Fellow while obtaining his MS and PhD degrees in Electrical Engineering from USC in 1960 and Stanford University in 1964 respectively.
+
+Dr. Scholtz, working on missile radar signal processing problems, remained part-time at Hughes Aircraft Co. until 1978.  In 1963, Dr. Scholtz joined the faculty of the University of Southern California, where he is now the Fred H. Cole Professor of Engineering.  From 1984 through 1989, he served as Director of USC's Communication Sciences Institute, and from 1994 to 2000 he was Chairman of the Electrical Engineering Systems Department.  In 1996, Dr. Scholtz formed the Ultrawideband Radio Laboratory (UltRa Lab) to provide facilities for the design and test of impulse radio systems and other novel high-bandwidth high-data-rate wireless mobile communication links. He has served as a consultant to several corporations and government agencies.
+
+His research interests include communication theory, synchronization, signal design, coding, adaptive processing, and pseudonoise generation, and their application to communications and radar systems.  He has co-authored the books Spread Spectrum Communications, the Spread Spectrum Communications Handbook, and Basic Concepts in Information Theory and Coding.
+
+Dr. Scholtz is a Fellow of the IEEE and a member of the National Academy of Engineering.  He has received several best paper awards, including the 1984 Donald G. Fink Prize, 1992 Senior Award and the 2012 Best Paper Award of the IEEE Signal Processing Society, the 2003 S. A. Schelkunoff Prize from the IEEE Antennas and Propagation Society. Dr. Scholtz is a co-recipient of the 2006 Eric E. Sumner Medal from the IEEE “for pioneering contributions to ultra-wide band communications science and technology.”
+
+Dr. Scholtz has been an active member of the IEEE for many years, manning several organizational posts, including Finance Chairman for the 1977 National Telecommunications Conference, Program Chairman for the 1981 International Symposium on Information Theory, and Board of Governors positions for the Information Theory Group and the Communications Society. He has been General Chairman of seven workshops in the area of communications, including most recently three ultrawideband radio workshops.
+
+# research_summary
+
+Research Summary Communication theory, spread-spectrum techniques, ultra-wideband radio, pseudo-noise generation, applications to communication and radar systems.
+

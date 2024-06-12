@@ -1,0 +1,35 @@
+# position
+
+WiSE Gabilan Assistant Professor and Assistant Professor of Industrial and Systems Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Stochastic Analysis
+## Mathematical Finance
+## Game Theory
+## Data-driven Decision Making
+## Reinforcement Learning
+
+
+# publications
+
+Title: Recent advances in reinforcement learning in finance, 2023
+Title: A general framework for learning mean-field games, 2023
+Title: Dynamic programming principles for mean-field controls with learning, 2023
+Title: Policy gradient methods find the Nash equilibrium in N-player general-sum linear-quadratic games, 2023
+Title: Model-free analysis of dynamic trading strategies, 2023
+Title: Policy Gradient Converges to the Globally Optimal Policy for Nearly Linear-Quadratic Regulators, 2023
+Title: Linear-quadratic Gaussian Games with Asymmetric Information: Belief Corrections Using the Opponents Actions, 2023
+Title: Delay-Adaptive Learning in Generalized Linear Contextual Bandits, 2023
+Title: Entropy regularization for mean field games with learning, 2022
+Title: A class of stochastic games and moving free boundary problems, 2022
+
+

@@ -1,0 +1,30 @@
+# position
+
+Associate Professor of Occupational Science and Occupational Therapy, Biokinesiology and Physical Therapy, Neurology, and Biomedical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+
+
+# publications
+
+Title: Corpus callosal microstructure predicts bimanual motor performance in chronic stroke survivors: A preliminary cross-sectional study, 2023
+Title: A standardized protocol for manually segmenting stroke lesions on high-resolution T1-weighted MR images, 2023
+Title: White Matter Integrity and Chronic Poststroke Upper Limb Function: An ENIGMA Stroke Recovery Analysis, 2023
+Title: Data-driven biomarkers outperform theory-based biomarkers in predicting stroke motor outcomes, 2023
+Title: Association of Brain Age, Lesion Volume, and Functional Outcome in Patients With Stroke, 2023
+Title: Optimizing automated white matter hyperintensity segmentation in individuals with stroke, 2023
+Title: Acceptability of a Telerehabilitation Biofeedback System Among Stroke Survivors: A Qualitative Analysis, 2023
+Title: The impact of individual stroke lesions on tDCS current flow compared to neurotypical age-matched controls, 2023
+Title: The ENIGMA Stroke Recovery Working Group: Big data neuroimaging to study brain–behavior relationships after stroke, 2022
+Title: A large, curated, open-source stroke neuroimaging dataset to improve lesion segmentation algorithms, 2022
+
+

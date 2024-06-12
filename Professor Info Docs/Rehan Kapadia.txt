@@ -1,0 +1,34 @@
+# position
+
+Associate Professor of Electrical and Computer Engineering
+
+# biography
+
+Professor Kapadia joined the faculty of the University of Southern California in the Ming Hsieh Department of Electrical Engineering in July 2014. He received his bachelors in electrical engineering from the University of Texas at Austin in May 2008, and his Ph.D. in electrical engineering from the University of California, Berkeley in May 2013. During his time at Berkeley, he was a National Science Foundation Graduate Research Fellow, and also won the David J. Sakrison Memorial Prize for outstanding research. He has also won an AFOSR Young Investigator Award (2016), an ONR Young Investigator Award (2021), and the AVS Peter Mark Memorial Award (2020).
+
+# research_summary
+
+Research Summary His interests lie at the intersection of material science and electrical engineering. Specifically in researching the next-generation electronic and photonic devices as well as the material growth techniques necessary to fabricate these devices. He has authored journal articles relating to electronic devices, photonic devices, nanomaterials growth and applications, and thin-film growth. Notably, he has developed new techniques for growing and integrating compound semiconductors with arbitrary substrates. He has authored over 30 journal articles and holds multiple patents. Rehan Kapadia Research Summary
+
+# interests
+
+## Materials
+## Energy
+## Electronics
+## Photonics
+
+
+# publications
+
+Title: Theoretical analysis of resonant tunneling enhanced field emission, 2023
+Title: H03-Low-Dimensional Materials 2, 2023
+Title: A Vacuum Insulator Negative Electron Affinity Electron Emitter with High Quantum Efficiency, 2023
+Title: An Air Stable, Electronically Tunable Negative Electron Affinity Silicon Photocathode, 2023
+Title: Electronically-tunable, air-stable, negative electron affinity semiconductor photocathode, 2023
+Title: Ultra-low power in-sensor neuronal computing with oscillatory retinal neurons for frequency-multiplexed, parallel machine vision, 2023
+Title: Electro-optic symmetry breaking of BIC modes for tunable infrared emissivity, 2023
+Title: Hot Electron Light Assisted Cathode by Electronically Tunable Negative Electron Affinity, 2023
+Title: Reconfigurable thermal emissivity using infrared metamaterials, 2023
+Title: Carbon nanotube substrates enhance SARS-CoV-2 spike protein ion yields in matrix-assisted laser desorption–ionization mass spectrometry, 2023
+
+

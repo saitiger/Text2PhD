@@ -1,0 +1,30 @@
+# position
+
+Senior Lecturer of Aerospace and Mechanical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Computational Mechanics
+## Boundary Element Methods
+## Wave Propagation
+## Biomechanics
+
+
+# publications
+
+Title: Dynamic stress concentration for multiple multilayered inclusions embedded in an elastic half-space subjected to SH-waves, 2016
+Title: Potential Use of a Polycarbonate-urethane Matrix Reinforced with Polyethylene Fibers for Shock-absorbing Dental Implants, 2015
+Title: Scattering of a plane harmonic sh-wave and dynamic stress concentration for multiple multilayered inclusions embedded in an elastic half-space, 2015
+Title: Scattering of a plane harmonic SH wave by multiple layered inclusions, 2014
+Title: Scattering of a plane harmonic SH wave by a rough multilayered inclusion of arbitrary shape, 2013
+Title: Theoretical Analysis of Tube Hydroforming of Round Tubes into Square Sections, 2009
+
+

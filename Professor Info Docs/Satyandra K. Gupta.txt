@@ -1,0 +1,46 @@
+# position
+
+Smith International Professorship in Mechanical Engineering and Professor of Aerospace and Mechanical Engineering and Computer Science
+
+# biography
+
+Dr. Satyandra K. Gupta holds Smith International Professorship in the Aerospace and Mechanical Engineering Department and the Department of Computer Science in the Viterbi School of Engineering at the University of Southern California. He is also the founding director of the Center for Advanced Manufacturing at the University of Southern California. Prior to joining the University of Southern California, he was a Professor in the Department of Mechanical Engineering and the Institute for Systems Research at the University of Maryland, College Park. He was also the founding director of the Maryland Robotics Center and the Advanced Manufacturing Laboratory at the University of Maryland. In addition, he served as a Program Director for the National Robotics Initiative at the National Science Foundation from September 2012 to September 2014. Before joining the University of Maryland, he was a Research Scientist in the Robotics Institute at Carnegie Mellon University.
+
+Dr. Gupta received a Bachelor of Engineering (B.E.) degree in Mechanical Engineering from the University of Roorkee (currently known as the Indian Institute of Technology, Roorkee) in 1988. He received a Gold Medal for securing the first rank in his B.E. class (1988) and a Gold Medal for the best Engineering Design Project (1988). He received a Master of Technology (M. Tech.) in Production Engineering from the Indian Institute of Technology, Delhi, in 1989. He received a Ph.D. in Mechanical Engineering from the University of Maryland, College Park, in 1994. During his Ph.D. study, he was awarded a Graduate School Fellowship.
+
+Dr. Gupta's research is focused on developing human-centered automation to increase human productivity, reduce health risks for humans, and enable innovation. He is developing the next generation of robotic solutions that can serve as smart assistants for humans and creating decision support systems that empower humans to make more informed decisions in a timely manner. He is making advances in physics-informed artificial intelligence and machine learning to realize smart robotic assistants and decision support systems that operate in domains characterized by model uncertainty, complex physics, and fast decision-making speeds. His team's primary research applications include multi-agent environment monitoring and information gathering, computer-aided design, and smart manufacturing. He is currently developing smart robotic assistants for a wide variety of manufacturing operations such as assembly, composite prepreg layup, kitting, finishing, inspection, and machine tending. He is also designing robotic cells for multiscale additive manufacturing.
+
+He is best known for the following five notable contributions. First, he holds a U.S. Patent titled Apparatus and Method for Multi-Purpose Setup Planning for Sheet Metal Bending Operations. Japanese machine tool manufacturer Amada used this patent to develop automated process planning software for robotic pressbrakes, widely used in the sheet metal industry. Second, he led the development of an in-mold assembly process to realize geometrically complex heterogeneous structures cost-effectively. These advances have enabled the use of novel, bio-inspired design concepts in applications such as robotics, bio-medical devices, thermal management systems, and aerospace structures. Third, by integrating perception, planning, and control, his group has turned optical tweezers into robots to precisely manipulate microscale objects. This micromanipulation capability is useful for safely manipulating biological cells and significantly reduces the human effort needed to conduct biological experiments. Fourth, his group invented Robo Raven, the first robotic bird capable of flying outdoor using independent wing control and performing aerobatic maneuvers. Finally, his group developed smart robotic assistants for increasing human productivity and reducing human health risks for high-mix manufacturing applications. GrayMatter Robotics, a company Dr. Gupta co-founded with his Ph.D. students, has commercialized robotic sanding and polishing solutions. He has authored more than four hundred articles in journals, conference proceedings, and book chapters. In addition, he has delivered more than one hundred and sixty invited seminars and lectures. 
+
+Dr. Gupta is a fellow of the American Society of Mechanical Engineers (ASME), Institute of Electrical and Electronics Engineers (IEEE), Society of Manufacturing Engineers (SME), and Solid Modeling Association (SMA). He is a former Editor-in-Chief of the ASME Journal of Computing and Information Science in Engineering. He serves as a member of the Technical Advisory Committee for Advanced Robotics for Manufacturing (ARM) Institute and a member of the National Materials and Manufacturing Board. He has served as a member of the Autonomy Summer Study Task Force for the Defense Science Board.
+
+Dr. Gupta has received numerous honors and awards for his contributions to the scientific community. Representative examples include: the Young Investigator Award from the Office of Naval Research in 2000, Robert W. Galvin Outstanding Young Manufacturing Engineer Award from the Society of Manufacturing Engineers in 2001, CAREER Award from the National Science Foundation in 2001, Presidential Early Career Award for Scientists and Engineers (PECASE) in 2001, Invention of the Year Award at the University of Maryland in 2007, Kos Ishii-Toshiba Award from ASME in 2011, Excellence in Research Award from ASME Computers and Information in Engineering Division in 2013, Distinguished Alumnus Award from Indian Institute of Technology, Roorkee in 2014, ASME Design Automation Award in 2021, and Distinguished Alumni Award from Indian Institute of Technology, Delhi in 2022. He was named "The 20 most influential professors in smart manufacturing" by Smart Manufacturing Magazine in June 2020. The Viterbi School of Engineering gave him Use-Inspired Research Award in 2021 for creating solutions that address the U.S. aerospace and defense industry's needs in the advanced manufacturing area. He has also received ten best paper awards at international conferences. He served as a mentor for the student team that won the 2017 ARIAC competition organized by the National Institute of Standards and Technology, and another team advised by him was a finalist for the 2017 Kuka Innovation Award.      
+
+Dr. Gupta's work has received significant attention from the media. His work has been covered by Economist, Forbes, Huffington Post, Baltimore Sun, LA Times, LA Business Journal, Audubon Magazine, IEEE Spectrum, Mechanical Engineering Magazine, Science News, and Smithsonian Magazine.
+
+# research_summary
+
+Research Summary I am interested in developing human-centered automation solutions to increase human productivity, reduce human health risks, and enable innovation. Realizing human-centered automation requires robotics and automation technologies to reduce the physical human effort and enable humans to focus their effort on high-value tasks. It also requires augmenting human decision-making capabilities to reduce the probability of making mistakes, enabling creativity, and increasing decision-making speed. I believe that robots can serve as smart assistants for humans. Many emerging robotics applications require multiple collaborating robots to operate under human supervision. To be useful in such applications, smart robotic assistants will need
+
+# interests
+
+## Human-Centered Automation
+## Computer Aided Design
+## Robotics
+## Smart Manufacturing
+
+
+# publications
+
+Title: A survey of wheeled mobile manipulation: A decision-making perspective, 2023
+Title: Contact optimization for non-prehensile loco-manipulation via hierarchical model predictive control, 2023
+Title: Physics Informed Synthetic Image Generation for Deep Learning-Based Detection of Wrinkles and Folds, 2023
+Title: Generating Task Reallocation Suggestions to Handle Contingencies in Human-Supervised Multi-Robot Missions, 2023
+Title: System and method for autonomously scanning and processing a part, 2023
+Title: The Role of Deep Learning in Manufacturing Applications: Challenges and Opportunities, 2023
+Title: Informed Sampling-Based Planning to Enable Legged Robots to Safely Negotiate Permeable Obstacles, 2023
+Title: System and method for autonomously scanning and processing a part, 2023
+Title: Hybrid formation of multi-layer prepreg composite sheet layup, 2023
+Title: Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications, 2023
+
+

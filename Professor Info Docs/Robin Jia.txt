@@ -1,0 +1,31 @@
+# position
+
+Assistant Professor of Computer Science
+
+# biography
+
+Robin Jia is an Assistant Professor of Computer Science at USC. He received his Ph.D. in Computer Science from Stanford University, where he was advised by Percy Liang.  He has also spent time as a postdoctoral researcher at Facebook AI Research, working with Luke Zettlemoyer and Douwe Kiela. Robin is interested broadly in natural language processing and machine learning, with a particular focus on robustness and question answering. Robin’s work has received an Outstanding Paper Award at EMNLP 2017 and a Best Short Paper Award at ACL 2018.
+
+# research_summary
+
+
+
+# interests
+
+## natural language processing
+
+
+# publications
+
+Title: Data Curation Alone Can Stabilize In-context Learning, 2023
+Title: Contrastive Novelty-Augmented Learning: Anticipating Outliers with Large Language Models, 2023
+Title: Estimating Large Language Model Capabilities without Labeled Test Data, 2023
+Title: How Predictable Are Large Language Model Capabilities? A Case Study on BIG-bench, 2023
+Title: Chain-of-Questions Training with Latent Answers for Robust Multistep Question Answering, 2023
+Title: Operationalizing content moderation" accuracy''in the Digital Services Act, 2023
+Title: SCENE: Self-Labeled Counterfactuals for Extrapolating to Negative Examples, 2023
+Title: Knowledge base question answering by case-based reasoning over subgraphs, 2022
+Title: On Continual Model Refinement in Out-of-Distribution Data Streams, 2022
+Title: Are Sample-Efficient NLP Models More Robust?, 2022
+
+

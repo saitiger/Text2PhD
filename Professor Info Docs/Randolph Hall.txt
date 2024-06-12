@@ -1,0 +1,44 @@
+# position
+
+Professor of Industrial and Systems Engineering 
+
+# biography
+
+Randolph Hall is Dean's Professor in the Epstein Department of Industrial and Systems Engineering and director of USC's CREATE center.  His research focuses on how universities innovate in their practices for education, research and clinical care, and how they overcome the obstacles to change, as well as how health systems prepare and respond to contagious  disease.  He is writing the book Breaking Tradition, Trust and Innovation in the American University for MIT Press.
+
+https://create.usc.edu/
+https://www.researchgate.net/profile/Randolph_Hall/
+http://covid19datasource.usc.edu
+
+As VP of Research for 14 1/2 years, Hall led research initiatives across the university, overseeing research advancement, administration and ethics activities.  Hall led the creation of USC's strategic plans for diversity and inclusion in research and scholarship, research administration systems, science and technology facilities and alignment of health programs across the university.  His other initiatives included rigor and transparency in the conduct of research, research mentoring, and reinvention of research practices through  collaboration and technology.  
+
+Hall's other experience includes serving as the founder/principal investigator for two national research centers, the Center for Risk and Economic Analysis of Terrorism Events (CREATE), and the National Center for Metropolitan Transportation Research (METRANS). He also served as senior associate dean for research in the Viterbi School of Engineering for four years. Hall was chair of Industrial and Systems Engineering during a period when the faculty size grew by 50%, department rank rose to the top 20 in the U.S., and when it became the first named academic department at the University of Southern California, upon receipt of a $10 million gift from Daniel J. Epstein.  His is past board chair for the University Industry Demonstration Partnership, as well as current senior fellow.
+
+Hall is the author of Queueing Methods for Services and Manufacturing (Prentice Hall, 1997) and the editor of Handbook of Transportation Science (Springer, 2003), Patient Flow, Reducing Delay in Healthcare Delivery (Springer, 2006; 2nd Edition, December, 2013) and Handbook of Healthcare System Scheduling (Springer, 2012). He has been funded by the National Science Foundation, U.S. Departments of Homeland Security and Transportation, California Department of Transportation, Los Angeles County Department of Health Services and L.A. Care. Dr. Hall has numerous publications in the areas of transportation, logistics, system engineering, and queueing. Hall received his Ph.D. (1982) and M.S. (1980) in civil engineering from U.C. Berkeley. He received his B.S. in industrial engineering and operations research from U.C. Berkeley in 1979.
+
+# research_summary
+
+Research Summary Transportation operations and logistics; maintenance, routing, scheduling and system design. Transportation systems, traveler information and vehicle automation. Efficiency and effectiveness of health care delivery. Queuing analysis and delay reduction. Integrated capacity planning, forecasting, and public health intervention for improved healthcare delivery. Innovation and entrepreneurship, research policy and higher education strategy.
+
+# interests
+
+## Health systems
+## transportation
+## supply chains
+## innovation
+
+
+# publications
+
+Title: Tracking Covid-19 cases and deaths in the United States: metrics of pandemic progression derived from a queueing framework, 2023
+Title: Incentivizing Impact Through Innovation: An International Review Of University, 2022
+Title: Incentivizing impact through innovation: an international review of university policies, 2022
+Title: University strategic plans: what they say about innovation, 2021
+Title: Students as partners in university innovation and entrepreneurship, 2021
+Title: Tracking COVID-19 Cases and Deaths in the United States: Distribution of Events by Day of Pandemic, 2021
+Title: Inventor Views on University Innovation: a Survey of National Academy of Inventors Fellows, 2021
+Title: Creating the innovative university, 2020
+Title: Dynamic Modeling of Reported COVID-19 Cases and Deaths with Continuously Varying Case Fatality and Transmission Rate Functions, 2020
+Title: VR delivers the goods, 2014
+
+

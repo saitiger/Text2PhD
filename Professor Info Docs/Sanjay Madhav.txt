@@ -1,0 +1,20 @@
+# position
+
+Associate Professor of Information Technology Practice
+
+# biography
+
+Office Hours: For fall 2023, my office hours are M/W 4:30-6:30PM in RRB 212.
+
+Sanjay Madhav is an Associate Professor of Information Technology Practice and teaches several programming and video game programming courses. His flagship course is an undergraduate-level game programming course that he has taught since 2008, but he has taught several other course topics including game engines, data structures, and compiler development. He is the lead faculty for the Video Game Programming minor, and also is heavily involved in the Computer Programming minor.
+
+Sanjay is the author of Game Programming in C++, Game Programming Algorithms and Techniques, and co-author of Multiplayer Game Programming. He is also the recipient of the Information Technology Program's 2015 Award for Outstanding Faculty and the Viterbi School of Engineering's 2016 Dean's Award for Innovation in Teaching and Education.
+
+Prior to joining USC, Sanjay worked as a programmer at several video game developers including Electronic Arts, Neversoft, and Pandemic Studios. His credited games include Medal of Honor: Pacific Assault, Tony Hawk’s Project 8, Lord of the Rings: Conquest, and The Saboteur. He continues to consult in the game industry.
+
+Sanjay has both a BS and MS in Computer Science from USC.
+
+# research_summary
+
+
+

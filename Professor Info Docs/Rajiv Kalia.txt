@@ -1,0 +1,12 @@
+# position
+
+Professor of Physics and Astronomy, Computer Science, Chemical Engineering and Materials Science, and Biomedical Engineering
+
+# biography
+
+Rajiv Kalia is a professor of computer science, chemical engineering, and materials science in the USC Viterbi School of Engineering, and a professor of physics and astronomy in the USC Dornsife College of Letters, Arts, and Sciences. Kalia is a Fellow of the American Physical Society and has been awarded a Foundation for Fundamental Research on Matter (FOM) Fellowship in the Netherlands; a Sustained Excellence Award in Ultra Dense, Ultra Fast Computing Components from the Defense Advanced Research Projects Agency (DARPA); and a USC Viterbi School of Engineering Senior Research Award.
+
+# research_summary
+
+Research Summary Kalia and his team perform multi-scale simulations of nano-structured materials and processes using quantum molecular dynamics (QMD), reactive molecular dynamics (RMD), and dissipative particle dynamics stimulations of hard and soft materials. Current research efforts are focused on petascale simulations of: 1) synthesis of layered materials and thermo-mechanical, electrical and optical properties of layered material architectures; 2) self-healing nanoomaterials capable of sensing and repairing damage in harsh chemical environments and in high-temperature/high-pressure operating conditions; 3) structural and dynamic correlation in fluids confined in nanoporous materials; 4) nanoengineered energetic materials and munitions under extreme conditions; 5) shock propagation and pressure-induced
+

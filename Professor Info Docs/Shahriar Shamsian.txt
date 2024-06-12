@@ -1,0 +1,28 @@
+# position
+
+Senior Lecturer of Computer Science
+
+# biography
+
+Educational background:
+BS in Structural Engineering, University of Michigan, Ann Arbor, 1977-1980
+MS in Structural Engineering, University of Michigan, Ann Arbor, 1980- 1982
+MS in Computer Science, DePaul University, Chicago, 1985-1987
+PhD in Computer Science, UCLA, 1993-1997
+
+Academic Experience:
+University of Southern California - 2004 - now
+Lecturer, Computer Science Department
+Currently teaching a graduate level class in the area of algorithm design and analysis.
+
+University of California, Los Angeles - 1997 - 1999
+Lecturer, Computer Science Department
+Held classes in the areas of object oriented programming methodologies, C++, and machine languages.
+
+Industry experience:
+Extensive sofwtare development experience. Has held various technical, managerial, and consulting roles in software development organizations.
+
+# research_summary
+
+
+

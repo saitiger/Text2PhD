@@ -1,0 +1,14 @@
+# position
+
+Lecturer of Information Technology
+
+# biography
+
+Dr. Sinan Seymen holds a PhD in Industrial Engineering and Management Sciences from Northwestern University, complemented by MS degrees in Industrial Engineering from both Northwestern University and Sabanci University. 
+
+Dr. Sinan previously taught statistics, introduction to industrial engineering, leadership, production and service systems planning and design, and organizational behavior classes. He strives to inspire and guide his students towards personal growth, critical thinking, and creative problem-solving while fostering an exciting and interactive learning environment.
+
+# research_summary
+
+Research Summary Dr. Sinan is experienced in conducting research and teaching in the fields of data analytics, machine learning, optimization, and recommender systems. He is interested in furthering research that are applicable to real-world problems in these areas. His research investigates applications of constrained optimization models to MORS (multi-objective recommender system) problems. His work focuses on approaches that aim to find optimal or near-optimal solutions to complex recommender system problems by recommending personalized item lists holistically.
+

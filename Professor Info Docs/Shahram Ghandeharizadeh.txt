@@ -1,0 +1,36 @@
+# position
+
+Associate Professor of Computer Science
+
+# biography
+
+Shahram Ghandeharizadeh received his Ph.D. degree in Computer Science from the University of Wisconsin, Madison, in 1990. Since then, he has been on the faculty at the University of Southern California. In 1992, Dr. Ghandeharizadeh received the National Science Foundation Young Investigator's Award for his research on the physical design of parallel database systems. In 1995, he received an award from the School of Engineering at USC in recognition of his research activities. He was a recipient of the ACM Software System Award 2008 for his contributions to Gamma, a scalable database management system. His research interests include design, implementation and evaluation of novel architectures for high performance data intensive applications, multimedia based social networking systems, parallel database systems, and active databases. He has served on the organizing committees of numerous conferences; most recently as the general chair of FAB 2019 and VLDB 2019. His activities are supported by several grants from the National Science Foundation, Oracle, Microsoft, BMC Software, and Hewlett-Packard. He is the director of the database laboratory at USC. He was a member of ACM SIGMOD executive committee and the Editor-in-Chief of ACM SIGMOD DiSC from 2003 to 2006. He served as a member of the Council of Directors of Kodaikanal International School from 2005 to 2008.
+
+Three Recent Publications:
+1. Modeling Illumination Data with Flying Light Specks. ACM Multimedia Systems, Vancouver, Canada, June 7-10, 2023.  With H. Alimohammadzadeh and D. Mehraban.
+2. Display of 3D Illuminations using Flying Light Specks.  ACM-Multimedia, Lisbon, Portugal, October 10-14, 2022.
+3. Disaggregated Database Management Systems.  Fourteenth TPC Technology Conference on Performance Evaluation and Benchmarking, Sydney, Australia (and hybrid), September 5-9, 2022.  With P. Bernstein, D. Borthakur, H. Huang, J. Menon, and S. Puri.
+
+# research_summary
+
+Research Summary 3D displays, Cache-augmented database stores, decentralized algorithms for management of data in ad-hoc networks of wireless devices, information integration and service-oriented-architectures.
+
+# interests
+
+## Database management systems
+
+
+# publications
+
+Title: Modeling Illumination Data with Flying Light Specks, 2023
+Title: Dronevision: An Experimental 3D Testbed for Flying Light Specks, 2023
+Title: An Evaluation of Three Distance Measurement Technologies for Flying Light Specks, 2023
+Title: Display of 3D Illuminations using Flying Light Specks, 2022
+Title: Safety in the Emerging Holodeck Applications, 2022
+Title: Disaggregated Database Management Systems, 2022
+Title: Nova-LSM: a distributed, component-based LSM-tree key-value store, 2021
+Title: Holodeck: Immersive 3D Displays Using Swarms of Flying Light Specks, 2021
+Title: Boosting OLTP Performance Using Write-Back Client-Side Caches, 2021
+Title: Design, implementation, and evaluation of write-back policy with cache augmented data stores, 2019
+
+

@@ -1,0 +1,35 @@
+# position
+
+Associate Professor of Industrial and Systems Engineering and Computer Science, Viterbi Early Career Chair in Engineering
+
+# biography
+
+I am a WiSE Gabilan Assistant Professor, an Assistant Professor of Industrial & Systems Engineering and Computer Science at the University of Southern California, and an Associate Director of the CAIS Center for Artificial Intelligence in Society. Prior to joining USC, I was a lecturer in the Operations Research and Statistics Group at the MIT Sloan School of Management, and a postdoctoral research associate in the Operations Research Center at MIT. I hold a PhD degree in Operations Research and an MEng degree in Electrical & Electronic Engineering, both from Imperial College London.
+
+# research_summary
+
+Research Summary My research is focused on optimization, artificial intelligence, and machine learning, in particular on algorithmic fairness, interpretability, and robustness. My mission is to design systems that drive efficient decision-making while addressing bias and inequality, to tackle problems such as homelessness, substance use, suicide prevention, and organ allocation. My work strives to better assist underserved and marginalized communities in these areas by giving them an active role in the design of the AI systems that affect them. I am a recipient of the NSF CAREER award and the USC Viterbi Junior Research Award and, jointly with my students, earned
+
+# interests
+
+## Optimization
+## Operations Research
+## Artificial Intelligence
+## Analytics
+## Machine Learning
+
+
+# publications
+
+Title: A community-partnered approach to social network data collection for a large and partial network, 2023
+Title: Fairness in contextual resource allocation systems: metrics and incompatibility results, 2023
+Title: Learning Optimal Fair Decision Trees: Trade-offs Between Interpretability, Fairness, and Accuracy, 2023
+Title: ODTlearn: A Package for Learning Optimal Decision Trees for Prediction and Prescription, 2023
+Title: Deploying a Robust Active Preference Elicitation Algorithm: Experiment Design, Interface, and Evaluation for COVID-19 Patient Prioritization, 2023
+Title: Learning resource allocation policies from observational data with an application to homeless services delivery, 2022
+Title: Roc++: Robust optimization in c++, 2022
+Title: Learning Optimal Fair Classification Trees, 2022
+Title: Using algorithmic solutions to address gatekeeper training issues for suicide prevention on college campuses, 2022
+Title: Human-Subject Experiments on Risk-Based Cyber Camouflage Games, 2022
+
+

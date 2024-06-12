@@ -1,0 +1,14 @@
+# position
+
+Part-Time Lecturer of Industrial and Systems Engineering
+
+# biography
+
+Dr. Parisay is a Professor Emeritus in the Industrial and Manufacturing Engineering Department at the California State Polytechnic University, Pomona (Cal Poly Pomona).  Her teaching background includes: ( http://www.cpp.edu/~sparisay/courses.html )
+
+Introduction to Engineering Mathematics (EGR 299), Application of Statistics in Engineering (IME 301),  Engineering Probability and Statistics (IME 312),  Elements of Industrial Engineering Systems (IE 327/L), Engineering Economy (EGR 403), Operations Research I and II (IE 416 and IE 417), Discrete Systems Simulation (IE 429), Artificial Intelligence in Engineering (IME 499), Design of Experiments (IME 435), Advanced Methods in Operations Research (EGR 549), and Advanced Operations Planning and Control (EGR 573).
+
+# research_summary
+
+Research Summary Engineering education, specifically best practices in teaching Simulation and Operations Research courses. Has been extensively involved in American Society for Engineering Education and has received several awards and recognitions including ASEE Outstanding Zone Campus Representative Award for Zone IV 2002-2003. She was also chosen for outstanding contribution to innovative uses of technology in support of teaching and learning by Cal Poly Pomona in 1999.
+

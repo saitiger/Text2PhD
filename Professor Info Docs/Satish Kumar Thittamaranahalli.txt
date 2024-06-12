@@ -1,0 +1,12 @@
+# position
+
+Research Associate Professor of Computer Science, Industrial and Systems Engineering, and Physics and Astronomy
+
+# biography
+
+Prof. Satish Kumar Thittamaranahalli (T. K. Satish Kumar) leads the Collaboratory for Algorithmic Techniques and Artificial Intelligence at the Information Sciences Institute of the University of Southern California. He is a faculty member in USC's Department of Computer Science, Department of Physics and Astronomy, and Department of Industrial and Systems Engineering. He has published extensively on numerous topics spanning such diverse areas as Constraint Reasoning, Planning and Scheduling, Probabilistic Reasoning, Machine Learning and Data Informatics, Robotics, Combinatorial Optimization, Approximation and Randomization, Heuristic Search, Model-Based Reasoning, Computational Physics, Knowledge Representation, and Spatio-Temporal Reasoning. He has served on the Program Committees of many international conferences and is a winner of three Best Paper Awards. Prof. Kumar received his PhD in Computer Science from Stanford University in March 2005. In the past, he has also been a Visiting Student at the NASA Ames Research Center, a Postdoctoral Research Scholar at the University of California, Berkeley, a Research Scientist at the Institute for Human and Machine Cognition, a Visiting Assistant Professor at the University of West Florida, and a Senior Research and Development Scientist at Mission Critical Technologies.
+
+# research_summary
+
+
+

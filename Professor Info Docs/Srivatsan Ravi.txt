@@ -1,0 +1,30 @@
+# position
+
+Research Assistant Professor of Computer Science
+
+# biography
+
+I am a faculty member (assistant professor of research) at the Department of Computer Science and a research scientist at the Information Sciences Institute in University of Southern California. My research interests are centered around the theory and practice of distributed computing. I primarily work on algorithms and lower bounds for fault-tolerant distributed systems.
+
+# research_summary
+
+Research Summary Research statement
+
+# interests
+
+
+
+# publications
+
+Title: FedML-HE: An Efficient Homomorphic-Encryption-Based Privacy-Preserving Federated Learning System, 2023
+Title: The Fence Complexity of Persistent Sets, 2023
+Title: Labeling without Seeing? Blind Annotation for Privacy-Preserving Entity Resolution, 2023
+Title: SoK: The Ghost Trilemma, 2023
+Title: Improved Conflict-Based Search for the Virtual Network Embedding Problem, 2023
+Title: Lessons Learned: Building a Privacy-Preserving Entity Resolution Adaptation of PPJoin using End-to-End Homomorphic Encryption, 2023
+Title: Street Rep: A Privacy-Preserving Reputation Aggregation System, 2023
+Title: P3V: Privacy-Preserving Path Validation System for Multi-Authority Sliced Networks, 2023
+Title: Fedgcn: Convergence and communication tradeoffs in federated training of graph convolutional networks, 2022
+Title: Secure Federated Learning for Neuroimaging, 2022
+
+

@@ -1,0 +1,35 @@
+# position
+
+Adjunct Research Professor of Electrical and Computer Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Optimization
+## Hardware Acceleration
+## Graph Analytics
+## Cyber-Physical Systems
+## Smartgrids
+
+
+# publications
+
+Title: Parallel peeling of Bipartite Networks for hierarchical dense subgraph discovery, 2023
+Title: Graph neural network for accurate and low-complexity SAR ATR, 2023
+Title: A Framework for Monte-Carlo Tree Search on CPU-FPGA Heterogeneous Platform via on-chip Dynamic Tree Management, 2023
+Title: In-vitro effect of different abiotic stresses on the growth and sporulation of Colletotrichum gloeosporioides causing anthracnose of mango, 2023
+Title: Characterizing Speed Performance of Multi-Agent Reinforcement Learning, 2023
+Title: Label Efficient Regularization and Propagation for Graph Node Classification, 2023
+Title: Evaluation of Groundwater Quality for Irrigation-A Case Study of West Godavari District of Andhra Pradesh, 2023
+Title: Seawater Intrusion Mapping Along Penneru River Delta Area, SPS Nellore District, Andhra Pradesh—A Case Study, 2023
+Title: Graph neural network based SAR automatic target recognition with human-in-the-loop, 2023
+Title: PAHD: perception-action based human decision making using explainable graph neural networks on SAR images, 2023
+
+

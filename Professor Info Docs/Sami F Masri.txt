@@ -1,0 +1,34 @@
+# position
+
+Professor of Civil and Environmental Engineering and Aerospace and Mechanical Engineering
+
+# biography
+
+Ph.D. - 1965, California Institute of Technology
+M.S. - 1962, California Institute of Technology
+M.S. - 1961, University of Texas, Austin
+B.S. - 1960, University of Texas, Austin Contact Information
+
+# research_summary
+
+Research Summary * Analysis * Control * Modeling and monitoring of nonlinear dynamic systems.
+
+# interests
+
+## Structural Control and Monitoring
+
+
+# publications
+
+Title: Stochastic multiscale modeling for quantifying statistical and model errors with application to composite materials, 2023
+Title: Normalized energy index-based signal analysis through acceleration trendlines for structural damage detection, 2023
+Title: Data-driven identification of partial differential equations for multi-physics systems using stochastic optimization, 2023
+Title: Data-driven discovery of the governing equations for transport in heterogeneous media by symbolic regression and stochastic optimization, 2023
+Title: CrackDenseLinkNet: a deep convolutional neural network for semantic segmentation of cracks on concrete surface images, 2023
+Title: Structural Identification of a 52-Story High-Rise in Downtown Los Angeles Based on Short-Term Wind Vibration Measurements, 2023
+Title: Structural damage detection method based on the complete ensemble empirical mode decomposition with adaptive noise: A model steel truss bridge case study, 2022
+Title: Vibration feature extraction using signal processing techniques for structural health monitoring: A review, 2022
+Title: Damage detection and characterization of a scaled model steel truss bridge using combined complete ensemble empirical mode decomposition with adaptive noise and multiple signal …, 2022
+Title: Mechanical properties, failure mechanisms, and scaling laws of bicontinuous nanoporous metallic glasses, 2022
+
+

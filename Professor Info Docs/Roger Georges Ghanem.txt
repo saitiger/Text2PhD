@@ -1,0 +1,14 @@
+# position
+
+Tryon Chair in Stochastic Methods and Simulation and Professor of Civil and Environmental Engineering and Aerospace and Mechanical Engineering
+
+# biography
+
+Ph.D., Rice University,1989
+M.S., Rice University, 1985
+B.E., American University, Beirut, Lebanon, 1984
+
+# research_summary
+
+Research Summary Probabilistic modeling and computational stochastic mechanics; quantitative models for the propagation of uncertainty in physical systems; structural dynamics and earthquake engineering; identification and control of dynamical systems; probabilistic multli-scale modeling.
+

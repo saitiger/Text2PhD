@@ -1,0 +1,16 @@
+# position
+
+Senior Lecturer of Information Technology
+
+# biography
+
+Pierson Clair is an experienced incident response leader, certified digital forensic examiner, technical security consultant, and cyber security educator. He is credited with creating the USC Interdisciplinary degree in International Security & Technology, the precursor to the popular Intelligence and Cyber Operations (INCO) degree. Mr. Clair’s unique forensic and cyber security experience includes working with federal, state, and local law enforcement and federal intelligence agencies. 
+
+As a USC Adjunct Faculty member since 2012, he has developed the curriculum for and currently teaches both Apple/iOS computer forensics (ITP 445) and Mobile Device digital forensics (ITP 447) along with teaching ITP 125 an Introduction to Information Security. His specialties lie in the acquisition challenges presented by Apple desktops, laptops, and servers as well as with Apple and other mobile device hardware along with the ejection of long term embedded threat actors. He has worked with private sector clients and is currently a Managing Director with the investigations firm Kroll. His cases have involved both major corporations and small businesses. 
+
+Mr. Clair's 2008 senior thesis at the University of Southern California, Creating Policy to Mitigate Cyber Terror Attack Vectors Against Critical US Infrastructure, outlined the protection of critical national infrastructure against cyber attack. He has a Masters Degree in Digital Forensic Science.
+
+# research_summary
+
+
+

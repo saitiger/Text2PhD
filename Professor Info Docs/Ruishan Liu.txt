@@ -1,0 +1,12 @@
+# position
+
+WiSE Gabilan Assistant Professor and Assistant Professor of Computer Science 
+
+# biography
+
+I am an incoming Assistant Professor of Computer Science at USC, starting January 2024. I received my Ph.D. in Electrical Engineering from Stanford University in 2022, where I was fortunate to work with Prof. James Zou. Currently, I am a postdoctoral scholar in the Department of Biomedical Data Science at Stanford University.
+
+# research_summary
+
+Research Summary My research lies in the intersection of machine learning and its applications in human diseases, health and genomics. (1) AI for Medicine and Healthcare. I work on using AI to advance clinical trials and precision medicine. Very honored that my project Trial Pathfinder - using AI to make clinical trials more inclusive - was selected as 2022 Top Ten Clinical Research Achievement and Finalist for Global Pharma Award 2021. (2) Machine Learning. I develop efficient and reliable machine learning methods with potential applications in biomedicine. For example, I propose new optimal transport formulations to align datasets, language modeling
+

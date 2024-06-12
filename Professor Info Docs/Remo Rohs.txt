@@ -1,0 +1,35 @@
+# position
+
+Professor of Biological Sciences, Chemistry, Physics and Astronomy, and Computer Science
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Computational Biology
+## Structural Biology
+## Bioinformatics
+## Genomics
+## Epigenetics
+
+
+# publications
+
+Title: CRISPR-Cas9 Activities with Truncated 16-Nucleotide RNA Guides Are Tuned by Target Duplex Stability Beyond the RNA/DNA Hybrid, 2023
+Title: DNA binding specificity of all four Saccharomyces cerevisiae forkhead transcription factors, 2023
+Title: Physicochemical models of protein–DNA binding with standard and modified base pairs, 2023
+Title: DNA sequence context and the chromatin landscape differentiate sequence-specific transcription factor binding in the human malaria parasite, Plasmodium falciparum, 2023
+Title: It is in the flanks: Conformational flexibility of transcription factor binding sites, 2022
+Title: Top-Down Crawl: a method for the ultra-rapid and motif-free alignment of sequences with associated binding metrics, 2022
+Title: Genome information processing by the INO80 chromatin remodeler positions nucleosomes, 2021
+Title: Humanizing the yeast origin recognition complex, 2021
+Title: Toward a mechanistic understanding of DNA methylation readout by transcription factors, 2020
+Title: DNAproDB: an expanded database and web-based tool for structural analysis of DNA–protein complexes, 2020
+
+

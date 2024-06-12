@@ -1,0 +1,16 @@
+# position
+
+Research Professor Emeritus of Electrical and Computer Engineering
+
+# biography
+
+Ph.D. in Electrical Engineering, 1962, University of California, Berkeley, CA.
+
+Dr. Mitra received the B.Sc. (Hons.) degree in Physics from the Utkal University, India in 1953, M.Sc. (Tech.) degree in Radio Physics & Electronics from the University of Calcutta, India in 1958, and his M.S. and Ph.D. degrees in Electrical Engineering from the University of California, Berkeley, California in 1960 and 1962, respectively. He joined the Department of Electrical Engineering-Systems as the Stephen and Etta Varra Professor in July 2006. He has published over 640 papers in the areas of analog and digital signal processing, and image processing. He has also authored and co-authored twelve books, and holds five patents.
+
+Dr. Mitra has served IEEE in various capacities including service as the President of the IEEE Circuits & Systems Society in 1986, and has held visiting appointments in Australia, Austria, Finland, Germany, India, Japan, Norway, Singapore and the United Kingdom.  Dr. Mitra is the recipient of the 1973 F.E. Terman Award and the 1985 AT&T Foundation Award of the American Society of Engineering Education, the 1989 Education Award, the 2000 Mac Van Valkenburg Society Award and the Golden Jubilee Medal of the IEEE Circuits & Systems Society, the Distinguished Senior U.S. Scientist Award from the Alexander von Humboldt Foundation of Germany in 1989, the 1996 Technical Achievement Award, the 2001 Society Award and the 2006 Education Award of the IEEE Signal Processing Society, the IEEE Millennium Medal in 2000, the McGraw-Hill/Jacob Millman Award of the IEEE Education Society in 2001, the 2002 Technical Achievement Award of the European Association for Signal Processing (EURASIP), the 2005 SPIE Technology Achievement Award of the International Society for Optical Engineers, the University Medal of the Slovak Technical University, Bratislava, Slovakia in 2005, and the 2006 James H. Mulligan, Jr. Education Medal of the IEEE. He is the co-recipient of the 2000 Blumlein-Browne-Willans Premium of the Institution of Electrical Engineers (London) and the 2001 IEEE Transactions on Circuits & Systems for Video Technology Best Paper Award. He has received Honorary Doctorate degrees from the Tampere University of Technology, Finland, the Technical University of Bucharest, Romania, and the Technical University of Iasi, Romania. He is an Honorary Professor of the Northern Jiaotong University, Beijing, China and the Technical University of Cluj-Napoca, Romania. He was appointed an Honorary Citizen of Cluj-Napoca, Romania in 2007. He is a member of the U.S. National Academy of Engineering, the Norwegian Academy of Technological Sciences, an Academician of the Academy of Finland, a foreign member of the Croatian Academy of Sciences and Arts, a foreign member of the Academy of Engineering, Mexico, a foreign fellow of the Indian National Academy of Engineering and a foreign fellow of the National Academy of Sciences, India. Dr. Mitra is a Fellow of the IEEE, AAAS, and SPIE, and a member of EURASIP
+
+# research_summary
+
+Research Summary Digital signal, image and video processing, data compression, image and video enhancement, image analysis, mixed analog-digital signal processing
+

@@ -1,0 +1,12 @@
+# position
+
+Clinical Associate Professor of Otolaryngology and Biomedical Engineering
+
+# biography
+
+Dr. Ray Goldsworthy received his Bachelor of Science in Physics from the University of Kentucky in 1997 and his Doctor of Philosophy in Health Sciences and Technology from Harvard University and the Massachusetts Institute of Technology in 2005. After completing his doctoral studies, Ray led development teams at Sensimetrics Corporation to design signal processing strategies for cochlear implants and hearing aids, and to provide auditory rehabilitation software to help people with hearing loss make the most of their hearing. Ray joined the University of Southern California as an Associate Professor of Otolaryngology in January, 2014. Ray is a cochlear implant user and is passionate about the interplay of auditory experience, auditory perception, and medical bionics for improving the lives of people with hearing loss.
+
+# research_summary
+
+Research Summary Ray's research combines psychoacoustics, signal processing, and auditory rehabilitation towards improving hearing for the hearing impaired with emphasis on cochlear implant technology. Ray's research examines relationships between fundamental limits of auditory resolution with speech recognition. This line of research provides a foundation for quantifying auditory capacity, and sets the stage for systematically exploring signal processing solutions to enhance hearing for the impaired. Ray's signal processing research focuses on strategies that are inspired by the dynamic processes observed in healthy hearing. These strategies range from spatial beamformers modeled after binaural hearing to cochlear implant stimulation strategies inspired by auditory
+
