@@ -1,0 +1,35 @@
+# position
+
+Arthur B. Freeman Professor and Professor of Chemical Engineering and Materials Science and Aerospace and Mechanical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Metallurgy
+## nano
+## foams
+## multilayers
+## TEM
+
+
+# publications
+
+Title: CoFeNiTix and CrFeNiTix high entropy alloy thin films microstructure formation, 2023
+Title: The mechanical performance of optically tuned ceramic nanomultilayers, 2023
+Title: Distribution of nanodomains in heterogeneous Ni-superalloys: Effect on microstructure and mechanical deformation, 2023
+Title: Progression of the dealloying front in bilayer Cu–Al and Cu–Zn nanoporous foams, 2023
+Title: Correlation between plasma characteristics, morphology, and microstructure of sputtered CuAl alloy films with varied target geometry, 2023
+Title: Atomistic modeling of physical vapor deposition on complex topology substrates, 2022
+Title: Unraveling Thermodynamic and Kinetic Contributions to the Stability of Doped Nanocrystalline Alloys using Nanometallic Multilayers, 2022
+Title: An Overview of Nano Multilayers as Model Systems for Developing Nanoscale Microstructures, 2022
+Title: Coatings for Core–Shell Composite Micro‐Lattice Structures: Varying Sputtering Parameters, 2022
+Title: A review of coated nano-and micro-lattice materials, 2021
+
+

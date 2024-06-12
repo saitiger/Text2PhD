@@ -1,0 +1,38 @@
+# position
+
+Solomon Golomb - Andrew and Erna Viterbi Chair, and Professor of Electrical and Computer Engineering
+
+# biography
+
+Andy Molisch received his degrees (Dipl.Ing. 1990, PhD 1994, Habilitation 1999) from the Technical University Vienna, Austria. He spent the next 10 years in industry, most recently as Chief Wireless Standards Architect at Mitsubishi Electric Research Labs. In 2009 he joined the University of Southern California (USC) in Los Angeles, CA, as Professor, and founded WiDeS. In 2017, he was appointed to the Solomon Golomb – Andrew and Erna Viterbi Chair.
+
+His research interests revolve around wireless propagation channels, wireless systems design, and their interaction. He is particularly interested in wireless channel measurement and modeling for 5G and beyond 5G systems, wireless video distribution, hybrid beamforming, UWB/TOA based localization, caching at the wireless edge, and novel modulation/multiple access methods. Overall, he has published 4 books (among them the textbook “Wireless Communications”, currently in its second edition), 20 book chapters, 250 journal papers, and 350 conference papers. He is also the inventor of 60 granted (and more than 20 pending) patents, and co-author of some 70 standards contributions. He retains a strong interest in bridging academic research and practical applications, real-world standards and products.
+
+Dr. Molisch has been an Editor of a number of journals and special issues, General Chair, Technical Program Committee Chair, or Symposium Chair of multiple international conferences, as well as Chairman of various international standardization groups. He is a Fellow of the National Academy of Inventors, Fellow of the AAAS, Fellow of the IEEE, Fellow of the IET, an IEEE Distinguished Lecturer, and a member of the Austrian Academy of Sciences. He has received numerous awards, among them the IET Achievement Medal for Wireless Communications, the Technical Achievement Awards of both the IEEE Vehicular Technology Society (Evans Avant-Garde Award) and the IEEE Communications Society (Edwin Howard Armstrong Award), as well as the Technical Field Award of the IEEE for Communications, the Eric Sumner Award.
+
+# research_summary
+
+Research Summary Dr. Molisch's current research interests concentrate on the following areas: WIRELESS PROPAGATION: As new wireless technologies are introduced, it is vital to understand and model the properties of the wireless propagation channel that are relevant for those channels. The well-known conventional channel models (Rayleigh fading, Hata pathloss model) are therefore not sufficient for designing and analyzing modern broadband systems. Dr. Molisch is interested in measurement and fundamental modeling techniques for propagation channels for wireless broadband systems – from massive MIMO channels, to vehicle-to-vehicle propagation, ultrawideband channels, to mm-wave and THz channels. Hallmark of his work in the area
+
+# interests
+
+## wireless propagation channels
+## multi-antenna systems
+## ultrawideband communications and positioning
+## cooperative communications
+
+
+# publications
+
+Title: Aspects of channel estimation for orthogonal time frequency space modulation for wireless communications, 2023
+Title: Ray tracing technique for wireless channel measurements, 2023
+Title: Joint compute-caching-communication control for online data-intensive service delivery, 2023
+Title: Wireless communications: from fundamentals to beyond 5G, 2023
+Title: Robust Optimization of RIS in Terahertz under Extreme Molecular Re-radiation Manifestations, 2023
+Title: Delay-Doppler Communications: Principles and Applications, 2023
+Title: Communication techniques using quasi-static properties of wireless channels, 2023
+Title: Novel LoS  THz Channel Unifying Molecular Re-radiation Manifestations, 2023
+Title: Stochastic Geometry Analysis of a New GSCM with Dual Visibility Regions, 2023
+Title: Concurrent Dual Polarization Dielectric Waveguide Interconnect using Inverse Designed Dual-Mode Surface Antenna Launcher, 2023
+
+

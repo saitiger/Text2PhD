@@ -1,0 +1,12 @@
+# position
+
+Associate Professor of Biomedical Engineering
+
+# biography
+
+Prof. Mel received his B.S. in Electrical Engineering and Computer Science at the University of California at Berkeley in 1983, and his Ph.D. in Computer Science at the University of Illinois at Champaign-Urbana in 1989. He spent 5 years as a post-doctoral fellow at Caltech working in the laboratory of Professor Christof Koch. Dr. Mel joined the Biomedical Engineering Department at USC in the Fall of 1994, and established the Laboratory for Neural Computation. He is a member of the Neuroscience Graduate Program and has a joint appointment in the Department of Psychology.
+
+# research_summary
+
+Research Summary Our research interests lie in the areas of Computational Neuroscience and Neural Engineering. Most of the work in my lab involves the use of computer models to study brain function. Some of our goals are of a primarily scientific nature. For example, we use detailed biophysiical modeling studies to study synaptic integration in active dendritic trees, and explore how dendritic trees could contribute to the sensory and memory-related functions of nerve cells. To do this work, we use simulation packages such as NEURON and a variety of custom software developed by members of the lab. Some of our
+

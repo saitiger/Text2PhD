@@ -1,0 +1,34 @@
+# position
+
+Assistant Professor of Gerontology, Neuroscience, and Biomedical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## brain aging
+## dementia
+## deep learning
+## neurogenomics
+
+
+# publications
+
+Title: Anatomically interpretable deep learning of brain age captures domain-specific cognitive impairment, 2023
+Title: 3D printing and processing of miniaturized transducers with near-pristine piezoelectric ceramics for localized cavitation, 2023
+Title: Significant acceleration of regional brain aging and atrophy after mild traumatic brain injury, 2023
+Title: Linking symptom inventories using semantic textual similarity, 2023
+Title: Structural-functional connectivity bandwidth predicts processing speed in mild traumatic brain injury: a multiplex network analysis, 2023
+Title: Brain volume, energy balance, and cardiovascular health in two nonindustrial South American populations, 2023
+Title: Bridging big data: procedures for combining non-equivalent cognitive measures from the ENIGMA Consortium, 2023
+Title: Altered lateralization of the cingulum in deployment-related traumatic brain injury: an ENIGMA military-relevant brain injury study, 2023
+Title: Prevalence of dementia and mild cognitive impairment in indigenous Bolivian forager‐horticulturalists, 2022
+Title: Older age, male sex, and cerebral microbleeds predict white matter loss after traumatic brain injury, 2022
+
+

@@ -1,0 +1,18 @@
+# position
+
+Senior Lecturer of Computer Science
+
+# biography
+
+Bill Cheng received his Ph.D. degree from the Computer Science Department at the University of California at Los Angeles in 1992, his M.S. degree from the Electrical Engineering Department at Stanford University in 1982, and his B.S. degree from the Electrical Engineering Department at the University of California at Los Angeles in 1981.
+
+Bill is currently a Lecturer in the Computer Science Department at the University of Southern California.  Prior to that, he was a Senior Research Scientist and a Lecturer in the Computer Science Department at the University of Maryland at College Park.  Prior to that, Bill worked as a Senior Software Engineer at CyberMedia Inc., a Senior Systems Engineer at Hughes Aircraft Co., a Design Engineer at Teradata Corp., a Member of Technical Staff at Basix Controls Systems Corp., and a Member of Technical Staff at Mattel Electronics.
+
+Bill is currently serving as the ACM SIGMETRICS Bulleting Board editor.  He has served as a general co-chair of the 2003 ACM SIGMETRICS Conference and was also the finance chair of the 1999 ACM SIGMETRICS Conference.  He has served as a web master of ACM SIGMETRICS.
+
+Bill maintains an open source 2-D vector drawing software called tgif, mostly written by himself.  Tgif has been available for download since 1990 and is currently available with various Linux distributions.
+
+# research_summary
+
+Research Summary applied cryptography, networking
+

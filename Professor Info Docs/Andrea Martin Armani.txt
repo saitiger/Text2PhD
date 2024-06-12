@@ -1,0 +1,12 @@
+# position
+
+Ray Irani Chair in Chemical Engineering and Materials Science and Professor of Chemical Engineering and Materials Science, Biomedical Engineering, Electrical and Computer Engineering-Electrophysics, Aerospace and Mechanical Engineering, and Chemistry
+
+# biography
+
+Prof. Armani received her B.A. in the Physics from the University of Chicago and her Ph.D. in Applied Physics from Caltech. She has received numerous awards, including the ONR Young Investigator and the PECASE, and she was named a World Economic Forum Young Global Leader. She is currently the Director of the Northrop Grumman Institute for Optical Nanomaterials and Nanophotonics. The over-arching mission of her research is to develop novel nonlinear materials and integrated optical devices that can be used in portable disease diagnostics and telecommunications.  These efforts include a wide range of topics including materials synthesis, integrated optics and instrument development, and computational modeling. In the materials synthesis area, we use a range of deposition and growth methods, including polymerization reactions (grafting to/from) and VLS growth, to create new optically active and responsive materials.  Leveraging these materials, new integrated photonics devices, such as waveguides and lasers, are invented. These devices are used in both fundamental science and biodetection applications. A core focus is on developing low-cost, portable instruments for both diagnostics and prognostics for a wide range of diseases. As a complementary effort to our experimental work, we perform a significant amount of FEM and FDTD modeling.
+
+# research_summary
+
+Research Summary Research in the Armani Lab combines optics and material synthesis to enable biological and chemical detection as well as therapeutic development. Current projects in photonics are focused on integrating optical components on silicon for telecommunications and biosensing applications. Active bio/chem sensor related projects include the development of a portable optical sensor for water monitoring, the design and demonstration of a new instrument with improved temporal resolution (sub-microsecond), and the detection of cell signaling. Material synthesis and growth is focused on optically active dielectric materials, functional polymer materials and functional nanomaterial growth, specifically development of conformal growth techniques. Additionally,
+

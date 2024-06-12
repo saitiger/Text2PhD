@@ -1,0 +1,35 @@
+# position
+
+Research Assistant Professor of Civil and Environmental Engineering and Aerospace and Mechanical Engineering
+
+# biography
+
+Dr. Amin Ghadami is a Research Assistant Professor at the Sonny Astani Department of Civil and Environmental Engineering. He received his Ph.D. in Mechanical Engineering from the University of Michigan-Ann Arbor in 2019 and was a postdoctoral research fellow at the University of Michigan before joining the University of Southern California in 2023. He received his Ph.D. in Mechanical Engineering (2019) and M.Sc. in Electrical Engineering and Computer Science (2018) from the University of Michigan-Ann Arbor. He also earned his M.Sc. in Mechanical Engineering from Sharif University of Technology (2013) and B.Sc. in Mechanical Engineering from Isfahan University of Technology (2011).
+
+# research_summary
+
+Research Summary Dr. Ghadami's research interest focuses on developing data-driven and artificial intelligence techniques to predict, design, and control the dynamics of complex systems. The ultimate goal is to ensure the systems can best withstand undesirable and unexpected outcomes in their dynamics. These developments range from predicting catastrophic phenomena in the dynamics of natural and engineered systems to analysis and improving the resilience of multi-agent system dynamics while operating in uncertain environments. Research areas: Dynamical systems and control, Data-driven methods, Multi-agent systems
+
+# interests
+
+## Dynamical systems
+## Data-driven methods
+## ML in dynamical systems
+## Multi-agent systems
+## Complex systems
+
+
+# publications
+
+Title: A physics-informed data-driven approach for forecasting bifurcations in dynamical systems, 2023
+Title: Bifurcation analysis of an aeroelastic system under flight varying conditions: A hybrid approach, 2023
+Title: Anticipating epidemic transitions in metapopulations with multivariate spectral similarity, 2023
+Title: Data-driven prediction in dynamical systems: recent developments, 2022
+Title: Data-driven optimization for flutter suppression by using an aeroelastic nonlinear energy sink, 2022
+Title: Task Allocation with Load Management in Multi-Agent Teams, 2022
+Title: Practical guide to using Kendall’s τ in the context of forecasting critical transitions, 2022
+Title: Deep learning for centre manifold reduction and stability analysis in nonlinear systems, 2022
+Title: Evaluating Emergent Coordination in Multi-Agent Task Allocation Through Causal Inference and Sub-Team Identification, 2022
+Title: Design of Flap-Nonlinear Energy Sinks for Post-Flutter Mitigation Using Data-Driven Forecasting, 2022
+
+

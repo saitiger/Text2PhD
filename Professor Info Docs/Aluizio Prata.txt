@@ -1,0 +1,12 @@
+# position
+
+Associate Professor of Electrical and Computer Engineering
+
+# biography
+
+Ph.D. in Electrical Engineering, 1990, USC, Los Angeles, C
+
+# research_summary
+
+Research Summary Applied electromagnetics; applications of electromagnetic theory to microwave, millimeter-wave, infrared, and optical passive devices and antennas.
+

@@ -1,0 +1,30 @@
+# position
+
+WISE Gabilan Assistant Professor and Assistant Professor of Aerospace and Mechanical Engineering
+
+# biography
+
+Dr Alejandra Uranga is currently an Assistant Professor at the USC Department of Aerospace and Mechanical Engineering. Before joining USC in 2016, she was a Postdoctoral Associate (1 years) and then a Research Engineer (4 years) in the Aeronautics and Astronautics Department at MIT. She holds a Bachelor of Science in Aerospace Engineering from Florida Tech, a Master of Applied Sciences in Mechanical Engineering from the University of Victoria, BC, Canada, and a PhD degree in Aeronautics and Astronautics from MIT.
+
+# research_summary
+
+Research Summary Dr Uranga's research interests are in aerodynamics, novel aircraft design, and integrated propulsion systems, for which she favors a combined computational and experimental approach. Her work aims to help achieve environmentally sustainable aviation. She leads the Aerodynamic Research and Design Laboratory at USC.
+
+# interests
+
+
+
+# publications
+
+Title: Design Space Exploration of Blended Wing Bodies, 2021
+Title: Inlet Flow Distortion in an Advanced Civil Transport Boundary Layer Ingesting Engine Installation, 2021
+Title: Capturing Aero-Propulsive Coupling Effects With a Body-Force Propulsor Model, 2021
+Title: Modeling Well-to-Wake Life-Cycle CO2 Emissions for Electrified Aircraft, 2021
+Title: The Feasibility of Electric Propulsion for Commuter Aircraft, 2020
+Title: Power Distribution and Thermal Management Modeling for Electrified Aircraft, 2020
+Title: Design Space Exploration of Future Open Rotor Configurations, 2020
+Title: Development and Validation of Non-Axisymmetric Body-Force Propulsor Model, 2020
+Title: Propulsion System Component Modeling for an All-Electric Commuter Aircraft Mission, 2020
+Title: Feasibility of Electrified Propulsion for Ultra-Efficient Commercial Aircraft Final Report, 2019
+
+

@@ -1,0 +1,35 @@
+# position
+
+Research Assistant Professor of Electrical and Computer Engineering
+
+# biography
+
+Dr. Ajitesh Srivastava is a Research Assistant Professor at the Ming Hsieh Department of Computer and Electrical Engineering. He obtained his PhD in Computer Science at the University of Southern California in 2018. His research interests include network science, modeling, and machine learning applied to epidemics, social good, social networks, and systems. He collaborates with teams around the world and the CDC for infectious disease forecasting and scenario projections. He has been a PI/co-PI of many NSF and DARPA funded awards. He is a DARPA Grand Challenge Winner (2014). He is also an Indian National Math Olympiad Awardee (awarded to 30 students in India in 2008).
+
+# research_summary
+
+Research Summary Dr. Ajitesh Srivastava’s research is centered around the application of network science, modeling, and machine learning to real-world applications. He works on forecasting the trajectories of infectious diseases in presence of changing policies, under-reporting, competing variants, vaccinations, and waning immunity. He is specifically interested in (i) identifying under-reporting reliably without expensive/unreliable seroprevalence data. (ii) developing sophisticated and explainable ensemble models to utilize multiple forecasts, and (iv) developing models of temporal dynamics of competing variants and parameter estimation from genomic data. His other recent research include (a) scaling graph neural networks using sampling based training and inference, (b) reducing
+
+# interests
+
+## Graph Analytics
+## Machine Learning
+## Epidemics
+## Social Good
+## Architecture
+
+
+# publications
+
+Title: Predictive performance of multi-model ensemble forecasts of COVID-19 across European nations, 2023
+Title: Impact of SARS-CoV-2 vaccination of children ages 5–11 years on COVID-19 disease burden and resilience to new variants in the United States, November 2021–March 2022: A multi …, 2023
+Title: Adjusting for Unmeasured Confounding Variables in Dynamic Networks, 2023
+Title: Informing pandemic response in the face of uncertainty. An evaluation of the US COVID-19 Scenario Modeling Hub, 2023
+Title: DTW+ S: Shape-based Comparison of Time-series with Ordered Local Trend, 2023
+Title: Acoustic-to-articulatory inversion for dysarthric speech: Are pre-trained self-supervised representations favorable?, 2023
+Title: Estimating Temporal Trends using Indirect Surveys, 2023
+Title: Spatio-Temporal Attention in Multi-Granular Brain Chronnectomes For Detection of Autism Spectrum Disorder, 2023
+Title: Informing pandemic response in the face of uncertainty. An evaluation of the US COVID-19 Scenario Modeling Hub (preprint), 2023
+Title: Characterising information loss due to aggregating epidemic model outputs, 2023
+
+

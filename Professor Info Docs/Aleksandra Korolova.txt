@@ -1,0 +1,16 @@
+# position
+
+Adjunct Research Assistant Professor of Computer Science
+
+# biography
+
+Research homepage: https://www.korolova.com
+
+I am a WiSE Gabilan Assistant Professor of Computer Science at USC. My research studies societal consequences of algorithms and AI, and aims to develop and deploy algorithms and technologies that enable data-driven innovations while preserving privacy and fairness.
+
+Previously, I was a Privacy Advisor at Snap and a Research Scientist at Google. I received my Ph.D. in Computer Science from Stanford University, where I was a Cisco Systems Stanford Graduate Fellow advised by Prof. Rajeev Motwani and Prof. Ashish Goel. My Ph.D. thesis focused on protecting privacy when mining and sharing user data, and has been recognized by 2011-2012 Arthur L. Samuel Thesis Award for the best Ph.D. thesis in the Computer Science department at Stanford. I am also a co-winner of the 2011 PET Award  for exposing privacy violations of microtargeted advertising and a runner-up for the 2015 PET Award for RAPPOR, the first commercial deployment of differential privacy. I received the NSF CAREER Award in 2020.
+
+# research_summary
+
+Research Summary Developed differentially private algorithms for common data mining tasks such as search log release and malware detection in the local model of privacy, leading to the first commercial deployment of differential privacy. Identified privacy shortcomings in microtargeted advertising, Apple's deployment of differential privacy, and treatment of Bluetooth permissions by mobile OSes, leading to changes in practices and greater transparency. Demonstrated that Facebook's ad delivery optimization algorithms can direct job and housing ads to audiences skewed by race & gender even when advertisers target large, inclusive audiences. Furthermore, showed that Facebook's ad delivery optimization algorithms limit political advertisers' ability
+

@@ -1,0 +1,40 @@
+# position
+
+Ming Hsieh Faculty Fellow in Electrical and Computer Engineering-Systems and Professor of Electrical and Computer Engineering and Computer Science
+
+# biography
+
+Bhaskar Krishnamachari is Professor and Ming Hsieh Faculty Fellow in Electrical Engineering at the Viterbi School of Engineering, University of Southern California. He received his B.E. in Electrical Engineering from The Cooper Union and his M.S. and Ph.D. in Electrical Engineering from Cornell University. He has been a faculty member in the Department of Electrical Engineering since 2002. He also holds a joint appointment in the Department of Computer Science. He is the Director of the Autonomous Networks Research Group, and Co-Director of the Ming Hsieh Institute.
+
+He has co-authored over 300 technical articles on algorithms and protocols for and applications of wireless networks, internet of things, distributed systems, blockchain technologies, artificial intelligence and machine learning. These include papers that have received conference best-paper awards at ACM/IEEE IPSN (2004, 2010), ACM MSWiM (2006), IEEE SECON (2012, Runner-Up), IEOM (2018), IEEE BigMM (2019), IEEE VNC (2021), and COMSNETS-MINDS (2022). Collectively his work has been cited more than 32,000 times (per Google Scholar).
+
+In 2023, Bhaskar Krishnamachari was named an IEEE Fellow. In 2015, he was listed in Popular Science Magazine's "Brilliant Ten" list; and in 2011, he was included in the TR-35 , Technology Review Magazine's annual listing of the top 35 young innovators under the age of 35. He has received the 2010 ASEE Terman Award, given annually to an electrical engineering educator, and the 2010 IEEE-HKN Outstanding Young Electrical and Computer Engineer Award. He has also received the USC-Mellon Award for Mentoring Graduate Students in 2008, the USC Viterbi School of Engineering Junior Faculty Research Award in 2005, and the National Science Foundation CAREER award in 2004. From 2005-2008, he held the Philip and Cayley MacDonald Early Career Endowed Chair at USC.
+
+He has served as an editor/associate editor for the ACM Transactions on Sensor Networks, IEEE Transactions on Wireless Communications, and the IEEE Transactions on Mobile Computing. He helped to compile and co-edit a Themed issue of the Philosophical Transactions of The Royal Society A on Sensor Network Algorithms and Applications, which appeared in January 2012 and also an issue on Learning-Based Decision Making in Dynamic Systems Under Uncertainty in the IEEE Journal of Special Topics in Signal Processing in October 2013. He is a founding editor of the IEEE JSAC special series on Green Communications and Networking. He has authored a textbook titled Networking Wireless Sensors, published by Cambridge University Press, and is co-editor of the Handbook on Blockchain from Springer.
+
+# research_summary
+
+Research Summary Bhaskar Krishnamachari's research interests are focused on the design and analysis of algorithms, protocols, and applications for next generation wireless networks, internet of things, distributed systems, blockchain technologies, artificial intelligence and machine learning, and network economics. On these topics, his research spans the entire spectrum from theoretical analysis of algorithms to prototype software implementations of network protocols and applications.
+
+# interests
+
+## Internet of Things
+## Blockchain
+## Connected Vehicles
+## Online Learning and Deep Reinforcement Learning
+
+
+# publications
+
+Title: Solving math word problems concerning systems of equations with gpt-3, 2023
+Title: Correlation-Aware Neural Networks for DDoS Attack Detection In IoT Systems, 2023
+Title: Partitioning and Deployment of Deep Neural Networks on Edge Clusters, 2023
+Title: Correction to “A Queue-Stabilizing Framework for Networked Multi-Robot Exploration”, 2023
+Title: Holistic Survey of Privacy and Fairness in Machine Learning, 2023
+Title: DARSAN: A Decentralized Review System Suitable for NFT Marketplaces, 2023
+Title: DARSAN: A Decentralized Review System Suitable for NFT Marketplaces, 2023
+Title: MADCS: A Middleware for Anomaly Detection and Content Sharing for Blockchain-Based Systems, 2023
+Title: Search and Rescue on the Line, 2023
+Title: University of Southern California, Los Angeles, CA, USA {jaredcol, lfcheng, bkrishna}@ usc. edu, 2023
+
+

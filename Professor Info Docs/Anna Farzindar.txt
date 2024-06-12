@@ -1,0 +1,70 @@
+# position
+
+Part-Time Lecturer of Computer Science
+
+# biography
+
+Dr. Anna Atefeh Farzindar is a faculty of the Department of Computer Science at University of Southern California (USC) in Los Angeles, where she has been a member since 2015. Also she was research associate and Health Informatics advisor of the NSF's Integrated Media Systems Center (IMSC).
+
+Recently, she co-authored a book in Natural Language Processing for Social Media, published by Morgan and Claypool publishers, 3nd Edition 2020 and was co-editor and author of a book called Transforming Healthcare with Big Data and AI, Information Age Publishing 2020.
+
+Before joining USC, she was the CEO and co-founder of NLP Technologies Inc., a company specializing in Natural Language Processing (NLP), established in Montreal, Canada and was the Adjunct Professor at University of Montreal (2009-2015). She received her PhD in Computer Science from the University of Montreal and her Doctorate in automatic summarization of legal documents from Paris-Sorbonne University ("La mention très honorable" / graduated with highest honors for the top 2%) in 2005.
+
+Dr. Farzindar had built a strong track record of leadership, management and has an entrepreneurial background. She has served as Industry Chair of Canadian Artificial Intelligence Association (2013-2015), Chair of the technology sector of the Language Industry Association Canada (AILIA) (2009-2013), vice president of The Language Technologies Research Centre (LTRC) of Canada (2012-2014), a member of the Natural Sciences and Engineering Research Council of Canada (NSERC) Computer Science Liaison Committee (since 2014) and Member of the Canadian Advisory Committee of International Organization for Standardization (ISO). She was Honorary Research Fellowship at the Research Group in Computational Linguistics at the University of Wolverhampton, UK (2010-2012) and Lecturer at Polytechnique Montreal, engineering school (2012-2014).
+
+Dr. Farzindar won Femmessor-Montréal contest, Succeeding with a balanced lifestyle, in the Innovative Technology and Art. Her paintings have been published in a book titled One Thousand and One Nights in which the palette of vivid colors and her unique contemporary style revolved around on the place of women in modern society.
+=================================
+TEACHING
+=================================
+INF553: Foundations and Applications of Data Mining;
+CSCI 544: Applied Natural Language Processing;
+INF560: Data Science Professional Practicum;
+INF 549: Introduction to Computational Thinking and Data Science; 
+INF 590/CSCI 590: Directed Research.
+=================================
+INVITED TALKS (selected 2018- 2020)
+=================================
+-Tutorial, Applications of Social Media Text Analysis, A. Farzindar and Diana Inkpen , The 33rd  International FLAIRS Conference, North Miami Beach, Florida, USA
+May 2020 (Postponed because of COVID-19).
+
+-Invited panelist at Google, Evolving in Parallel: Synergies between Art and Technology, Women Of MENA In Technology, Google, Venice, California, Feb 2020.
+
+-Invited speaker, Current and Future Trends of Natural Language Processing, Innovative Methods with Big Data and Artificial Intelligence (IM Data), Pasadena Convention Center, Pasadena, California, Dec 2019.
+
+-Invited guest, Intersections of Artificial Intelligence and Healthcare, RMDS Lab Seminar series in Data Science, Pasadena, California, October 2019.
+
+-Invited speaker, Natural Language Processing, Silicon Valley - AI Accelerator Summit, Convention center San Jose, California, 2019.
+
+-Guest speaker, Legal Translation through AI -Focusing on Canada’s Machine Translation Projects, Korea Legislation Research Institute, Seoul, South Korea, Dec 2018.
+
+-Invited speaker, IBM Research Methods and Data Science Meetup, Unlocking the power of social media data using Natural Language Processing, IBM Glendale, CA, March 14, 2018.
+
+-Guest Speaker, How to Discover Social Media Insights using Natural Language Processing, IEEE Coastal Los Angeles Section Computer Society, Loyola Marymount University, March 5, 2018.
+
+# research_summary
+
+Research Summary Natural Language Processing, Health Informatics, Artificial Intelligence, Machine Learning, Machine Translation, Semantics and Text summarization, Social Media
+
+# interests
+
+## Natural Language Processing
+## Big Data
+## Machine Learning
+## Social Media
+## Machine Translation
+
+
+# publications
+
+Title: Location detection and disambiguation from twitter messages, 2017
+Title: A survey of techniques for event detection in twitter, 2015
+Title: Natural language processing for social media, 2015
+Title: Detecting and disambiguating locations mentioned in Twitter messages, 2015
+Title: Linguistic Pre-processing of Social Media Texts, 2015
+Title: Applications of Social Media Text Analysis, 2015
+Title: Conclusion and Perspectives, 2015
+Title: Data Collection, Annotation, and Evaluation, 2015
+Title: Introduction to Social Media Analysis, 2015
+Title: Semantic Analysis of Social Media Texts, 2015
+
+

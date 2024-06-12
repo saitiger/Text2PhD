@@ -1,0 +1,14 @@
+# position
+
+Professor Emerita of Electrical and Computer Engineering 
+
+# biography
+
+Ph.D. in Electrical Engineering, 1975, North Carolina State, Raleigh,  NC.
+
+Alice C. Parker is a Professor of Electrical Engineering at the University of Southern California and is a former Division Director for Computer Engineering, a former Dean of Graduate Studies, and a former Vice Provost for Research at USC. She was elected President of the Academic Senate in 1993. She was previously on the faculty at Carnegie Mellon. Dr. Parker received the B.S.E.E. and Ph.D degrees from North Carolina State University and an M.S.E.E. from Stanford University. She was elected a Fellow of the IEEE for her contributions to design automation in the areas of high-level synthesis, hardware description languages and design representation. She also received an NSF Faculty Award for Women Scientists and Engineers, an NSF Fellowship, an award from ASEE (the Sharon Keillor award), and an teaching award from the Viterbi school.
+
+# research_summary
+
+Research Summary Biomimetic neuromorphic circuits, biomimetic stereo vision, retinal and cortical neuromorphic analog circuits, nanotechnology. BioRC, Biomimetic Real-time Cortex, is Dr. Parker's current research. She is designing CMOS and carbon nanotube neural nanocircuits, and investigating the timetable for a possible synthetic cortex based on statistical predictions. A CMOS neural chip has been fabricated. A carbon nanotube synapse has been fabricated in collaboration with Dr. Chongwu Zhou in Zhou's nanolab. She has incorporated glial cell (astrocyte) interactions in her neuromorphic circuits, and is investigating the role of variability (noise and chaotic behavior) in neural behavior. Dr. Parker had performed high-level synthesis
+

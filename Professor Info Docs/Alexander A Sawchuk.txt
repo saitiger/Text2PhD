@@ -1,0 +1,22 @@
+# position
+
+Professor Emeritus of Electrical and Computer Engineering
+
+# biography
+
+Alexander A. Sawchuk was born in Washington, DC. He received the S.B. degree in electrical engineering from the Massachusetts Institute of Technology, and the M.S. and Ph.D. degrees in electrical engineering from Stanford University. He joined the University of Southern California in 1971, and is now Leonard M. Silverman Chair Professor Emeritus of Electrical and Computer Engineering. From 2005-2012 he was the Chair of the Ming Hsieh Department of Electrical and Computer Engineering-Systems. He has served in the past as Director of the Signal and Image Processing Institute (SIPI) for more than ten years, and as Deputy Director of the Integrated Media Systems Center (IMSC).
+
+His research has involved the use of optoelectronic devices and systems for parallel optical computing, interconnection, network and data storage applications. Other interests include: image processing, immersive media technology, stereo and panoramic video and displays, wireless health, computer vision, and machine learning. He is the holder of two U.S. Patents and is the author or co-author of more than 175 technical publications and 100 talks in these fields, including several books and book chapters. He has taught courses in these and related fields and has supervised the Ph.D. research of more than 40 students.
+
+He is a Fellow of the Optical Society (OSA) and the International Society for Optics and Photonics (SPIE).  He is Life Fellow of the Institute of Electrical and Electronics Engineers (IEEE).  He received the USC Associates Award for Excellence in Teaching, the OSA Distinguished Service Award, the USC Mellon Academic Mentoring Support Program Certificate of Recognition, and the USC Faculty Mentoring Faculty Award.  He also received the Halliburton Award for Exceptional Service, the Lockheed Senior Research Award, and the Outstanding Teaching Award from the USC Viterbi School of Engineering. 
+
+He has served in many professional positions for scientific and technical communities.  He is currently Chair of the Board of Directors of the OSA Foundation.  In the past he has served as Chair of the OSA Planning Committee, Chair of the Technical Council, and Board of Directors Member and Board Executive Committee Member.  He was General Chair of Topical Meetings on Optical Computing, was Associate Editor for Optics Letters, and was Editor of the Information Processing Division of the OSA journal Applied Optics.
+
+He has been a member of the IEEE Photonics Society Electronic Services Committee and was Area Editor for Optical Computing of the Journal of Parallel and Distributed Computing.  He has been a Member, Delegate, and Chair, United States Advisory Committee for the International Commission for Optics (USAC-ICO), and is past Treasurer of the International Commission for Optics (ICO).  He has served often on organizing and technical program committees for the OSA Frontiers in Optics Meeting, Topical Meetings on Optical Computing, Machine Vision, and Smart Pixels, and for many SPIE and IEEE Photonics Society meetings.
+
+He has served as consultant or advisor to several technical companies, including the Aerospace Corporation, Hughes (now Raytheon), TRW (now Northrop-Grumman), Litton, Phaethon Communications and EdgeWave Corporation.  He is a founder of Optivision, Inc. and ONI Systems (now part of Ciena Corporation).
+
+# research_summary
+
+Research Summary Optical computing, interconnections and networks; digital image processing; immersive media technology; wireless health; computer vision; and machine learning.
+

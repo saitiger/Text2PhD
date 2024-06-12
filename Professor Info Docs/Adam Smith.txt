@@ -1,0 +1,12 @@
+# position
+
+Associate Professor of Civil and Environmental Engineering
+
+# biography
+
+Dr. Adam L. Smith received his Ph.D. in Environmental Engineering from the University of Michigan in 2014. He received his M.S.E. in Environmental Engineering from the University of Michigan in 2011 and his B.S. in Civil Engineering from Marquette University in 2009. He is currently as Associate Professor in the Astani Department of Civil and Environmental Engineering at the University of Southern California.
+
+# research_summary
+
+Research Summary Dr. Smith's research evaluates new and emerging environmental biotechnologies to improve the sustainability of water systems. Our water infrastructure is at an important interface between the built and natural environment. Historically, environmental engineers have focused on protecting local water quality by reducing pollutant loading via wastewater treatment. We now strive to encompass broader (e.g., regional and global) environmental protection by developing systems that minimize energy demand and other inputs while recovering resources such as energy, nutrients, and water from waste streams. Dr. Smith's research focuses on anaerobic biotechnologies such as anaerobic membrane bioreactors that are capable of matching
+

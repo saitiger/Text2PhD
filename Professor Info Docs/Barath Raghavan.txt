@@ -1,0 +1,30 @@
+# position
+
+Associate Professor of Computer Science and Electrical and Computer Engineering
+
+# biography
+
+Barath Raghavan received his PhD in Computer Science from UC San Diego in 2009 and his BS in Electrical Engineering and Computer Science from UC Berkeley in 2002.  Before joining USC in 2018, he split his time between industry and academia working on a wide range of projects in core Computer Science areas such as computer networking, security, and distributed systems and on socially-focused topics such as rural Internet access and sustainable agriculture.
+
+# research_summary
+
+Research Summary Dr. Raghavan's research has focused on a wide range of topics in systems and networking, including network protocol design, congestion control, network security, datacenter networking, high-performance networking, wide-area networking, wireless networking. In addition, he has pursued research on a number of socially-focused topics such as rural Internet access, energy efficiency, and computing for sustainable agriculture.
+
+# interests
+
+
+
+# publications
+
+Title: Scheduling Network Function Chains Under Sub-Millisecond Latency SLOs, 2023
+Title: METHODS AND SYSTEMS FOR EFFICIENT AND SECURE NETWORK FUNCTION EXECUTION, 2023
+Title: State spaces for agriculture: A meta-systematic design automation framework, 2023
+Title: SoK: The Ghost Trilemma, 2023
+Title: Quadrant: A cloud-deployable nf virtualization platform, 2022
+Title: The decoupling principle: A practical privacy framework, 2022
+Title: Opening the gate to urban repair: A tool for citizen-led design, 2022
+Title: Distributed anticipatory bidirectional packet steering for software network functions, 2022
+Title: Alternative Pathways to Caring for Limits: The Case of Ecospirituality, 2022
+Title: Semi-automated protocol disambiguation and code generation, 2021
+
+

@@ -1,0 +1,20 @@
+# position
+
+Professor of Industrial and Systems Engineering and Public Policy
+
+# biography
+
+Dr. Ali E. Abbas is Professor of Industrial and Systems Engineering and Professor of Public Policy, a joint appointment between the USC Viterbi School of Engineering and the USC Price School of Public Policy. He also served as the Director of the Neely Center for Ethical Leadership and Decision-Making, and the Center for Risk and Economic Analysis of Terrorism Events (CREATE). 
+
+Before joining USC, Dr. Abbas was the Art Davis Faculty Scholar in the Department of Industrial and Enterprise Systems Engineering, College of Engineering, University of Illinois at Urbana-Champaign. Prior to his time at the University of Illinois, Dr. Abbas was a lecturer in the Department of Management Science and Engineering, Stanford University, where he also earned his Ph.D. in Management Science and Engineering, Ph.D. minor in Electrical Engineering, M.S. in Engineering Economic Systems and Operations Research, and M.S. in Electrical Engineering.
+
+The recipient of multiple awards from the National Science Foundation for his work, Dr. Abbas's research focuses on decision analysis, risk analysis, multiattribute utility theory, and data-based decision-making. He is widely published in books, journals, and conference publications, and has shared his expertise through television appearances, TEDx and other invited talks. He is also associate editor and editor for a wide range of journals including Operations Research, Decision Analysis, IISE Transactions, Decision, and Entropy. 
+
+He is author of numerous books including “Foundations of Multiattribute Utility” by Cambridge University Press, Co-author of “Foundations of Decision Analysis” with Ronald Howard at Stanford University, and author of the forthcoming book “Ethical Decision Quality: Building an Ethical Decision Culture”. He is also editor of numerous books including Books “Improving Homeland Security Decisions” with Detlof von Winterfledt and Milind Tambe, “Next-Generation Ethics” by Cambridge University Press.
+
+Dr. Abbas regularly teaches courses on decision analysis, and has taught numerous executive education courses at a variety of institutions, such as Stanford University, BP, Southern California Edison, the Department of Homeland Security, and numerous other institutions. In addition to his academic career, Dr. Abbas is founder, president, and CEO of Ahoona Corp, a decision making social network that has several thousand users around the world. He has been on the Advisory Boards of Hedgestreet Inc., a binary futures exchange, and is a board member of the Decision Education Foundation, a volunteer nonprofit organization that empowers youth to make better decisions about their lives. Dr. Abbas also has extensive consulting and management experience.
+
+# research_summary
+
+Research Summary • Decision analysis (broadly defined) • Utility theory (risk aversion). • Multiattribute utility theory. • Probability encoding. • Behavioral decision making • Risk analysis for Homeland Security (Broadly defined) • Risk measures and valuation of risky assets. • Investment science. • Information theory (applications to Management Science). • Systems engineering • Constructing value functions for engineering design • Data-based decision making • Bayesian Networks, Boolean Networks, Neural Networks. A Sample of Some Publications Books Howard, R. A., & Abbas, A. E., Foundations of Decision Analysis; Prentice Hall; 2015. Abbas, A. E. 2018. Foundations of Multiattribute Utility; Cambridge University
+

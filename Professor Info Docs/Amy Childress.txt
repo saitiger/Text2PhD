@@ -1,0 +1,37 @@
+# position
+
+Professor of Civil and Environmental Engineering
+
+# biography
+
+Dr. Childress joined the Civil and Environmental Engineering (CEE) Department in summer 2013 as professor and director of CEE's environmental engineering program. Dr. Childress currently serves on the AEESP Foundation Board of Directors and previously served as the AEESP President. She earned her bachelor's degree in civil engineering from the University of Maryland and her master's degree and PhD in civil and environmental engineering from the University of California, Los Angeles. Dr. Childress was previously professor and chair of the Civil and Environmental Engineering Department at the University of Nevada, Reno.
+For the past 20 years, Professor Childress' research and scholarly interests have been in the area of membrane processes for desalination, water treatment, and wastewater reclamation. Professor Childress has directed research projects funded by the U.S. Bureau of Reclamation, NSF, NASA, Office of Naval Research, U.S. Department of Energy, California Energy Commission, California Department of Water Resources, the U.S. EPA, and SERDP, as well as local and private agencies.
+She leads a research group that has produced numerous peer-reviewed publications, proceeding papers, and patents
+
+# research_summary
+
+Research Summary Dr. Childress' research addresses the global challenge of fresh water scarcity. Her current research interests focus on membrane contactor processes for innovative solutions to contaminant and energy challenges; pressure-driven membrane processes as industry standards for desalination and water reuse; membrane bioreactor technology; and colloidal and interfacial aspects of membrane processes. Dr. Childress looks forward to addressing wastewater reclamation and seawater desalination challenges that occur in southern California and around the world. Improvements to drinking water treatment and wastewater reclamation processes are critical for achieving fresh water supply goals. Further, process sustainability through the reduction of discharge by-products to
+
+# interests
+
+## environmental engineering
+## membrane processes
+## desalination
+## wastewater reclamation
+## surface characterizaiton
+
+
+# publications
+
+Title: Augmenting ocean water desalination with potable reuse: Concept feasibility in terms of cost and environmental impacts, 2023
+Title: Wetting indicators, modes, and trade-offs in membrane distillation, 2022
+Title: Zero liquid discharge and water reuse in recirculating cooling towers at power facilities: review and case study analysis, 2022
+Title: Leveraging the water‐energy nexus to derive benefits for the electric grid through demand‐side management in the water supply and wastewater sectors, 2021
+Title: Reclaiming wastewater with increasing salinity for potable water reuse: Water recovery and energy consumption during reverse osmosis desalination, 2021
+Title: Formation and fate of nitromethane in ozone-based water reuse processes, 2021
+Title: National Alliance for Water Innovation (NAWI) Master Technology Roadmap, 2021
+Title: Potential pitfalls in membrane fouling evaluation: merits of data representation as resistance instead of flux decline in membrane filtration, 2021
+Title: Hydrophobicity versus pore size: polymer coatings to improve membrane wetting resistance for membrane distillation, 2020
+Title: A modeling framework to evaluate blending of seawater and treated wastewater streams for synergistic desalination and potable reuse, 2020
+
+

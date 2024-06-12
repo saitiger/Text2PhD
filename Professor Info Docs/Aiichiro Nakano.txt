@@ -1,0 +1,31 @@
+# position
+
+Professor of Computer Science, Physics and Astronomy, and Biological Sciences
+
+# biography
+
+Aiichiro Nakano is a Professor of Computer Science with joint appointments in Physics & Astronomy, Quantitative & Computational Biology, and Collaboratory for Advanced Computing and Simulations at University of Southern California. He received a Ph.D. in physics from University of Tokyo, Japan, in 1989. He has authored 485+ refereed articles in the areas of scalable scientific algorithms, massive data visualization and machine learning, and computational materials science. He is a recipient of  National Science Foundation Career Award (1997), Louisiana State University (LSU) Alumni Association Faculty Excellence Award (1999), LSU College of Basic Sciences Award of Excellence in Graduate Teaching (2000), Best Paper Award at IEEE/ACM Supercomputing 2001 Conference, Best Paper at IEEE Virtual Reality Conference (2002), Okawa Foundation Faculty Research Award (2003), USC Viterbi School of Engineering Senior Research Award (2012), Best Paper Award at IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (2013), US-DOE Aurora Early Science Program award (2017), and Best Paper Award at ACM International Conference on High Performance Computing in Asia-Pacific Region (2020). He is a Fellow of American Physical Society and a member of IEEE, ACM, and MRS.
+
+# research_summary
+
+Research Summary Algorithmic, parallel-computing and visualization techniques for high-end computational sciences on high-end parallel supercomputers and virtual environments, with applications at the interface of information technology, nanotechnology, and biology.
+
+# interests
+
+## High performance computing
+
+
+# publications
+
+Title: Computational framework for polymer synthesis to study dielectric properties using polarizable reactive molecular dynamics, 2023
+Title: Exascale Simulations of Quantum Materials Guided by AI and Quantum Computing, 2023
+Title: Uncovering metallic glasses hidden vacancy-like motifs using machine learning, 2023
+Title: Induction and Ferroelectric Switching of Flux Closure Domains in Strained PbTiO3 with Neural Network Quantum Molecular Dynamics, 2023
+Title: Pressure-Controlled Layer-by-Layer to Continuous Oxidation of ZrS2(001) Surface, 2023
+Title: Tailoring the Angular Mismatch in MoS2 Homobilayers through Deformation Fields, 2023
+Title: Surface doping of MoO3-x on hydrogenated diamond, 2023
+Title: Investigation of water dielectric properties in confined flat plates using molecular dynamics simulations, 2023
+Title: Structure and Dielectric Properties of Water and Aqueous Solutions Using Neural Network Quantum Molecular Dynamics, 2023
+Title: Probing Thermomechanical Properties of Two-dimensional van der Waals Architectures Using Surface Acoustic Waves, 2023
+
+

@@ -1,0 +1,39 @@
+# position
+
+Research Assistant Professor of Electrical and Computer Engineering
+
+# biography
+
+Dr. Akhilesh Jaiswal is a Research Assistant Professor of Electrical and Computer Engineering at USC’s Viterbi School of Engineering. He also serves as a computer scientist with ASIC Lab at the Information Sciences Institute. His current research interest includes device-circuit co-design using existing and alternate state variables for future electronic systems.
+
+Prior to USC/ISI, Dr. Jaiswal served as a Senior Research Engineer for Technology Solutions Group at GLOBALFOUNDRIES. As a Senior Engineer, he worked on developing a compact device model for MRAM-based AI in-memory compute circuits and enabling AI acceleration through hybrid photonic-electronic neuro-mimetic devices. Akhilesh received his Ph.D. degree in Nano-electronics from Purdue University in May 2019 and his Masters degree from the University of Minnesota in May 2014. Dr. Jaiswal was an intern with GLOBALFOUNDRIES Differentiating Technology Lab, Malta, in the summer of 2017 and with ARM Devices-Circuits-System Research Group, Austin, in summer 2018.
+
+Dr. Jaiswal's current research interests include intelligence at extreme-edge using processing-in-pixel and processing-in-sensor technology, hardware-software co-design for efficient distributed computing, bio-inspired paradigms for sensing and compute including neuromorphic systems, electro-optic general-purpose computing among others. Dr. Jaiswal has authored some of the initial pioneering works on Processing-in-Pixel and SRAM based in-memory computing. He is recipient of ISI Exploratory Research Award in 2020, Keston Exploratory Research Award in 2021, IEEE Brain Community Best Paper Award in 2022, and Best Paper Nomination in VLSI-SoC 2022. His research works have been highlighted by various tech websites and edge-ML community. He has authored over 60 articles in peer-reviewed journals and conferences including Nature, Philosophical Transactions of the Royal Society, Physics Review Applied, Scientific Reports, Journal of Applied Physics, IEEE-TVLSI, IEEE TED, IEEE TCAS, IEEE JETCAS, IEEE Mag. Letters etc. Dr. Jaiswal has 27 issued patents with USPTO and several pending patents.
+
+# research_summary
+
+Research Summary Computing platforms for decades have been designed around a basic Boolean switch - 'The Transistor.' Over the years, the vision for computing has changed drastically from room-sized computers to handheld devices. However, the underlying hardware principles largely based on the doctrine of - 'One Device (MOSFET), One Circuit (Synchronous Boolean Logic) and One Architecture (von-Neumann architecture), has fundamentally remained unaltered. No wonder today's computing platforms fail to provide the desired power, performance, and area scaling required for the emerging class of applications, including artificial intelligence, drug discovery, edge computing, Internet-of-Things, etc. As such, the vision for enabling 'Ubiquitous
+
+# interests
+
+## Processing-in-Pixel
+## Spintronics for logic/memories
+## In-memory Computing
+## Neuromorphic Computing
+## CMOS circuits
+
+
+# publications
+
+Title: In-Sensor & Neuromorphic Computing Are all You Need for Energy Efficient Computer Vision, 2023
+Title: Memory with high-accuracy reference-free multi-inverter sense circuit and associated sensing method, 2023
+Title: A 9 Transistor SRAM Featuring Array-level XOR Parallelism with Secure Data Toggling Operation, 2023
+Title: OPEN ACCESS EDITED BY, 2023
+Title: Cryogenic In-Memory Bit-Serial Addition using Quantum Anomalous Hall Effect-based Majority Logic, 2023
+Title: Magneto-electric sensor for hardware trojan detection, 2023
+Title: In-memory bit-serial addition system, 2023
+Title: Backside Optical Coupler: A Novel I/O for Mechanically Stable High Efficiency Fiber Coupling, 2023
+Title: Neuromorphic-P2M: processing-in-pixel-in-memory paradigm for neuromorphic image sensors, 2023
+Title: TREBUCHET: Fully Homomorphic Encryption Accelerator for Deep Computation, 2023
+
+

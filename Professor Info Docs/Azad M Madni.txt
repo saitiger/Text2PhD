@@ -1,0 +1,12 @@
+# position
+
+University Professor of Astronautics, Aerospace and Mechanical Engineering, and Education
+
+# biography
+
+Azad Madni is a University Professor of Astronautics, Aerospace and Mechanical Engineering in the University of Southern California. He is the holder of the Northrop Grumman Fred O’Green Chair in Engineering, and the Executive Director of USC’s Systems Architecting and Engineering Program. He also holds a joint appointment in the Sonny Astani Department of Civil and Environmental Engineering, and courtesy appointments in the Rossier School of Education and Keck School of Medicine. He is the Founding Director of the Distributed Autonomy and Intelligent Systems Laboratory and is a faculty affiliate of USC’s Ginsberg Institute for Biomedical Therapeutics in the Keck School of Medicine. He is the founding director of the Ph.D. degree program in Systems Engineering in Astronautics Department. He is also a Senior Fellow of the Loker Hydrocarbon Research Institute founded by Nobel Laureate, George Olah. He is a member of the London Digital Twin Research Centre. He is the founder and CEO of Intelligent Systems Technology, Inc., an award-winning hi-tech company specializing in model-based approaches for addressing scientific and societal problems of national and global significance. He is the Chief Systems Engineering Advisor to The Aerospace Corporation. He has served as Principal Investigator on 97 R&D projects totaling $100M+.
+
+# research_summary
+
+Research Summary • Exploiting Synergy Between Humans and AI through Augmented Intelligence •Transdisciplinary Systems Engineering and Engineering Education • Leveraging Digital Twin Technology in Model Based Systems Engineering • Model-Based Systems Engineering of Autonomous Systems and System-of-Systems • Adaptive Cyber-Physical-Human Systems and Machine Learning • Interactive Storytelling in Virtual Worlds
+

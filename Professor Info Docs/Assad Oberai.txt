@@ -1,0 +1,35 @@
+# position
+
+Hughes Professor and Professor of Aerospace and Mechanical Engineering
+
+# biography
+
+Assad Oberai is a Professor in the Aerospace and Mechanical Engineering Department at the Viterbi School at USC. Prior to joining USC, he was a Professor in the Department of Mechanical Aerospace and Nuclear Engineering at Rensselaer Polytechnic Institute (RPI), the Associate Dean for Research and Graduate Studies in the School of Engineering, and the Associate Director of the Scientific Computation Research Center (SCOREC). Assad was an Assistant Professor of Aerospace and Mechanical Engineering at Boston University from 2001 to 2005, and joined the Rensselaer faculty in 2006. He received a PhD from Stanford University in 1998, an MS from the University of Colorado in 1994, and a Bachelor’s degree from Osmania University in 1992, all in Mechanical Engineering. Assad is on the Editorial Board of three journals, including PlosOne.
+
+# research_summary
+
+Research Summary Assad heads the Computation and Data Driven Discovery (CD3) group in AME. The CD3 group designs, implements and applies data- and physics-based models and algorithms to solve interesting problems in engineering and science. Problems such as better detection, diagnosis and care of diseases like cancer, understanding the role of mechanics and physics in medicine and biology, modeling the evolution of multi-physics and multiscale systems, and reduced-order models for aerospace and mechanical systems.
+
+# interests
+
+## Mechanical Engineering
+## Biomechanics
+## Biomedical Imaging
+## Computational Sciences
+## Inverse Problems
+
+
+# publications
+
+Title: PRISMA AI reporting guidelines for systematic reviews and meta-analyses on AI in healthcare, 2023
+Title: Stretchable ultrasonic arrays for the three-dimensional mapping of the modulus of deep tissue, 2023
+Title: A Mechanistic Model of Aqueous Humor Flow to Study Effects of Angle Closure on Intraocular Pressure, 2023
+Title: Solution of physics-based inverse problems using conditional generative adversarial networks with full gradient penalty, 2023
+Title: Deep Learning and Computational Physics (Lecture Notes), 2023
+Title: Generative Algorithms for Fusion of Physics-Based Wildfire Spread Models with Satellite Data for Initializing Wildfire Forecasts, 2023
+Title: A Force-Matched Approach to Large-Strain Nonlinearity in Elasticity Imaging for Breast Lesion Characterization, 2023
+Title: Development and experimental verification of an active noise cancellation (ANC) method for non-invasive sensing, 2023
+Title: Radiomics and Artificial Intelligence: Renal Cell Carcinoma, 2023
+Title: MP56-19 MACHINE LEARNING FRAMEWORK-BASED PROGNOSTIC CLASSIFIER FOR PREDICTING RECURRENCE-FREE SURVIVAL IN PATIENTS UNDERGOING RADICAL CYSTECTOMY FOR UROTHELIAL BLADDER CANCER, 2023
+
+

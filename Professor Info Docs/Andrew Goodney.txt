@@ -1,0 +1,30 @@
+# position
+
+Senior Lecturer of Computer Science
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+
+
+# publications
+
+Title: Digital signal transition counters for digital integrated circuits, 2021
+Title: Pervasive power generation system, 2021
+Title: Benefits of exposing K-12 students to computer science through summer camp programs, 2018
+Title: Digital circuit power measurements using numerical analysis, 2017
+Title: Sensing With Sound: Acoustic Tomography and Underwater Sensor Networks, 2015
+Title: Digital signal transition counters for digital integrated circuits, 2014
+Title: Multipulse acoustic tomography: A new technique for mapping water temperatures, 2014
+Title: Efficient PMU networking with software defined networks, 2013
+Title: Acoustic Tomography With An Underwater Sensor Network Custom Acoustic Signal Carries Low-Bandwidth Data, 2013
+Title: Dr. droid: Assisting stroke rehabilitation using mobile phones, 2012
+
+

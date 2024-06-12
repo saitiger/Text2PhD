@@ -1,0 +1,12 @@
+# position
+
+Assistant Professor of Industrial and Systems Engineering
+
+# biography
+
+Andrés Gómez received his B.S. in Mathematics and B.S. in Computer Science from the Universidad de los Andes (Colombia) in 2011 and 2012, respectively. He then obtained his M.S. and Ph.D. in Industrial Engineering and Operations Research from the University of California Berkeley in 2014 and 2017, respectively. From 2017 to 2019, Dr. Gómez worked as an Assistant Professor in the Department of Industrial Engineering at the University of Pittsburgh, and since 2019 he is an Assistant Professor in the Department of Industrial and Systems Engineering at the University of Southern California. Dr. Gómez research focuses on developing new theory and tools for challenging optimization problems arising in finance, machine learning and statistics.
+
+# research_summary
+
+Research Summary The past two decades have witnessed an explosion in the use of optimization to tackle problems arising in data analysis, finance, statistics and, more recently, machine learning. These new application domains demand faster, scalable and more precise algorithms, yet classical optimization tools and techniques have been unable to cope with such requirements. Specifically, there has been an enormous progress in solving convex optimization problems. However, most inference problems are naturally non-convex once priors or interpretability conditions are imposed. Thus, decision-makers are faced with a dichotomy: either construct a (crude) convex approximation of the problem, which can be solved
+

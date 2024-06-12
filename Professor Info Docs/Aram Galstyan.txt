@@ -1,0 +1,33 @@
+# position
+
+Research Professor of Computer Science and Principal Scientist at USC Information Sciences Institute
+
+# biography
+
+Aram Galstyan is a Research Director for Data Science and Machine Learning at the Information Sciences Institute and a Research Associate Professor in the USC Viterbi School of Engineering's Computer Science Department. His current research focuses on different aspects of machine learning, with applications in computational social sciences, forecasting, and bioinfoamtics. His other research interests include ststiatical phsycis of learning and inference, modeling of complex adaptive systems, and learning and adaptation in multi-agent systems.
+
+# research_summary
+
+Research Summary His current research focuses on statistical mechanics based approaches to inference and learning, statistical models of complex networks, and social network analysis. His other research interests include mathematical modeling of complex adaptive systems, emergent coordination in robotic swarms, and learning and adaptation in multi-agent systems.
+
+# interests
+
+## Machine Learning
+## NLU
+## Graphs
+
+
+# publications
+
+Title: Overcoming Concept Shift in Domain-Aware Settings through Consolidated Internal Distributions, 2023
+Title: “I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation, 2023
+Title: An analysis of the effects of decoding algorithms on fairness in open-ended language generation, 2023
+Title: Resolving ambiguities in text-to-image generative models, 2023
+Title: Hybrid forecasting of geopolitical events, 2023
+Title: Partial identification of dose responses with hidden confounders, 2023
+Title: FLIRT: Feedback Loop In-context Red Teaming, 2023
+Title: Neural Architecture Search for Parameter-Efficient Fine-tuning of Large Pre-trained Language Models, 2023
+Title: ACCENT: An Automatic Event Commonsense Evaluation Metric for Open-Domain Dialogue Systems, 2023
+Title: Toward More Accurate and Generalizable Evaluation Metrics for Task-Oriented Dialogs, 2023
+
+

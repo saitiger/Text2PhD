@@ -1,0 +1,35 @@
+# position
+
+Associate Professor of Cinematic Arts and Computer Science
+
+# biography
+
+Andy Nealen is an Associate Professor of Cinematic Arts and Computer Science in the Interactive Media & Games Division at the USC School of Cinematic Arts and the Department of Computer Science at USC Viterbi. He teaches and researches in Game Design, Artificial Intelligence, Computer Graphics, and Game Engineering. Andy's work seeks to increase the accessibility of computer-based tools across a variety of application environments, drawing upon minimalist principles he first encountered while obtaining his Dipl.-Ing. in Architecture and Structural Engineering from TU Darmstadt. In particular, his research leverages and extends our understanding of how humans perceive shape, motion, and color. This focus on minimal and accessible designs for complex systems is evidenced in the Apple-Design-Award-winning game Osmos, as well as in his Sketch-Based Modeling, Game-Space Exploration, and Game Heuristics research. Andy received his PhD in Computer Science from TU Berlin, is a regular speaker at international game and computer graphics conferences, and is a regular contributor to ACM SIGGRAPH.
+
+# research_summary
+
+
+
+# interests
+
+## Game Design
+## Video Games
+## Artificial Intelligence
+## Computer Graphics
+## Geometric Modeling
+
+
+# publications
+
+Title: Generating and adapting to diverse ad-hoc partners in hanabi, 2022
+Title: Evaluating rl agents in hanabi with unseen partners, 2020
+Title: Behavioral evaluation of hanabi rainbow dqn agents and rule-based agents, 2020
+Title: Evaluating the rainbow DQN agent in hanabi with unseen partners, 2020
+Title: Interactive Design Exploration of Game StagesUsing Adjustable Synthetic Testers, 2020
+Title: Diverse agents for ad-hoc cooperation in hanabi, 2019
+Title: Leveling the playing field: Fairness in AI versus human game benchmarks, 2019
+Title: Pitako-recommending game design elements in cicero, 2019
+Title: Evaluation of a recommender system for assisting novice game designers, 2019
+Title: Kwiri-What, When, Where and Who: Everything You Ever Wanted to Know About Your Game But Didn't Know How to Ask., 2019
+
+

@@ -1,0 +1,25 @@
+# position
+
+Associate Professor of Computer Science Practice
+
+# biography
+
+Undergraduate Education:
+
+I received my Bachelor of Science in Computer Science from the University of Washington in 2002.
+
+
+Graduate Education:
+
+I received my Ph.D. in Computer Science from UCLA in 2010. My advisor was Adam Meyerson. My dissertation was on Energy-Efficient Online Algorithms.
+
+
+Lecturer:
+
+University of Southern California
+August 2010 – Present (4 years 9 months).
+
+# research_summary
+
+Research Summary Aaron Cote, Brian Tagiku, Adam Meyerson. Energy-Efficient Mobile Data Transport via Online Multi-Network Packet Scheduling. International Green Computing Conference (IGCC) 2010. Aaron Cote, Adam Meyerson, Laura Poplawski. Randomized K-Server on Hierarchical Binary Trees. AACM Symposium on Theory of Computing (STOC) 2008.
+

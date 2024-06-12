@@ -1,0 +1,33 @@
+# position
+
+Associate Professor of Data Sciences and Operations and Computer Science
+
+# biography
+
+Adel Javanmard is an Associate Professor in the department of Data Sciences and Operation, Marshall School of Business at the University of Southern California, where he also holds a courtesy appointment with the computer science department. Prior to joining USC in 2015, he was a NSF postdoctoral research fellow at the Center for Science of Information, with worksite at UC Berkeley and Stanford University. He completed his PhD at Stanford University in 2014. His research interests are broadly in the area of high-dimensional statistics, machine learning, optimization, and personalized decision-making. Adel is the recipient of several awards and fellowships, including 2021 Alfred P. Sloan Research Fellow in Mathematics, the IMS Tweedie Researcher award, the NSF CAREER award, Adobe Faculty Research award, Google Faculty Research award, the Thomas Cover dissertation award from the IEEE Society, Douglas Basil Award for Junior Business Faculty, the Zumberge Faculty Research and Innovation award, and the NSF CSoI Postdoctoral Fellowship.
+
+# research_summary
+
+Research Summary Professor Javanmard is broadly interested in design and analysis of statistical methods for large-scale data, high-dimensional inference, network analysis, non-convex optimization and personalized decision-making.
+
+# interests
+
+## Machine Learning
+## algorithmic statistics
+## probability theory
+
+
+# publications
+
+Title: Online debiasing for adaptively collected high-dimensional data with applications to time series analysis, 2023
+Title: Adversarial robustness for latent models: Revisiting the robust-standard accuracies tradeoff, 2023
+Title: Measuring Re-identification Risk, 2023
+Title: Learning rate schedules in the presence of distribution shift, 2023
+Title: Causal Inference with Differentially Private (Clustered) Outcomes, 2023
+Title: Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model, 2023
+Title: Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model, 2023
+Title: Learning Rate Schedules in the Presence of Distribution Shift, 2023
+Title: Precise statistical analysis of classification accuracies for adversarial training, 2022
+Title: The curse of overparametrization in adversarial training: Precise analysis of robust generalization for random features regression, 2022
+
+

@@ -1,0 +1,14 @@
+# position
+
+Research Assistant Professor of Industrial and Systems Engineering 
+
+# biography
+
+I am a Research Computer Scientist at the Information Sciences Institute and incoming Research Assistant Professor in the Daniel J. Epstein Dept. of Industrial and Systems Engineering in the School of Engineering at the University of Southern California. I was recently a Research Associate in the Dept. of Population and Public Health Sciences, also at USC.
+
+The general area of my research is the combination of approaches from network and computational social science and systems modeling with large-scale novel data sources to design solutions to pressing public health challenges. I focus on problems in food systems and nutrition, and infectious disease modeling.
+
+# research_summary
+
+
+

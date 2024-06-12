@@ -1,0 +1,16 @@
+# position
+
+USC Presidential Chair and Professor of Electrical and Computer Engineering
+
+# biography
+
+Andrew Viterbi earned one of the first doctorates in electrical engineering ever granted at USC. The “Viterbi Algorithm”, a mathematical formula to eliminate signal interference, paved the way for the widespread use of cellular technology, and catapulted Viterbi into the limelight of wireless communications worldwide.
+
+Today, the Viterbi Algorithm is used in all four international standards for digital cellular telephones, as well as in data terminals, digital satellite broadcast receivers and deep space telemetry. Viterbi is also the co-developer of CDMA — Code Division Multiple Access — the most widely used cell phone technology in the U.S.
+
+To learn more click here
+
+# research_summary
+
+
+

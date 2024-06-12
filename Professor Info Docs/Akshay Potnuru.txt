@@ -1,0 +1,12 @@
+# position
+
+Senior Lecturer of Aerospace and Mechanical Engineering
+
+# biography
+
+Akshay Potnuru has a Ph.D. from The University of Texas at Dallas in Mechanical Engineering and is a Lecturer at USC AME for the past 4+ years. He has expertise in and published several research papers in the fields of humanoid robotics in autism rehabilitation; smart materials like Shape Memory Alloys, Piezoelectric, Thermoelectric, Pyroelectric, Conductive polymers, etc.; 3D printing manufacturing with electrical conductivity using composites like thermoplastics (PLA, ABS) and nanocarbon; soft robotic applications using hyperelastic silicone-like musculoskeletal structures; energy harvesting from the human body and NiTi stents.
+
+# research_summary
+
+Research Summary Robotics, Humanoids, 3D printing, Smart Materials, Shape memory alloys, Stents
+

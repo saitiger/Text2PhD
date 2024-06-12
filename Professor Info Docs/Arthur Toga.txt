@@ -1,0 +1,33 @@
+# position
+
+Ghada Irani Chair in Neuroscience and Provost Professor of Ophthalmology, Neurology, Psychiatry and the Behavioral Sciences, Radiology, Electrical and Computer Engineering, and Biomedical Engineering 
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## neuroscience
+## neuroimaging
+## informatics
+
+
+# publications
+
+Title: Increasing participant diversity in AD research: Plans for digital screening, blood testing, and a community‐engaged approach in the Alzheimer's Disease Neuroimaging Initiative 4, 2023
+Title: Anatomically interpretable deep learning of brain age captures domain-specific cognitive impairment, 2023
+Title: Mitochondrial DNA variation in Alzheimer’s disease reveals a unique microprotein called SHMOOSE, 2023
+Title: Aberrant functional connectivity between reward and inhibitory control networks in pre-adolescent binge eating disorder, 2023
+Title: Mapping frontoinsular cortex from diffusion microstructure, 2023
+Title: Life after mild traumatic brain injury: widespread structural brain changes associated with psychological distress revealed with multimodal magnetic resonance imaging, 2023
+Title: Brain perivascular space imaging across the human lifespan, 2023
+Title: Data Archive for the BRAIN Initiative (DABI), 2023
+Title: Optimizing quantification of MK6240 tau PET in unimpaired older adults, 2023
+Title: Weakly supervised perivascular spaces segmentation with salient guidance of Frangi filter, 2023
+
+

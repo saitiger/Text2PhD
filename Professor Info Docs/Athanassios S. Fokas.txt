@@ -1,0 +1,37 @@
+# position
+
+Adjunct Professor of Civil and Environmental Engineering Practice and Biomedical Engineering Practice
+
+# biography
+
+SEMINARS
+Inverse Problems and the Importance of Unconscious Processes
+
+Athanassios S. Fokas, PhD, MD
+Department of Applied Mathematics and Theoretical Physics
+University of Cambridge
+
+Given Friday April 10, 2015
+
+Please view Video here:
+https://www.youtube.com/watch?v=ySR8z84jFgI&feature=youtu.be 
+
+ 
+USC Viterbi Fall 2016 Fokas Method Course
+
+The USC Viterbi School of Engineering is excited to announce that Professor Fokas will be teaching EE 599: The Fokas Method - A Hybrid Analytical-Numerical Approach for Solving PDEs this Fall. We will also be posting parts of the lectures for this course online. Please review the associated links on the left and information below for additional information.
+
+
+The Method of Fokas for Solving Linear Partial Differential Equations
+
+The classical methods for solving initial-boundary-value problems for linear partial differential equations with constant coefficients rely on separation of variables and specific integral transforms. As such, they are limited to specific equations, with special boundary conditions. Here we review a method introduced by Fokas, which contains the classical methods as special cases. However, this method also allows for the equally explicit solution of problems for which no classical approach exists. In addition, it is possible to elucidate which boundary-value problems are well posed and which are not. We provide examples of problems posed on the positive half-line and on the finite interval. Some of these examples have solutions obtainable using classical methods, and others do not. For the former, it is illustrated how the classical methods may be recovered from the more general approach of Fokas.
+
+© 2014, Society for Industrial and Applied Mathematics (external)
+ 
+ 
+Fokas earned a BS in Aeronautics from Imperial College in 1975 and a PhD in Applied mathematics from Caltech in 1979. His dissertation, Invariants, Lie-Backlund Operators and Backlund Transformations, was written under the direction of Paco Lagerstrom. Fokas subsequently attended University of Miami School of Medicine, earning an MD in 1986. After medical school, Fokas was appointed Professor and Chair of the Department of Mathematics and Computer Science at Clarkson University in 1986. From there, he moved to Imperial College in 1996 to become chair of Applied Mathematics. He has been a Professor of Mathematics at University of Cambridge and Chair in Nonlinear Mathematical Science since 2002. He was elected a Member of the Academy of Athens in 2004 and a professorial fellow of Clare Hall, Cambridge in 2005. Fokas received the Naylor Prize from the London Mathematical Society in 2000. Fokas is married to Regina Fokas and they have three children: Alexander, Anastassia, and Ioanna.
+
+# research_summary
+
+
+

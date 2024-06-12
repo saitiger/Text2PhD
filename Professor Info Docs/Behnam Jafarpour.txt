@@ -1,0 +1,35 @@
+# position
+
+N.I.O.C Fellow and Professor of Chemical Engineering and Materials Science, Electrical and Computer Engineering, and Civil and Environmental Engineering
+
+# biography
+
+Behnam Jafarpour is a Professor of Chemical Engineering and Material Science with joint appointments in Electrical and Computer Engineering, and Civil and Environmental Engineering Departments at USC Viterbi School of Engineering. He leads the Subsurface Energy and Environmental Systems (SEES) Lab and co-directs the Advanced Reservoir Characterization and Forecasting (ARCF) Center. Dr. Jafarpour earned his PhD and SM degrees in Civil and Environmental Engineering (CEE) and Electrical Engineering and Computer Science (EECS), respectively, from Massachusetts Institute of Technology (MIT) in 2008. He started his academic career as an Assistant Professor at Texas A&M University in 2008, prior to joining USC in 2011. Dr. Jafarpour's research and teaching activities revolve around characterization, prediction, and control of fluid flow and transport phenomena in complex subsurface energy and environmental systems.
+
+# research_summary
+
+Research Summary Dr. Jafarpour's research is at the interface of systems science, data science, and computational geoscience, with an emphasis on improving the description, prediction, and control of flow and transport in subsurface energy and environmental systems. His research lab focuses on integrating advanced system-theoretical principles and modern data science algorithms with modeling and prediction of fluid flow and transport processes in geologic formations to develop scientifically rigorous and practical methods for effective characterization, forecasting, and management of subsurface energy and natural resources. The main research areas in his lab include (i) Effective Representations of Complex High-Dimensional Geosystems; (ii) Inverse
+
+# interests
+
+## Estimation and Inverse Modeling
+## Data Science
+## Optimization and Control
+## Sparse Representations
+## Computational Geoscience
+
+
+# publications
+
+Title: Long–short-term memory encoder–decoder with regularized hidden dynamics for fault detection in industrial processes, 2023
+Title: Transfer Learning with Prior Data-Driven Models from Multiple Unconventional Fields, 2023
+Title: Dynamic Physics-Guided Deep Learning for Production Forecasting in Unconventional Reservoirs, 2023
+Title: Neural Network-Assisted Clustering for Improved Production Predictions in Unconventional Reservoirs, 2023
+Title: Physics-Guided Deep Learning for Improved Production Forecasting in Unconventional Reservoirs, 2023
+Title: A multiscale recurrent neural network model for predicting energy production from geothermal reservoirs, 2023
+Title: Deep Learning-Based Disentangled Parametrization for Model Calibration Under Multiple Geologic Scenarios, 2023
+Title: Deep Learning-Based Multiresolution Parameterization for Spatially Adaptive Model Updating, 2023
+Title: Identifying and Ranking Multiple Source Models for Transfer Learning in Unconventional Reservoirs., 2023
+Title: A Dynamic Residual Learning Approach to Improve Physics-Constrained Neural Network Predictions in Unconventional Reservoirs, 2023
+
+
