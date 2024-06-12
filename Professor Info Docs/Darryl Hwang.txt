@@ -1,0 +1,33 @@
+# position
+
+Assistant Professor of Research Radiology and Biomedical Engineering
+
+# biography
+
+Darryl H. Hwang completed his bachelors, masters, and doctorate in Biomedical Engineering at the University of Southern California. As an undergrad, he conducted research in the Molecular Computation Lab under Len Adleman. He pursued his masters and doctorate in the Biomedical Imaging Lab with Manbir Singh and Natasha Lepore. In 2012, he was instilled as the Director of the the 4D Quantitative Imaging Lab at Keck Medical Center of USC. He was subsequently appointed an Assistant Professor of Research in the Department of Radiology in 2015 and received his joint appointment in the Department of Biomedical Engineering in 2017.
+
+# research_summary
+
+Research Summary Dr. Hwang's research centers around multi-modal medical image post-processing encompassing MRI, CT, and ultrasound. Specializing in 3D and 4D visualization, radiomics, and customized workflow integration, his primary focus is the facilitation of clinical imaging research. Topics of interest include volumetrics, image segmentation, 3D printing, 3D visualization, digital radiomic metric generation, and medical imaging informatics.
+
+# interests
+
+## Medical Imaging Informatics
+## DTI
+## 3D Reconstruction
+
+
+# publications
+
+Title: Predicting Soft Tissue Sarcoma Response to Neoadjuvant Chemotherapy Using an MRI-Based Delta-Radiomics Approach, 2023
+Title: Radiogenomic associations clear cell renal cell carcinoma: an exploratory study, 2023
+Title: MP09-05 AUTOMATED PROSTATE GLAND AND PROSTATE ZONES SEGMENTATION USING A NOVEL MRI-BASED MACHINE LEARNING FRAMEWORK AND CREATION OF SOFTWARE INTERFACE FOR USERS ANNOTATION, 2023
+Title: MP55-20 A NOVEL MACHINE LEARNING FRAMEWORK FOR AUTOMATED DETECTION OF PROSTATE CANCER LESIONS CONFIRMED ON MRI-INFORMED TARGET BIOPSY, 2023
+Title: Multi-platform fractal dimension analysis of renal masses from multiphase contrast-enhanced computed tomography as markers for tumor subtyping, 2023
+Title: CEM radiomics for distinguishing lesion from background parenchymal enhancement in patients with invasive breast cancer, 2023
+Title: Radiomics Correlation to CD68+ Tumor-Associated Macrophages in Clear Cell Renal Cell Carcinoma., 2023
+Title: Sarcopenia and body fat change as risk factors for radiologic incisional hernia following robotic nephrectomy, 2023
+Title: PD22-06 RADIOMIC ASSESSMENT OF CLEAR CELL RENAL CELL CARCINOMA TUMOR IMMUNE MICROENVIRONMENT, 2023
+Title: MP55-18 A NOVEL MACHINE LEARNING FRAMEWORK TO AUTOMATED CHARACTERIZE PROSTATE IMAGING REPORTING AND DATA SYSTEM (PIRADS) ON MRI, 2023
+
+

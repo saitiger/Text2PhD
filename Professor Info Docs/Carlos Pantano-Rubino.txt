@@ -1,0 +1,12 @@
+# position
+
+Professor of Aerospace and Mechanical Engineering
+
+# biography
+
+He received his Bachelor degree in Industrial Engineering with specialization in Electrical Engineering from the University of Sevilla in Spain. He also received a Masters in Applied Mathematics from Ecole Centrale Paris in France, and a Masters and PhD in Mechanical Engineering from the University of California San Diego. He was a Senior Postdoctoral Engineer from 2000 to 2001 at the Office National d'Etudes et de Recherches Aerospatiales in France and then moved to the California Institute of Technology as a senior post-doctoral associate and later as a senior research scientist until 2006. He was Professor of Mechanical Engineering at the University of Illinois at Urbana-Champaign until 2018. He received the Presidential Early Career Award for Scientists and Engineers (PECASE) in 2006. He is currently an Associate Fellow of the American Institute of Aeronautics and Astronautics (AIAA) and member of American Physical Society (APS), Society for Industrial and Applied Mathematics (SIAM), and the Combustion Institute. He serves in the editorial boards of AIAA Journal, Combustion Theory and Modeling and the Journal of Fluid Mechanics.
+
+# research_summary
+
+Research Summary Professor Pantano research on turbulent flows with special focus to combustion, fluid-structure interaction and numerical methods for accurate simulation of the Navier-Stokes equations in simple and complex domains. Reactions of even the simplest hydrocarbon, such as methane, can involve hundreds of species. More practical liquid hydrocarbons involve multiple phases and thousands of reactions. It is important, therefore, to have an accurate way to compute the turbulence and chemistry interaction without having to compute all the intricate details of the chemistry. He is currently working on developing a model that "collapses" the details of the flame structure, where the
+

@@ -1,0 +1,31 @@
+# position
+
+Assistant Professor of Computer Science 
+
+# biography
+
+Daniel Seita is an Assistant Professor in the Computer Science department at the University of Southern California and the director of the Sensing, Learning, and Understanding for Robotic Manipulation (SLURM) Lab. His research interests are in computer vision and machine learning for robot manipulation, with a focus on developing novel methods to improve manipulation of challenging deformable objects. Daniel was previously a postdoc at Carnegie Mellon University's Robotics Institute and holds a PhD in computer science from the University of California, Berkeley. He received undergraduate degrees in math and computer science from Williams College. Daniel's research has been supported by a six-year Graduate Fellowship for STEM Diversity and by a two-year Berkeley Fellowship. He has the Honorable Mention for Best Paper award at UAI 2017, was an RSS 2022 Pioneer, and has presented his work at premier robotics conferences such as ICRA, IROS, RSS, and CoRL.
+
+# research_summary
+
+
+
+# interests
+
+## Artificial Intelligence
+
+
+# publications
+
+Title: AutoBag: Learning to Open Plastic Bags and Insert Objects, 2023
+Title: Bagging by Learning to Singulate Layers Using Interactive Perception, 2023
+Title: Planar Robot Casting with Real2Sim2Real Self-Supervised Learning, 2022
+Title: Automating surgical peg transfer: calibration with deep learning can exceed speed, accuracy, and consistency of humans, 2022
+Title: ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds, 2022
+Title: Learning to Singulate Layers of Cloth using Tactile Feedback, 2022
+Title: Efficiently Learning Single-Arm Fling Motions to Smooth Garments, 2022
+Title: Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks, 2021
+Title: VisuoSpatial Foresight for Physical Sequential Fabric Manipulation, 2021
+Title: Learning Dense Visual Correspondences in Simulation to Smooth and Fold Real Fabrics, 2021
+
+

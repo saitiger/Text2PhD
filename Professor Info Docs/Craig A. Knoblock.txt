@@ -1,0 +1,34 @@
+# position
+
+Research Professor of Computer Science and Spatial Sciences
+
+# biography
+
+Craig Knoblock is the Keston Executive Director of the Information Sciences Institute, Research Professor of both Computer Science and Spatial Sciences, and Vice Dean of Engineering at the University of Southern California.   He received his Bachelor of Science degree from Syracuse University and his Master’s and Ph.D. from Carnegie Mellon University in computer science.   He has published more than 400 journal articles, book chapters, and conference and workshop papers  and has received 7 best paper awards on these papers.  Dr. Knoblock is a Fellow of the Association for the Advancement of Artificial Intelligence (AAAI), a Fellow of the Association of Computing Machinery (ACM), past President and Trustee of the International Joint Conference on Artificial Intelligence (IJCAI), and winner of the Robert S. Engelmore Award.
+
+# research_summary
+
+Research Summary His research focuses on techniques for describing, acquiring, and exploiting the semantics of data. He has worked extensively on source modeling, schema and ontology alignment, entity and record linkage, data cleaning and normalization, extracting data from the Web, and combining all of these techniques to build knowledge graphs.
+
+# interests
+
+## Knowledge graphs
+## data integration
+## data science
+## machine learning
+
+
+# publications
+
+Title: Building spatio-temporal knowledge graphs from vectorized topographic historical maps, 2023
+Title: Towards the automated large-scale reconstruction of past road networks from historical maps, 2022
+Title: Designing an integrated architecture: The prodigy view, 2022
+Title: SAND: A Tool for Creating Semantic Descriptions of Tabular Sources, 2022
+Title: Knowledge graphs: Fundamentals, techniques, and applications, 2021
+Title: Artificial intelligence for modeling complex systems: taming the complexity of expert models to improve decision making, 2021
+Title: Combining remote-sensing-derived data and historical maps for long-term back-casting of urban extents, 2021
+Title: A graph-based approach for inferring semantic descriptions of wikipedia tables, 2021
+Title: Synthetic map generation to provide unlimited training data for historical map text detection, 2021
+Title: SPADE: A Semi-supervised Probabilistic Approach for Detecting Errors in Tables., 2021
+
+

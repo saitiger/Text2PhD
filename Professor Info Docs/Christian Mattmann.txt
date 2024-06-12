@@ -1,0 +1,16 @@
+# position
+
+Adjunct Research Professor of Computer Science
+
+# biography
+
+Chris Mattmann is an experienced IT Executive, CTO and Division Manager of the AI, Analytics and Innovative Development Organization in the Information Technology and Solutions Directorate at NASA JPL. At JPL Mattmann is the Chief Technology and Innovation Officer and reports to the CIO and Director for IT, and manages advanced IT research and open source and technology evaluation and user infusion capabilities. Mattmann is JPL's first Principal Scientist in the area of Data Science. The designation of Principal is awarded to recognize sustained outstanding individual contributions in advancing scientific or technical knowledge, or advancing the implementation of technical and engineering practices on projects, programs, or the Institution. He has over 20 years of experience at JPL and has conceived, realized and delivered the architecture for the next generation of reusable science data processing systems for NASA's Orbiting Carbon Observatory, NPP Sounder PEATE, and the Soil Moisture Active Passive (SMAP) Earth science missions. Mattmann's work has been funded by NASA, DARPA, DHS, NSF, NIH, NLM and by private industry and commercial partnerships. He was the first Vice President (VP) of Apache OODT (Object Oriented Data Technology), the first NASA project at the Apache Software Foundation (ASF) and he led the project's transition from JPL to the ASF.
+
+He contributes to open source and was a member of the Board of Directors at the Apache Software Foundation (2013-18) where he was one of the initial contributors to Apache Nutch as a member of its project management committee, the predecessor to Apache Hadoop. Mattmann is the progenitor of the Apache Tika framework, the digital "babel fish" and de-facto content analysis and detection framework that exists. Today Mattmann contributes to TensorFlow, Google’s technology platform for all things machine learning and has recently finished a book on Machine Learning for TensorFlow, 2nd edition published by Manning Publications.
+
+Mattmann is the Director of the Information Retrieval & Data Science (IRDS) group at USC and Adjunct Research Professor. He teaches graduate courses in Content Detection & Analysis & in Search Engines & Information Retrieval. Mattmann has materially contributed to understanding of the Deep Web and Dark Web through the DARPA MEMEX project. Mattmann's work helped uncover the Panama Papers scandal which won the Pulitzer Prize in Journalism in 2017.
+
+# research_summary
+
+Research Summary Software Architecture, Software Engineering, Search Engines, Information Retrieval, Resource Discovery, Distributed Computing Platforms, Large-scale, distributed systems, Data modeling, design and development of distributed data intensive systems
+

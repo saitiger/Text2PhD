@@ -1,0 +1,24 @@
+# position
+
+Part-Time Lecturer of Aerospace and Mechanical Engineering
+
+# biography
+
+Blue Origin - Principal, Propulsion Engineering, SME Turbine Aerodynamics 2020 - 
+
+Aerojet Rocketdyne - Lead Turbine Aerodynamics 2016 - 2020
+Designed  the  AR1 engine main turbine, coordination of Turbine Analysisi across engine programs in support of development and fabrication
+
+Space X - Lead Turbine Aerodynamics 2011 - 2016
+Designed the turbine for the Falcon 9 Merlin 1D engine
+Designed the LOX and Fuel TP turbines for the prototype Raptor engine
+
+Pratt&WhitneyRocketdyne - Turbine Aerodynamics 1998 - 2011
+Designed the LOX turbines or the J-2X engine
+Designed the turbines for the Advanced Upper Stage MB-XX demonstrator engine
+Re-designed the LH2 tubine flowmeter for the Space Shuttle Main Engine
+
+# research_summary
+
+Research Summary Liquid propellant rocket engines (LRE), turbopumps, Design, Analysis and CFD apps and their integration into the engine development process.
+

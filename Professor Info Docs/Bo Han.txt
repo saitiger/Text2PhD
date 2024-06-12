@@ -1,0 +1,33 @@
+# position
+
+Associate Professor of Research Surgery and Bioemedical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## biomedical
+## biology
+## nutrition
+
+
+# publications
+
+Title: Strongly enhanced light–matter coupling of monolayer WS2 from a bound state in the continuum, 2023
+Title: A Gate Programmable van der Waals Metal‐Ferroelectric‐Semiconductor Vertical Heterojunction Memory, 2023
+Title: Nickel-rich layered oxide cathodes for lithium-ion batteries: Failure mechanisms and modification strategies, 2023
+Title: Cobalt–aluminum oxide clusters-embedded γ-Al2O3 nanosheets for peroxymonosulfate activation: Interfacial pH-buffering property to eliminate cobalt leaching and boost the …, 2023
+Title: Simultaneous cation-anion regulation of sodium vanadium phosphate cathode materials for high-energy and cycle-stable sodium-ion batteries, 2023
+Title: High-entropy perovskite oxide washcoated porous alumina ceramic as a superb catalyst for activating peroxymonosulfate to eliminate refractory organic pollutants, 2023
+Title: Ethanol-mediated dense and N/O/P tri-doped graphene xerogel for ultrahigh volumetric capacitive energy storage, 2023
+Title: Construction of VS2/VOx Heterostructure via Hydrolysis‐Oxidation Coupling Reaction with Superior Sodium Storage Properties, 2023
+Title: High‐Performance CMOS Inverter Array with Monolithic 3D Architecture Based on CVD‐Grown n‐MoS2 and p‐MoTe2, 2023
+Title: Confined-state physics and signs of fermionization of moiré excitons in WSe2/MoSe2 heterobilayers, 2023
+
+

@@ -1,0 +1,33 @@
+# position
+
+Professor of Neurology, Radiology, and Biomedical Engineering
+
+# biography
+
+I am Professor of Neurology and Radiology, Director of Imaging Technology Innovation at Mark and Mary Stevens Neuroimaging and Informatics Institute, Keck School of Medicine, University of Southern California. I am also the Director of the Laboratory of Functional MRI Technology (LOFT)(www.loft-lab.org). I received Ph.D. in Biophysics from the University of Science and Technology of China (USTC), and postdoc training in the Departments of Radiology and Neurology at the University of Pennsylvania Medical Center. I also received training in biostatistics and clinical epidemiology through my secondary degree in Clinical Epidemiology (M.S.C.E.) at UPenn. Before joining USC, I have been an Associate Professor of Neurology and Radiology at David Geffen School of Medicine at UCLA, and an Assistant Professor of Radiology and Neurology at Perelman School of Medicine at UPenn.
+
+# research_summary
+
+Research Summary During the past 20+ years, my research has been focused on the technical development and clinical translations of novel functional and physiological Magnetic Resonance Imaging (MRI) technologies, in particular noninvasive blood flow/perfusion imaging. I am a recognized expert in perfusion and functional MRI and have extensive experience in clinical applications related to neurologic and psychiatric disorders as well as body organs including kidney, liver and myocardium. I have also been supporting the scientific community by disseminating arterial spin labeling (ASL) sequences to approximately 300 Siemens imaging research centers around the world. In addition to MRI, I have experience
+
+# interests
+
+## Neuroimaging methodology and applications
+## Functional MRI
+## Neuromodulation
+
+
+# publications
+
+Title: Older adults with higher blood pressure variability exhibit cerebrovascular reactivity deficits, 2023
+Title: Current state and guidance on arterial spin labeling perfusion MRI in clinical neuroimaging, 2023
+Title: Decreased water exchange rate across blood–brain barrier in hereditary cerebral small vessel disease, 2023
+Title: Quantification of blood–brain barrier water exchange and permeability with multidelay diffusion‐weighted pseudo‐continuous arterial spin labeling, 2023
+Title: The relationship between daily stressors, social support, depression and anxiety among dementia family caregivers: a micro-longitudinal study, 2023
+Title: Early stages of COVID-19 pandemic had no discernable impact on risk of elder abuse and neglect among dementia family caregivers: a daily diary study, 2023
+Title: Depression, stress and regional cerebral blood flow, 2023
+Title: Whole-Cerebrum distortion-free three-dimensional pseudo-Continuous Arterial Spin Labeling at 7T, 2023
+Title: Diffusion prepared pseudo-continuous arterial spin labeling reveals blood–brain barrier dysfunction in patients with CADASIL, 2023
+Title: Imaging blood-brain barrier dysfunction: A state-of-the-art review from a clinical perspective, 2023
+
+

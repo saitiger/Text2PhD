@@ -1,0 +1,12 @@
+# position
+
+Associate Professor of Industrial and Systems Engineering Practice
+
+# biography
+
+Dr Acosta is a data analytics and statistical computing scholar. He is the Director of the MS Analytics program at USC. He holds a Ph.D. in Industrial Engineering from Texas A&M, and a Ph.D. in Statistics from The University of Texas at Dallas.
+
+# research_summary
+
+Research Summary Dr Acosta research interests focus on using advanced statistical analysis to build models for prediction and classification for decision making in applications such as risk management, asset pricing, and credit-risk. His research has been published in leading journals.
+

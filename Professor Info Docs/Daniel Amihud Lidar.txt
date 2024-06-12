@@ -1,0 +1,12 @@
+# position
+
+Viterbi Professorship in Engineering and Professor of Electrical and Computer Engineering, Chemistry, and Physics and Astronomy
+
+# biography
+
+Daniel Lidar is the holder of the Viterbi Professorship of Engineering at the University of Southern California, and researches quantum information processing. He holds join appointments in the departments of Chemistry and Physics, is the Director of the USC Center for Quantum Information Science and Technology, and is the co-Director of the USC-Lockheed Martin Center for Quantum Computing. He did his postdoctoral work at UC Berkeley after receiving his Ph.D. in Physics from the Hebrew University of Jerusalem in 1997. Prior to joining USC in 2005 he was a faculty member at the University of Toronto for five years. Lidar is a recipient of a Sloan Research Fellowship, a Guggenheim Foundation Fellowship, is an elected Fellow of the American Association for the Advancement of Science (AAAS), the American Physical Society (APS), and the Institute of Electrical and Electronics Engineers (IEEE), and was a Moore Distinguished Scholar in Physics at Caltech.
+
+# research_summary
+
+Research Summary Lidar's research focuses on quantum information processing, with a particular emphasis on quantum computation and quantum computers. He works on quantum error correction, the theory of open quantum systems, quantum algorithms, quantum phase transitions and entanglement, and theoretical as well as experimental adiabatic quantum computation and quantum annealing.
+

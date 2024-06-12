@@ -1,0 +1,37 @@
+# position
+
+Assistant Professor of Electrical and Computer Engineering-Systems 
+
+# biography
+
+Corey E. Baker is an incoming (Spring 2024) Assistant Professor in the Ming Hsieh Department of Electrical and Computer Engineering in the Viterbi School of Engineering at the University of Southern California (USC). Baker is also an Application and Framework Engineer in Health and Research Products at Apple Inc where he works on medical and research frameworks such as CareKit and ResearchKit. Corey is an Assistant Professor in the Department of Computer Science at the University of Kentucky (UK) until December 2023. In 2019, Baker received the UK Inclusive Excellence Award for his work in creating a graduate campus visit program and diversifying Computer Science and Engineering at the doctoral level. Corey's work has been highlighted by NBC News and Spectrum News.
+
+Baker received a B.S. degree in Computer Engineering from San Jose State University (SJSU), a M.S. in Electrical and Computer Engineering from California State University, Los Angeles (CSULA), and M.S. and Ph.D. degrees in Computer Engineering from the University of Florida (UF) under the supervision of Professor Janise McNair. After completion of his graduate studies, Baker was a University of California Presidents Postdoctoral Fellow in the Qualcomm Institute at the University of California San Diego under the mentorship of Tara Javidi and Ramesh Rao. Baker has also served as the Travel Grants Chair for ACM CoNext 2024 and ACM HotMobile 2020, and participated on the TPC's of numerous IEEE conferences.
+
+# research_summary
+
+Research Summary I am the Director of the Network Reconnaissance Lab (NetRecon) which investigates full stack systems for distributing, protecting, and authenticating data in opportunistic networking scenarios for remote patient monitoring, smart cities, and natural disasters to improve the livelihood of people. I evaluate real-world applications of opportunistic delay tolerant networks (DTNs and human centered computing to empower device-to-device (D2D) social networks for crowd sourcing information. Leveraging opportunistic communication provides complementary solutions to traditional networks which are typically dependent upon centralized infrastructures such as the Internet. The goal of my research is to make critical data accessible to vulnerable communities
+
+# interests
+
+## opportunistic communication
+## delay tolerant networks
+## systems
+## mobile applications
+## remote patient monitoring
+
+
+# publications
+
+Title: Disabling interaction with messages in a communication platform, 2023
+Title: Message moderation in a communication platform, 2023
+Title: Evaluating the Joint Use of Alternate Internet Delivery Models in Deterministic Rural Networks, 2023
+Title: Designing a framework for remote cancer care through community co-design: participatory development study, 2022
+Title: Assessing a Synergistic Use of Alternate Broadband Delivery Models in Rural Areas, 2022
+Title: Note: Assessing Cancer Patient Usability of a Mobile Distress Screening App, 2022
+Title: A latency-defined edge node placement scheme for opportunistic smart cities, 2021
+Title: Enabling opportunistic low-cost smart cities by using tactical edge node placement, 2021
+Title: Becoming a smart city: A textual analysis of the US smart city finalists, 2021
+Title: Barn-raising on the digital frontier: The LAUNCH Collaborative, 2020
+
+

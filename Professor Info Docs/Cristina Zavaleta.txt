@@ -1,0 +1,32 @@
+# position
+
+WiSE Gabilan Assistant Professor and Assistant Professor of Biomedical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Nano-based Contrast Agents
+## Molecular Imaging
+
+
+# publications
+
+Title: HyU: Hybrid Unmixing for longitudinal in vivo imaging of low signal-to-noise fluorescence, 2023
+Title: Current and Developing Lymphatic Imaging Approaches for Elucidation of Functional Mechanisms and Disease Progression, 2023
+Title: Nanomaterial-based contrast agents, 2023
+Title: A topographic Raman imaging approach for surgical margin assessment, 2023
+Title: Quantitation of an expanded SERS nanoparticle library for highly multiplexed imaging assays (Conference Presentation), 2023
+Title: Multiplexed spatial profiling of cancer enabled by Raman imaging (Conference Presentation), 2023
+Title: Expanding the multiplexing capabilities of Raman imaging to reveal highly specific molecular expression and enable spatial profiling, 2022
+Title: DFT-Guided Development of Raman Nanoparticle-Based Contrast Agents for High-Content Imaging, 2022
+Title: A resurgence in nanoparticles: accelerating the clinical translation of nano-based imaging contrast agents, 2022
+Title: DFT calculations can guide chemical design of plasmonic nanoparticles, 2022
+
+

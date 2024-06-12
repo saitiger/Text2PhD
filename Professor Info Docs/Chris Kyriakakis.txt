@@ -1,0 +1,39 @@
+# position
+
+Associate Professor of Electrical and Computer Engineering
+
+# biography
+
+Prof. Kyriakakis received his BS degree from the California Institute of Technology, and his MS and PhD degrees in Electrical Engineering from USC.  His research interests lie at the intersection of acoustics, psychoacoustics, and audio signal processing. His research focuses on acoustical measurement methods of loudspeakers in rooms and device enclosures, and together with his students he has developed novel signal processing algorithms for optimizing their performance.  Other research topics include multichannel audio acquisition and rendering, virtual microphones and virtual speakers, hybrid headphone-loudspeaker rendering methods, and advanced signal processing techniques for optimizing sound quality from small portable devices. 
+
+His most recent research is in the field of Archaeoacoustics with a focus on the capture, characterization and simulation of the acoustics of medieval Byzantine churches. This is a unique interdisciplinary project that bridges Engineering and Art History: Hearing the Lost Sounds of Antiquity 
+
+Prof. Kyriakakis has published nearly 100 technical papers, as well as a book entitled Immersive Audio Signal Processing, and holds several patents in acoustic measurement of loudspeakers in rooms, loudspeaker crossover optimization, and loudspeaker response correction using signal processing. In 2006, he received a World Technology Network Award.  This organization presents awards to innovators in several areas in which technology can foster a paradigm change.  His award was for innovations in immersive audio that enable new capabilities in media and journalism.  Other award recipients that year included Vice President Al Gore, Google, and Space-X.
+
+# research_summary
+
+Research Summary Research interests include Archaeoacoustics, adaptive audio signal processing, virtual microphones for synthesizing multichannel recordings, microphone arrays for robust time-delay estimation in noisy environments, multichannel rendering.
+
+# interests
+
+## Audio signal processing
+## acoustics
+## audio for IoT
+## psychoacoustics
+## archaeoacoustics
+
+
+# publications
+
+Title: Systems and methods for spatial audio rendering, 2023
+Title: Systems and Methods for Audio Upmixing, 2022
+Title: Holy, Holy, Holy: Hearing the Voices of Angels, 2021
+Title: Systems and methods for spatial audio rendering, 2021
+Title: Soundscapes of Byzantium: The Acheiropoietos basilica and the cathedral of Hagia Sophia in Thessaloniki, 2018
+Title: Audio output device specific audio processing, 2018
+Title: Soundscapes of Byzantium, 2017
+Title: Audio content enhancement using bandwidth extension techniques, 2014
+Title: Room acoustic response modeling and equalization with linear predictive coding and parametric filters, 2013
+Title: Cross-over frequency selection and optimization of response around cross-over, 2013
+
+

@@ -1,0 +1,12 @@
+# position
+
+Associate Professor of Computer Science
+
+# biography
+
+Chao Wang is an Associate Professor of Computer Science at the University of Southern California. He published a book and more than eighty papers. He is an Associate Editor of IEEE Transactions on Software Engineering. He received the ONR Young Investigator award in 2013 and the NSF CAREER award in 2012. He also received numerous best paper awards, including the ACM SIGSOFT Distinguished Paper award (2018 and 2010), the FMCAD Best Paper award (2013) and the Best Paper of the Year award from ACM TODAES (2008).
+
+# research_summary
+
+Research Summary His research is in software engineering and formal methods, with emphasis on logic, verification and automated reasoning. He develops techniques for principled design of software systems to improve safety and security.
+

@@ -1,0 +1,37 @@
+# position
+
+Assistant Professor of Electrical and Computer
+Engineering-Systems
+
+# biography
+
+Christopher Torng joins the Department of Electrical and Computer Engineering at the University of Southern California as an assistant professor in 2023.
+
+Prior to his appointment, he was a postdoctoral researcher at Stanford University from 2019 to 2022. He operated as a faculty-equivalent research advisor in the Stanford Agile Hardware (AHA) center, where he worked on creating high-performance and energy-efficient architectures for domain-specific hardware acceleration, supported by an agile software-hardware co-design methodology.
+
+He has over ten years of experience building complex digital SoCs as ASIC prototypes as well as new agile flow tools that have already supported tapeouts for at least 12 academic chips, implemented in technologies from 180nm to 12nm. His activities have resulted in his selection as a Rising Star in Computer Architecture (2018) by Georgia Tech as well as an IEEE MICRO Top Pick from Hot Chips (2018).
+
+# research_summary
+
+
+
+# interests
+
+## Computer Architecture
+## VLSI
+
+
+# publications
+
+Title: Aha: An agile approach to the design of coarse-grained reconfigurable accelerators and compilers, 2023
+Title: Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays, 2023
+Title: Hardware abstractions and hardware mechanisms to support multi-task execution on coarse-grained reconfigurable arrays, 2023
+Title: Improving Energy Efficiency of CGRAs with Low-Overhead Fine-Grained Power Domains, 2023
+Title: Amber: A 367 GOPS, 538 GOPS/W 16nm SoC with a coarse-grained reconfigurable array for flexible acceleration of dense linear algebra, 2022
+Title: A Fast Large-Integer Extended GCD Algorithm and Hardware Design for Verifiable Delay Functions and Modular Inversion, 2022
+Title: mflowgen: A modular flow generator and ecosystem for community-driven physical design, 2022
+Title: Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration, 2022
+Title: Ultra-elastic cgras for irregular loop specialization, 2021
+Title: Enabling Reusable Physical Design Flows with Modular Flow Generators, 2021
+
+

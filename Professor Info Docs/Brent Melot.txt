@@ -1,0 +1,33 @@
+# position
+
+Associate Professor of Chemistry and Chemical Engineering and Materials Science
+
+# biography
+
+Melot received his Ph.D. from the Materials Department at the University of California, Santa Barbara, under the supervision of Ram Seshadri and subsequently joined the Laboratoire de Réactivité et Chimie des Solides in Amiens as a postdoctoral research associate under Jean-Marie Tarascon. Since starting his independent career in 2012, his group has focused on developing a deeper understanding of how the crystal structure and composition of materials influence their functional properties. They are broadly interested in materials for a diverse range of applications including halide perovskite light absorbers, frustrated magnetism in oxides, heterogeneous catalysts, as well as alkali and fluoride insertion hosts for energy storage.
+
+# research_summary
+
+Research Summary The Melot group works on all aspects of materials design, meaning that we synthesize new compounds, study their atomic structure, and characterize their functional properties. Current topics include photovoltaics, intercalation electrodes for Li-, Na-, or F-ion batteries, and heterogeneous catalysts for sustainable chemistry.
+
+# interests
+
+## Magnetism
+## Cathodes
+## Structure-Property Relationships
+
+
+# publications
+
+Title: Charge‐Density‐Wave Order And Electronic Phase Transitions in a Dilute D‐Band Semiconductor, 2023
+Title: Polarizable Anionic Sublattices Can Screen Molecular Dipoles in Noncentrosymmetric Inorganic–Organic Hybrids, 2023
+Title: Temperature dependence of radiative and non-radiative decay in the luminescence of one-dimensional pyridinium lead halide hybrids, 2023
+Title: High-Rate Lithium Cycling and Structure Evolution in Mo4O11, 2022
+Title: Unconventional Charge-density-wave Order in a Dilute d-band Semiconductor, 2022
+Title: Impact of structural deformations on the performance of Li-ion insertion hosts, 2022
+Title: Room-Temperature Electrochemical Fluoride (De)insertion into CsMnFeF6, 2022
+Title: Reversible Intercalation of Li Ions in an Earth-Abundant Phyllosilicate Clay, 2022
+Title: Magnetic-Field-Induced Dielectric Anomalies in Cobalt-Containing Garnets, 2022
+Title: Electrochemical oxidative fluorination of an oxide perovskite, 2021
+
+

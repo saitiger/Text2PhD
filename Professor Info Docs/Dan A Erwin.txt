@@ -1,0 +1,14 @@
+# position
+
+Professor of Astronautics and Aerospace and Mechanical Engineering
+
+# biography
+
+1986 Ph.D., Electrical Engineering, University of Southern California
+1983 M.S., Electrical Engineering, University of Southern California
+1981 B.S., Applied Physics, California Institute of Technology
+
+# research_summary
+
+Research Summary Spacecraft propulsion, optics and optical instruments, kinetics of gases and plasmas
+

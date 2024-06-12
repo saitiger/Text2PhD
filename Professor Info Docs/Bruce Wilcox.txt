@@ -1,0 +1,14 @@
+# position
+
+Senior Lecturer of Industrial and Systems Engineering
+
+# biography
+
+Dr. Wilcox is a senior analytics consultant with over 30 years years experience with top-tier consulting firms providing management and information systems consulting services to large corporate and government clients.  From 2013 until 2021, he was employed full-time by the SAS Institute, a premier provider of advanced analytics software and consulting services, responsible for consulting with major SAS government clients in California on the use of advanced analytics tools and solutions.  
+
+With BS and MS degrees in Electrical Engineering from Carnegie-Mellon University and an MBA from UCLA, Bruce earned his PhD in Engineering and Applied Mathematics from Claremont Graduate University in 2018 with thesis work in time series clustering for fixed income portfolio diversification using model-based clustering and state space analysis techniques.  Since January 2020 until taking a full-time faculty position in the 2021 fall semester, Bruce was a part-time lecturer at USC Vitterbi College of Engineering in the MS Analytics program.  Prior to that, he taught for twelve semesters as a lecturer at California State University, Long Beach and as a visiting international professor at the National Economics University, Hanoi, Vietnam, teaching two short courses in quantitative analysis to advanced finance students.
+
+# research_summary
+
+
+

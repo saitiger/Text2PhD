@@ -1,0 +1,14 @@
+# position
+
+Professor Emeritus of Electrical and Computer Engineering 
+
+# biography
+
+Dr. Eng. in Aerospace Engineering, 1975, Universite Paul Sabatier, Toulouse, France. 
+Ph.D. in Electrical Engineering, 1978, USC, Los Angeles, CA. 
+Fellow of the Institute of Electrical and Electronics Engineers (IEEE), 1991.
+
+# research_summary
+
+Research Summary Topological methods in robust control: control of (biological) chaos, quantum control (decoherence control), control of noncommutative dynamics. Coarse geometry methods in networks: network curvature, Gromov-hyperbolic graphs, with application to routing, congestion, geographical localization in sensor network, and autonomous agents. Back-Pressure and Heat-Diffusion protocol in wireless networks. Quantum networks: dynamically controlled routing in spin networks. Smart grid: network approach, voltage stability, and false data injection detection.
+

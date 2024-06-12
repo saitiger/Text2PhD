@@ -1,0 +1,27 @@
+# position
+
+Senior Lecturer of Electrical and Computer Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+
+
+# publications
+
+Title: Using noise to speed convergence of simulated annealing and Markov Monte Carlo estimations, 2022
+Title: Noise can speed Markov chain Monte Carlo estimation and quantum annealing, 2019
+Title: Using noise to speed up markov chain monte carlo estimation, 2015
+Title: Noise Benefits in Markov Chain Monte Carlo Computation, 2015
+Title: Noise can speed convergence in Markov chains, 2011
+Title: Bootstrap Tail Thickness Estimation for Symmetric Alpha-Stable Random Variables, 2011
+Title: Stochastic Resonance Noise Benefits in Markov Chain Monte Carlo Density Estimation, 2010
+
+

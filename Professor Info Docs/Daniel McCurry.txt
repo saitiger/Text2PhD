@@ -1,0 +1,33 @@
+# position
+
+Dr. Shiao-Ping Siao Yen Early Career Chair in Civil and Environmental Engineering and Assistant Professor of Civil and Environmental Engineering
+
+# biography
+
+Dr. Daniel McCurry is an Assistant Professor of Civil and Environmental Engineering at the University of Southern California. Dr. McCurry completed his Ph.D. in Civil and Environmental Engineering with a Chemistry minor at Stanford in 2016. Prior to Stanford, he earned an M.S. in Environmental Engineering from Yale and a B.S. in Civil Engineering from the University of Cincinnati, and worked in the USEPA Office of Research and Development. He received the Rose Hills Foundation Research Fellowship in 2019 and NSF CAREER Award in 2020.
+
+# research_summary
+
+Research Summary Dr. McCurry's research focuses on protecting public health by improving the long-term safety of engineered water sources. He applies the tools of environmental organic chemistry and analytical chemistry to water quality challenges related to chemical and ultraviolet disinfection of wastewater and drinking water, with a particular emphasis on identifying formation mechanisms and precursors of disinfection byproducts to facilitate their prevention.
+
+# interests
+
+## Environmental Engineering
+## Environmental Organic Chemistry
+## Disinfection Byproducts
+
+
+# publications
+
+Title: Operators Need to Know About Organic Contaminants, 2023
+Title: Chloramination of Nitromethane: Incomplete Chlorination and Unexpected Substitution Reaction, 2023
+Title: Ipso Substitution of Aromatic Bromine in Chlorinated Waters: Impacts on Trihalomethane Formation, 2023
+Title: Ozonation of organic compounds in water and wastewater: A critical review, 2022
+Title: Out of Thin Air? Catalytic Oxidation of Trace Aqueous Aldehydes with Ambient Dissolved Oxygen, 2022
+Title: Intermural Online Research Group Meetings As Professional Development Tools for Undergraduate, Graduate, and Postdoctoral Trainees, 2022
+Title: Evaluation of histidine reactivity and byproduct formation during peptide chlorination, 2021
+Title: Antibiotic transformation in an anaerobic membrane bioreactor linked to membrane biofilm microbial activity, 2021
+Title: Formation and fate of nitromethane in ozone-based water reuse processes, 2021
+Title: Novel chlorination byproducts of tryptophan: initial high-yield transformation products versus small molecule disinfection byproducts, 2020
+
+

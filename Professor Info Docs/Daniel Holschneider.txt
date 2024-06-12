@@ -1,0 +1,34 @@
+# position
+
+Professor of Psychiatry and Behavioral Sciences and Biomedical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Functional brain mapping in animal models
+## functional connectivity
+## neuroplasticity
+## rodent models of neurodegenerative illness/
+
+
+# publications
+
+Title: Exercise alters cortico-basal ganglia network metabolic connectivity: a mesoscopic level analysis informed by anatomic parcellation defined in the mouse brain connectome, 2023
+Title: Exercise alters cortico-basal ganglia network functional connectivity: A mesoscopic level analysis informed by anatomic parcellation defined in the mouse brain connectome, 2023
+Title: A gut-derived metabolite alters brain activity and anxiety behaviour in mice, 2022
+Title: Physical activity intensity is associated with cognition and functional connectivity in Parkinson's disease, 2022
+Title: A mind in motion: Exercise improves cognitive flexibility, impulsivity and alters dopamine receptor gene expression in a Parkinsonian rat model, 2022
+Title: Thalamic volume mediates associations between cardiorespiratory fitness (VO2max) and cognition in Parkinson's disease, 2021
+Title: AWARD NUMBER: W81XWH18-1-0666, 2021
+Title: The Effects of Cardiorespiratory and Motor Skill Fitness on Intrinsic Functional Connectivity of Neural Networks in Individuals with Parkinson’s Disease, 2021
+Title: Modulation of hippocampal GABAergic neurotransmission and gephyrin levels by dihydromyricetin improves anxiety, 2020
+Title: Voluntary exercise improves voiding function and bladder hyperalgesia in an animal model of stress‐induced visceral hypersensitivity: A multidisciplinary approach to the study …, 2020
+
+

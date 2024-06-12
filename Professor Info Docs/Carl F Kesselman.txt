@@ -1,0 +1,18 @@
+# position
+
+William H. Keck Professor of Engineering and Professor of Industrial and Systems Engineering, Computer Science, Population and Public Health Sciences, and Biomedical Sciences
+
+# biography
+
+Carl Kesselman is a William H. Keck Professor of Engineering in the USC Viterbi School of Engineering.  He is a professor in the Daniel J. Epstein Department of Industrial and Systems Engineering and Department  of Computer Science,  Department of Population and Public Health Sciences in the Keck School of Medicine, and Biomedical Sciences in the Ostrow School of Dentistry. He is a USC Information Sciences Institute Fellow, where he directs the Informatics Systems Research Division, and the Director of the Center of Excellence for Discovery Informatics in the Michelson Center for Convergent Biosciences. 
+
+Carl Kesselman leads ISI's Informatics Systems Research Division. Created to understand how to build informatics systems that can help tackle the hardest problems of great sociatal impact, the work of the division spans grid computing, information security, service-oriented architectures, and sociotechnical systems and reproducability.
+
+Kesselman is an ISI Fellow, the Institute's highest honor. One of the fathers of grid computing and the Globus open-source toolkit.  He has received numerous honors for his pioneering research including the Lovelace Medal from the British Computing Society and the Goode Memorial Award from the Institute for Electrical and Electronic Engineers (IEEE) Computing Society and the IEEE Internet Award. He is a Fellow of the British Computing Society, the IEEE and the Association for Computing Machinery.
+
+Kesselman joined ISI in 1997 as a USC Computer Science Department research associate professor. Kesselman received his PhD in Computer Science from the University of California at Los Angles, a Masters in Electrical Engineering from the University of Southern California and a Bachelors of Electrical Engineering from the State University of New York at Buffalo.
+
+# research_summary
+
+Research Summary Highly collaborative research into the application of advanced distributed computing and collaboration techniques to grand challange problems in health informatics, biomedical science and policy
+

@@ -1,0 +1,33 @@
+# position
+
+Associate Professor of Civil and Environmental Engineering
+
+# biography
+
+Dr. Bora Gencturk is an Assistant Professor in the Sonny Astani Civil and Environmental Engineering Department at the University of Southern California (USC). He obtained his B.S. degree from Bogazici University (Istanbul, Turkey) and M.S. and Ph.D. degrees from the University of Illinois at Urbana-Champaign. Prior to joining USC, he was an assistant professor at the University of Houston for five years (2011-2016). Dr. Gencturk's technical interests are in the broad fields of extreme event resiliency and sustainability of civil infrastructure. He has received both young investigator awards given by the National Science Foundation (NSF): Faculty Early Career Development (CAREER) and Broadening Participation Research Initiation Grant in Engineering (BRIGE). Dr. Gencturk has produced more than 50 refereed journal papers, 3 book chapters, 6 research reports, and more than 40 conference papers. He teaches courses on structural dynamics, earthquake engineering and structural reliability. He is a member of ASCE, the American Concrete Institute, and the Earthquake Engineering Research Institute. Dr. Gencturk is also a registered Professional Civil Engineer in California.
+
+# research_summary
+
+
+
+# interests
+
+## Civil Engineering
+## Structural Engineering
+## Concrete Materials
+
+
+# publications
+
+Title: In-plane shear strengthening of reinforced concrete diaphragms using fiber reinforced polymer composites, 2023
+Title: Numerical simulation of the fracture and compression response of self-healing concrete containing engineered aggregates, 2023
+Title: Shear strengthening of reinforced concrete T-beams with anchored fiber-reinforced polymer composites, 2023
+Title: Self-healing efficiency of concrete containing engineered aggregates, 2023
+Title: Self-healing performance of reinforced concrete beams using engineered aggregates, 2023
+Title: Corrosion Behavior of Conventional and Corrosion-Resistant Steel Reinforcements in High-Performance Concrete and Ultra-High-Performance Concrete, 2023
+Title: Development and experimental verification of an active noise cancellation (ANC) method for non-invasive sensing, 2023
+Title: Damage detection of spent nuclear fuel canisters using frequency response functions, 2023
+Title: Machinability of Cu-Al-Mn Shape Memory Alloys, 2023
+Title: Computational modeling of the axial behavior of corroded and buckled short steel piles strengthened using concrete-filled GFRP jackets, 2023
+
+

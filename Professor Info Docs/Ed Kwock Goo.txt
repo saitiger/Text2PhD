@@ -1,0 +1,12 @@
+# position
+
+Associate Professor Emeritus of Chemical Engineering and Materials Science
+
+# biography
+
+Dr. Goo received his BS from Cornell University and his MS from U. C. Berkeley, both in Materials Science and Engineering, in 1978 and 1980, respectively. After working as a Senior Research Engineer at Fairchild Research and Development, he returned to school and received his Ph.D. in Materials Science and Engineering from Stanford University in 1985. He was the recipient of the 1986 Robert Lansing Hardy Gold Medal, awarded by the American Institute of Mining and Metallurgical Engineers to a young materials scientist showing outstanding promise of a successful career in materials science. In 1988, Dr. Goo received a Presidential Young Investigator Award from the National Science Foundation and in 1990 he received a Young Investigator Award from the Office of Naval Research.
+
+# research_summary
+
+Research Summary Investigation of phase transformation and crystal defects by transmission electron microscopy Deformation twinning in intermetallics Cation ordering in complex perovskites Cathode materials for Li-ion batteries
+

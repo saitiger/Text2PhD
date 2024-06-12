@@ -1,0 +1,12 @@
+# position
+
+Assistant Professor of Petroleum Engineering 
+
+# biography
+
+I am a geoscientist. I received MS in Petroleum Engineering from Stanford University and SM and PhD in Civil and Environmental Engineering from MIT. Applications of my research are in the modeling of groundwater flows, contaminant transport, induced seismicity, subsidence, hydraulic fracturing, enhanced oil recovery, and reservoir characterization. Prior to a career in academia, I worked in the petroleum industry in the geomodeling, reservoir engineering, and well logging aspects of the subsurface energy business.
+
+# research_summary
+
+Research Summary I am interested in coupled multi-physics processes of flow, transport, and mechanical deformation in porous media. I emphasize a mathematical and computational approach in studying geophysical systems to identify the dominant coupling mechanisms and expressing them in the form of reduced-order models that are computationally efficient and physically insightful. My research group at USC, the GEM Lab, studies the physics and mathematics of geophysical fluid flows and rock deformation. We create theoretical and computational tools, including machine learning and artificial intelligence tools, to investigate these multi-physics processes and address engineering challenges related to energy and the environment. Our
+

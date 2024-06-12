@@ -1,0 +1,45 @@
+# position
+
+Gordon S. Marshall Professor of Engineering Technology and Professor of Civil and Environmental Engineering
+
+# biography
+
+Costas Synolakis studies the impact of natural hazards, and particularly tsunamis and extreme flooding events on beaches. He has led or participated in about 30 scientific expeditions in twenty one countries, practically in all of the world's  oceans and seas. His  work in Papua New Guinea, Vanuatu, the Aleutian islands, the Marquesas, Sri Lanka, the Maldives, Kenya and Oman was groundbreaking  and highly cited. 
+
+Professor Synolakis grew up in Athens, then  attended the California Institute of Technology, where he did all his professional degrees. In 1985, he was appointed as assistant professor of Civil and Environmental Engineering at USC. In 1996, he was appointed Professor of Civil, Mechanical, Environmental and Aerospace Engineering at the Viterbi School of Engineering. 
+
+In 1996, Costas Synolakis founded the USC Tsunami Research Center. Its main accomplishments have been  : One, the development of MOST, the operational code used by the US-based and Australian based tsunami warning centers for tsunami forecasts, and two, the production of all official State maps for California for evacuation planning. In the aftermath of the 2004 Indonesian tsunami, the TRC for three days, held 70% of USC's went traffic, being then the only university center worldwide focused on tsunamis. In fact, USC shut down the site for a few hours, suspicious that it was subject to a cyber attack - the TRC received 35 million "hits" from people interested in tsunamis, worldwide in three days,
+
+In the aftermath of the Boxing Day tsunami, Professor Synolakis was appointed in the only Chair in Greek universities at the time, on natural hazard mitigation. The Laboratory which he founded studies extreme events such as earthquakes, tsunamis, fires and the impact of waves on beaches, particularly erosion, as well as wildfire evolution.  The results the Laboratory has generated from its nearshore field measurements of wind waves and currents, they are being now exploited in Greece  to address the problems of coastal  erosion and extreme marine-related floods. He holds this appointment in parallel and  teaches at TUC whenever he is on leave from USC. 
+
+Professor Synolakis has received both major awards of the American Society of Civil Engineers, the 2015 Moffat and Nichol Coastal Engineering Award and the 2019 International Coastal Engineering Award. In 2014, he received the Sergey Soloviev Medal of the European Geophysical Union. 
+
+Professor Synolakis now holds the Chair of Earth Sciences in the Academy of Athens, and in 2018, he is the President of the Division of Natural Sciences of the Academy. Since 2019, he is the Secretary. The Academy of Athens only has 40 members from all letters, arts, sciences, medicine and engineering discipline, and is the Greek National Academy. He is also a member of the Academia Europae and is the Chair of the National Committee on Climate Change of Greece.
+
+# research_summary
+
+Research Summary Keywords Tsunamis; inundation field surveys; numerical modeling; analytical modeling; hazard assessment, mitigation and planning; crisis and emergency management. Breaking waves. Beach erosion. Nearshore wave and currents measurement. Fire evolution modeling. Professor Synolakis early work concentrated on analytical solutions for the climb of solitary waves on plane beaches. Solitary waves were then believed to be a realistic model of tsunamis. He developed the relationship between the height of the solitary wave, the beach slope and the offshore depth now known as Synolakis's law. This work is highly cited. With his PhD students at the University of Southern California, he
+
+# interests
+
+## coastal engineering
+## tsunamis
+## marine sciences
+## earthquakes
+## coastal erosion
+
+
+# publications
+
+Title: Field based estimates of wave power at a nearshore Mediterranean locale for sustainable wave energy harnessing, 2023
+Title: Diverse tsunamigenesis triggered by the Hunga Tonga-Hunga Ha’apai eruption, 2022
+Title: Palaeo-Tsunami Events on the Coasts of Cyprus, 2022
+Title: The Mw = 6.6 earthquake and tsunami of south Crete on 2020 May 2, 2022
+Title: FIELD SURVEY OF THE 30 OCTOBER 2020 SAMOS (AEGEAN SEA) TSUNAMI IN THE GREEK ISLANDS, 2022
+Title: Anatomy of strike-slip fault tsunami genesis, 2021
+Title: Field survey of the 30 October 2020 Samos (Aegean Sea) tsunami in the Greek islands, 2021
+Title: Wave overtopping due to harbour resonance, 2021
+Title: Anatomy of Strike Slip Fault Tsunami genesis, 2021
+Title: Field survey and numerical modelling of the December 22, 2018 Anak Krakatau tsunami, 2020
+
+

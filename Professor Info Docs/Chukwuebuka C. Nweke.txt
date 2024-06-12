@@ -1,0 +1,14 @@
+# position
+
+Assistant Professor of Civil and Environmental Engineering
+
+# biography
+
+Dr. Nweke is currently an Assistant Professor in the Sonny Astani Department of Civil and Environmental Engineering at the University of Southern California Viterbi School of Engineering. He earned his B.S degree from the University of California, Davis, and his M.S and Ph.D. degrees from the University of California, Berkeley. After graduate school, he was an NSF-AGEP (Alliances for Graduate Education and the Professoriate) California Alliance Postdoctoral Fellow at the University of California, Los Angeles, and prior to joining USC, he was practicing engineering consultant.
+
+ - Postdoctorate Scholar, 2017 - 2020, University of California, Los Angeles
+
+# research_summary
+
+Research Summary Dr. Nweke focuses on applying components of data analytics (including statistical analysis, machine learning, and database management) to solve problems at the intersection of geotechnical engineering, earthquake engineering, seismology, and geomorphology. His research interests are modeling geo-materials, and investigating seismic and other natural hazards at the local (site) and regional scales. This includes characterizing sedimentary basin effects in earthquake ground motions, assessing and evaluating physics-based earthquake simulations, and investigating the mechanical behavior (static and dynamic) of bio-cemented soils. Additional applications include 1) earthquake ground motion spatial variability on the performance of lifeline infrastructure systems, 2) novel data acquisition
+

@@ -1,0 +1,36 @@
+# position
+
+Research Professor of Computer Science
+
+# biography
+
+William Swartout has been involved in the research and development of artificial intelligence systems for over 30 years. He is the director of technology at the USC Institute for Creative Technologies and a research professor in the computer science department at the USC Viterbi School of Engineering. His particular research interests include virtual humans, explanation and text generation, knowledge acquisition, knowledge representation, intelligent computer based education and the development of new AI architectures. 
+
+At ICT, Swartout provides overall direction for the institute's research programs. He is the ICT PI on the New Dimensions in Testimony project, a collaboration with the Shoah Foundation which is creating a new, interactive approach to preserving holocaust survivor testimony.  He leads the Personal Assistant for Life-Long Learning project, which is creating virtual human mentors to help sailors manage their training and transition from classroom based instruction to fleet-based operations. He led the National Science Foundation-funded museum guides project, which is brought ICT-created virtual humans to the Museum of Science, Boston. He oversaw the Mission Rehearsal Exercise project, which garnered awards for outstanding innovation in modeling and simulation from the National Training and Simulation Association and first place for innovative application of agent technology at the 2001 International Conference on Autonomous Agents. In 2009, Swartout received the Robert Engelmore Award from the Association for the Advancement of Artificial Intelligence for seminal contributions to knowledge-based systems and explanation, groundbreaking research on virtual human technologies and their applications, and outstanding service to the artificial intelligence community. He is a Fellow of the AAAI, has served on their Board of Councilors and is past chair of the Special Interest Group on Artificial Intelligence (SIGART) of the Association for Computing Machinery (ACM). He has served as a member of the Air Force Scientific Advisory Board, the Board on Army Science and Technology of the National Academies and the JFCOM Transformation Advisory Group. Prior to joining ICT in 1999, Swartout was director of the Intelligent Systems Division at the USC Information Sciences Institute. He received his Ph.D. and M.S. in computer science from MIT and his bachelor's degree from Stanford University.
+
+# research_summary
+
+Research Summary Swartout has been involved in cutting edge research and development of artificial intelligence systems throughout his career. His particular research interests include virtual humans, explanation and text generation, knowledge acquisition, knowledge representation, intelligent computer based education and the development of new AI architectures. He oversaw the Mission Rehearsal Exercise project, which garnered awards for outstanding innovation in modeling and simulation from the National Training and Simulation Association and first place for innovative application of agent technology at the 2001 International Conference on Autonomous Agents. Later, he led the National Science Foundation-funded museum guides project, which brought ICT-created virtual
+
+# interests
+
+## AI
+## Virtual Humans
+## Virtual Reality
+## Knowledge Representation
+
+
+# publications
+
+Title: Can Virtual Agents Scale Up Mentoring?: Insights from College Students’ Experiences Using the CareerFair. ai Platform at an American Hispanic-Serving Institution, 2023
+Title: Designing scientifically-grounded paleoart for augmented reality at La Brea Tar Pits, 2022
+Title: TAR AR: RESEARCHING HOW AUGMENTED REALITY ACTIVITIES CAN FACILITATE VISITOR LEARNING AT LA BREA TAR PITS, 2022
+Title: Using Augmented Reality (AR) to Bring the Past to Life in Informal Science Learning, 2022
+Title: Feasibility and usability of MentorPal, a framework for rapid development of virtual mentors, 2021
+Title: Promoting interest, positive emotions, and knowledge using augmented reality in a museum setting, 2021
+Title: Tar AR: Connecting the past with the present in informal science learning, 2021
+Title: SCIENCE BIG and SMALL: Visiting the Ice Age through Miniature and Life-Sized Augmented Reality Experiences, 2021
+Title: OpenTutor: Designing a Rapid-Authored Tutor that Learns as you Grade, 2021
+Title: AUGMENTED REALITY IN NATURAL HISTORY MUSEUMS: IMPACT ON VISITOR ENGAGEMENT AND SCIENCE LEARNING, 2021
+
+

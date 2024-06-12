@@ -1,0 +1,31 @@
+# position
+
+Assistant Professor of Physics and Astronomy and Electrical and Computer Engineeering
+
+# biography
+
+Eli Levenson-Falk received his A.B. in Physics from Harvard University in 2008, his M.A. in physics from UC Berkeley in 2010, and his PhD in Physics from UC Berkeley in 2013 while working in Prof. Irfan Siddiqi's Quantum Nanoelectronics Laboratory. He conducted postdoctoral research in the Kapitulnik lab at Stanford university from 2013 until 2017, when he joined the faculty at USC as an Assistant Professor in the Department of Physics & Astronomy. He was jointly appointed as an Assistant Professor of Electrical and Computer Engineering in 2023.
+
+# research_summary
+
+Research Summary My research focuses on using superconducting electrical circuits to form qubits, ultra-low-noise amplifiers, quasiparticle and photon detectors, and other quantum information devices. We use these for quantum computing, quantum simulation, quantum sensing, and to study the foundations of quantum mechanics. Current specific research topics include error suppression using dynamical decoupling and engineered dissipation, designing novel error-protected qubits, weak measurement feedback experiments, and studying quasiparticles in superconducting circuits.
+
+# interests
+
+## Physics
+
+
+# publications
+
+Title: Stabilizing two-qubit entanglement with dynamically decoupled active feedback, 2023
+Title: Electron-phonon interactions in the Andreev bound states of aluminum nanobridge Josephson junctions, 2023
+Title: Quasiparticle dynamics in Andreev bound states part 1: phonon interactions, 2023
+Title: Quasiparticle dynamics in Andreev bound states part 2: photon interactions, 2023
+Title: Non-equilibrium quasiparticle trapping in epitaxial Al-InAs Josephson junctions, 2023
+Title: Weak measurement feedback and Zeno pinning for remote entanglement generation and stabilization in superconducting qubits, 2023
+Title: Noise suppression in superconducting qubits through on-demand cavity cooling and optimal control, 2023
+Title: Quasiparticle dynamics in epitaxial Al-InAs planar Josephson junctions, 2023
+Title: Microwave-Transparent Infrared Filters for Superconducting Qubits, 2023
+Title: Entanglement preservation in non-Markovian open quantum systems, 2023
+
+

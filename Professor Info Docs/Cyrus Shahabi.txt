@@ -1,0 +1,38 @@
+# position
+
+Helen N. and Emmett H. Jones Professorship in Engineering and Professor of Computer Science, Electrical and Computer Engineering, and Spatial Sciences
+
+# biography
+
+Cyrus Shahabi is a Professor of Computer Science, Electrical Engineering and Spatial Sciences, and the chair of the Computer Science Department. He is also the Director of the Integrated Media Systems Center (IMSC) and the Informatics Program at USC’s Viterbi School of Engineering.  He was the CTO and co-founder of a USC spin-off, Geosemble Technologies, which was acquired in July 2012. Since then, he founded another company, ClearPath (recently rebranded as TallyGo), focusing on predictive path-planning for car navigation systems. He received his B.S. in Computer Engineering from Sharif University of Technology in 1989 and then his M.S. and Ph.D. Degrees in Computer Science from the University of Southern California in May 1993 and August 1996, respectively. He authored two books and more than three hundred research papers in databases, GIS and multimedia with more than 12 US Patents. 
+
+Dr. Shahabi has received funding from several agencies such as NSF, NIJ, NASA, NIH, DARPA, AFRL, and DHS as well as several industries such as Chevron, Google, HP, Intel, Microsoft, NCR, NGC and Oracle. He was an Associate Editor of IEEE Transactions on Parallel and Distributed Systems (TPDS) from 2004 to 2009, IEEE Transactions on Knowledge and Data Engineering (TKDE) from 2010-2013 and VLDB Journal from 2009-2015. He is currently the chair of ACM SIGSPATIAL for the 2017-2020 term and also on the editorial board of the ACM Transactions on Spatial Algorithms and Systems (TSAS) and ACM Computers in Entertainment. He is the founding chair of IEEE NetDB workshop and also the general co-chair of SSTD’15, ACM GIS 2007, 2008 and 2009. He chaired the nomination committee of ACM SIGSPATIAL for the 2011-2014 terms. He is a PC co-Chair of APWeb+WAIM’2017 and the PhD workshop of ICDE 2018. In the past, he has been PC co-chair of several conferences such as BigComp’2016, MDM’2016, DASFAA 2015, IEEE MDM 2013 and IEEE BigData 2013, and regularly serves on the program committee of major conferences such as VLDB, SIGMOD, IEEE ICDE, ACM SIGKDD, IEEE ICDM, and ACM Multimedia. 
+
+Dr. Shahabi is a fellow of IEEE, and a recipient of the ACM Distinguished Scientist award in 2009, the 2003 U.S. Presidential Early Career Awards for Scientists and Engineers (PECASE), the NSF CAREER award in 2002, and the 2001 Okawa Foundation Research Grant for Information and Telecommunications. He was also a recipient of the US Vietnam Education Foundation (VEF) faculty fellowship award in 2011 and 2012, an organizer of the 2011 National Academy of Engineering “Japan-America Frontiers of Engineering” program, an invited speaker in the 2010 National Research Council (of the National Academies) Committee on New Research Directions for the National Geospatial-Intelligence Agency, and a participant in the 2005 National Academy of Engineering “Frontiers of Engineering” program.
+
+# research_summary
+
+Research Summary Databases, Spatial Databases, Mutlimedia Databases, Geospatial Information Systems, data mining
+
+# interests
+
+## Database
+## GIS
+## Multimedia
+## Data Mining
+
+
+# publications
+
+Title: Latent space model for road networks to predict time-varying traffic, 2023
+Title: Missed Opportunities in Fair AI, 2023
+Title: On Distribution Dependent Sub-Logarithmic Query Time of Learned Indexing, 2023
+Title: NeuroSketch: Fast and Approximate Evaluation of Range Aggregate Queries with Neural Networks, 2023
+Title: A Neural Approach to Spatio-Temporal Data Release with User-Level Differential Privacy, 2023
+Title: Fair Spatial Indexing: A paradigm for Group Spatial Fairness, 2023
+Title: Holistic Survey of Privacy and Fairness in Machine Learning, 2023
+Title: Time-variant road network-based bridgelets, 2023
+Title: CSGAN: Modality-Aware Trajectory Generation via Clustering-based Sequence GAN, 2023
+Title: Evaluating Accessibility of Los Angeles Metropolitan Area Using Data-Driven Time-Dependent Reachability Analysis, 2023
+
+

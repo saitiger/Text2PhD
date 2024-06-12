@@ -1,0 +1,35 @@
+# position
+
+Professor of Aerospace and Mechanical Engineering
+
+# biography
+
+Bingen “Ben” Yang is Professor of Aerospace and Mechanical Engineering at the University of Southern California. With 20 years of research experience, he has published approximately 150 journal and conference papers in the areas of solid mechanics, vibrations, structural dynamics and controls. His current research interests include modeling, analysis, and deployment control of inflatable space structures, servo control of flexible positioning systems, and development of intelligent biomedical devices via smart materials and micro-electro-mechanical systems. A fellow of the American Society of Mechanical Engineers, Dr. Yang received his Ph. D. in mechanical engineering from the University of California at Berkeley.
+
+# research_summary
+
+Research Summary Dr. Yang's research interest lies in the fields of dynamics, vibrations, structures, controls, applied mechanics, and applied mathematics. He has undertaken various research projects on modelling, dynamic analysis, control, and failure analysis of complex mechanical systems including aircraft and vehicle structures, flexible robot arms, automobile brakes, weapon systems, cable-stayed long span bridges, distributed vibration dampers, intelligent vehicle/highway systems, information storage systems, and machines for material processing and manufacture. Those projects have been sponsored by various government and industrial funding agencies including the National Science Foundation, the Powell Foundation, the U.S. Army Research Office, Tektronix, Motorola, Caltrans, Structural Research
+
+# interests
+
+## Structures
+## vibrations
+## dynamics
+## control
+## mechanics
+
+
+# publications
+
+Title: On Jump Discontinuities in Internal Forces of Flexible Structures Carrying Moving Subsystems, 2023
+Title: Dynamic Modeling and Transient Response of a Rigid-Body Inductrack Maglev System, 2023
+Title: Thermal analysis of the backup structure of the tianma telescope, 2022
+Title: An Approach to Modeling Percussive Drilling Systems, 2022
+Title: A New strategy for form finding and optimal design of space cable network structures, 2022
+Title: Dynamic Systems: Modelling, Simulation, and Analysis, 2022
+Title: Structure carrying moving subsystems with distributed viscoelastic coupling: part I-modeling and dynamics response, 2022
+Title: Structure carrying moving subsystems with distributed viscoelastic coupling: part II-parametric resonance and stability, 2022
+Title: STRESS, STRAIN, AND STRUCTURAL DYNAMICS: An Interactive Handbook of Formulas, Solutions, and MATLAB Toolboxes, 2nd edition, 2022
+Title: Nonlinear Feedback Control of the Inductrack System Based on a Transient Model, 2021
+
+

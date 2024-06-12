@@ -1,0 +1,32 @@
+# position
+
+Professor of Electrical and Computer Engineering Practice
+
+# biography
+
+Ph.D. in Electrical Engineering, 1979, MIT, Boston, MA.
+
+# research_summary
+
+
+
+# interests
+
+## Electromagnetics
+## Solid-State Electronics
+
+
+# publications
+
+Title: Static line parachute automatic activation device, 2005
+Title: Wideband vibration sensor, 1999
+Title: Micromachined accelerometer with a movable-gate-transistor sensing element, 1997
+Title: Surface passivation of gaas mesfets, 1997
+Title: Micromechanical vibratory gyroscope sensor array, 1995
+Title: Complex impedance spectroscopy for metal‐semiconductor field‐effect‐transistor surface characterization, 1995
+Title: Silicon micromachined sensor for broadband vibration analysis, 1995
+Title: Lateral diffusion of sodium from peripheral sources in metal oxide semiconductor transistors, 1993
+Title: Specific resistivity of delta‐doped contacts in n‐GaAs, 1991
+Title: Measurement of Viscoelastic Stress Relief in Patterned Silicon-on-Insulator Composite Structures With Raman Spectroscopy, 1991
+
+

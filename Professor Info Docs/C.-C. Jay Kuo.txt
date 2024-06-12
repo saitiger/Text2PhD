@@ -1,0 +1,40 @@
+# position
+
+William M. Hogue Professor of Electrical and Computer Engineering and Distinguished Professor of Electrical and Computer Engineering and Computer Science
+
+# biography
+
+Dr. C.-C. Jay Kuo received the B.S. degree from the National Taiwan University, Taipei, in 1980 and the M.S. and Ph.D. degrees from the Massachusetts Institute of Technology, Cambridge, in 1985 and 1987, respectively, all in Electrical Engineering. From October 1987 to December 1988, he was Computational and Applied Mathematics Research Assistant Professor in the Department of Mathematics at the University of California, Los Angeles. Since January 1989, he has been with the University of Southern California (USC). He is presently Director of the Multimedia Communication Lab. and Dean’s Professor in Electrical Engineering at USC. 
+
+His research interests are in the areas of multimedia compression and communication, multimedia content analysis and computer vision. Dr. Kuo is listed as the top advisor in the Mathematics Genealogy Project in the number of supervised PhD students. He has guided 134 students to their PhD degrees and supervised 25 postdoctoral research fellows. Currently, his research lab at USC (http://mcl.usc.edu) has around 20 Ph.D. students. He is a co-author of about 250 journal papers, 900 conference papers, 30 patents, and 14 books. He delivered about 550 invited lectures in conferences, research institutes, universities and companies. 
+Dr. Kuo is a Fellow of AAAS, IEEE and SPIE. He was Editor-in-Chief for the IEEE Transactions on Information Forensics and Security (2012-2014) and the Journal of Visual Communication and Image Representation (1997-2011). He was on the Editorial Board of the IEEE Signal Processing Magazine (2003-2004), IEEE Transactions on Speech and Audio Processing (2001-2003), IEEE Transactions on Image Processing (1995-98) and IEEE Transactions on Circuits and Systems for Video Technology (1995-1997). He was an IEEE Signal Processing Society Distinguished Lecturer (2006-2007). He is currently a Senior Editorial Board Member for the IEEE Journal of Selected Topics on Signal Processing (2015-2017). He was an IEEE Signal Processing Society Distinguished Lecturer in 2006. He was President of Asia-Pacific Signal and Information Processing Association (APSIPA) in 2013-2014. 
+
+Dr. Kuo received the 1992 National Science Foundation Young Investigator (NYI) Award, the 1993 National Science Foundation Presidential Faculty Fellow (PFF) Award, the 1994 USC Northrop Junior Faculty Research Award, the 2007 Okawa Foundation Research Award, the 2010 Electronic Imaging Scientist of the Year Award, the 2010-11 Fulbright-Nokia Distinguished Chair in Information and Communications Technologies, the 2011 Pan Wen-Yuan Outstanding Research Award, the 2014 USC Northrop Grumman Excellence in Teaching Award, the 2016 USC Associates Award for Excellence in Teaching, the 2016 IEEE Computer Society Taylor L. Booth Education Award, the 2016 IEEE Circuits and Systems Society John Choma Education Award, the 2016 IS&T Raymond C. Bowman Award and the 2017 IEEE Leon K. Kirchmayer Graduate Teaching Award.
+
+# research_summary
+
+Research Summary Professor C.-C. Jay Kuo is presently Director of Media Communications Laboratory and Dean’s Professor of Electrical Engineering at the University of Southern California (USC). He is one of the most prolific researchers, an R&D trend-setter, and an internationally-recognized technology leader in the multimedia field for around 30 years with enduring impact on both the academic and industry realms. He has published about 250 journal papers, 900 conference papers and 14 books. His work has been cited more than 23,700 times and his h-index is 68 (source: Google Scholar). His technical contributions span the following three main areas. 1)
+
+# interests
+
+## Multimedia
+## Visual Computing
+## Video Coding
+## Green AI
+## Green Learning
+
+
+# publications
+
+Title: An overview on language models: Recent developments and outlook, 2023
+Title: A survey on perceptually optimized video coding, 2023
+Title: Design of supervision-scalable learning systems: Methodology and performance benchmarking, 2023
+Title: Synwmd: Syntax-aware word mover’s distance for sentence similarity evaluation, 2023
+Title: PRISMA AI reporting guidelines for systematic reviews and meta-analyses on AI in healthcare, 2023
+Title: Magic: Mask-guided image synthesis by inverting a quasi-robust classifier, 2023
+Title: S3I-PointHop: SO (3)-Invariant PointHop for 3D Point Cloud Classification, 2023
+Title: PointFlowHop: Green and Interpretable Scene Flow Estimation from Consecutive Point Clouds, 2023
+Title: TypeEA: Type-Associated Embedding for Knowledge Graph Entity Alignment, 2023
+Title: Unsupervised synthetic image refinement via contrastive learning and consistent semantic-structural constraints, 2023
+
+

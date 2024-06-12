@@ -1,0 +1,14 @@
+# position
+
+Professor Emeritus of Aerospace and Mechanical Engineering
+
+# biography
+
+1982 Ph.D., Mechanical Engineering, California Institute of Technology
+1978 M.S., Mechanical Engineering, California Institute of Technology
+1977 B.A., Mathematics, Vassar College
+
+# research_summary
+
+Research Summary Two-phase flow, flow of granular material, heat transfer, slurry flows, fluidized beds, comminutron, particle fracture
+

@@ -1,0 +1,17 @@
+# position
+
+Dana and David Dornsife Chair in Chemistry and Distinguished Professor of Chemistry and Biochemistry and Chemical Engineering and Materials Science
+
+# biography
+
+Arieh Warshel is a Distinguished Professor of Chemistry at the University of Southern California’s Dornsife College
+of Letters, Arts and Sciences, was awarded a Nobel Prize in 2013 for his groundbreaking research in theoretical chemistry. Dr. Warshel holds the Dana and David Dornsife Chair in Chemistry at USC, where he has served on the faculty since 1976.
+
+A member of the National Academy of Sciences, Dr. Warshel has pioneered computer simulations of the functions of biological molecules. He has authored nearly 400 peer-reviewed articles, including the book, Computer Modeling of Chemical Reactions in Enzymes and Solutions (Wiley Professional, 1991). He co-developed computer programs for molecular simulations which have been used extensively in different applications including the development of new pharmaceuticals.
+
+An honorary member of the Royal Society of Chemistry (RSC), Dr. Warshel’s numerous awards include the American Chemical Society’s Tolman Medal, the RSC’s Soft Matter and Biophysical Chemistry Award, and the Biophysical Society’s Founders Award.
+
+# research_summary
+
+Research Summary Arieh Warshel and his coworkers have spearheaded key approaches for simulating the functions of biological molecules, including introducing molecular dynamics in biology; developing the quantum mechanical/molecularmechanical (QM/MM) approach; introducing simulations of enzymatic reactions; pioneering microscopic simulations of electron transfer and proton transfer in solutions and in proteins; pioneering microscopic modeling of electrostatic effects in macromolecules; and introducing simulations of protein folding. In addition, Dr. Warshel and his collaborators recently elucidated the structure-based origin of the vectorial action of molecular machines.
+

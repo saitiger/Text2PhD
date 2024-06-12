@@ -1,0 +1,34 @@
+# position
+
+Assistant Professor of Electrical and Computer Engineering
+
+# biography
+
+Constantine Sideris is an Assistant Professor of Electrical Engineering at the University of Southern California (USC). He received the B.S., M.S., and PhD degrees with honors from the California Institute of Technology in 2010, 2011, and 2017 respectively. He was a visiting scholar at the UC Berkeley Wireless Research Center (BWRC) from 2013 to 2014. He was a lecturer in the Electrical Engineering department for Caltech’s popular machine learning project course in 2017. 
+
+Dr. Sideris was a recipient of an NSF graduate research fellowship in 2010, the Analog Devices Outstanding Student Designer Award in 2012, and the Caltech Leadership Award in 2017. He was a postdoctoral fellow in the departments of Electrical Engineering and Computing and Mathematical Sciences at Caltech from January 2017 to August 2018.
+
+His research interests include analog and RF integrated circuits and computational electromagnetics for biomedical applications, wireless communications, and silicon photonics.
+
+# research_summary
+
+Research Summary Analog/RF integrated circuits, biosensors, biomedical devices, computational electromagnetics, silicon photonics
+
+# interests
+
+
+
+# publications
+
+Title: A boundary integral method for 3D nonuniform dielectric waveguide problems via the windowed Green function, 2023
+Title: Concurrent Dual Polarization Dielectric Waveguide Interconnect using Inverse Designed Dual-Mode Surface Antenna Launcher, 2023
+Title: Ultra-low power in-sensor neuronal computing with oscillatory retinal neurons for frequency-multiplexed, parallel machine vision, 2023
+Title: Concurrent Multi-Mode Excitation for Mode Division Multiplexing over Substrate Integrated Waveguides, 2023
+Title: Ultra-fast Simulation and Inverse Design of Metallic Antennas, 2023
+Title: p-Adaptive Quadrature for the Chebyshev-based Boundary Integral Equation Method, 2023
+Title: Wireless implantable electrode array, 2023
+Title: A High-Order-Accurate 3D Surface Integral Equation Solver for Uniaxial Anisotropic Media, 2023
+Title: Design and Implementation of a Low Power Wireless Frequency-Division Multiplexed Magnetic 3D Localization Scheme With Sub-mm Precision for Capsule Endoscopy Applications, 2023
+Title: Foundry-fabricated grating coupler demultiplexer inverse-designed via fast integral methods, 2022
+
+

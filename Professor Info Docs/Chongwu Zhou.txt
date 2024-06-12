@@ -1,0 +1,39 @@
+# position
+
+Professor of Electrical and Computer Engineering
+
+# biography
+
+Dr. Chongwu Zhou is a full professor of Department of Electrical Engineering at University of Southern California (USC). He previously held positions of the Jack Munushian Associate Professor (2006 - 2011) and Assistant Professor (2000 - 2006) at USC. He received Ph.D. in Electrical Engineering from Yale University in 1999, and worked as a postdoc at Stanford University from 1998 to 2000.
+
+Dr. Zhou has authored 161 journal publications with altogether 16,024 citations and an h-index of 55 (http://www.researcherid.com/rid/F-7483-2010). His work has been reported by Science, Scientific American, Physics Today, MRS Bulletin, Materials Today, National Cancer Institute, and Royal Society of Chemistry. His research interest covers carbon nanotubes, nanowires, graphene, bionanotechnology, and energy nanotechnology. His research group consists of postdocs and students with background in electrical engineering, physics, chemistry, and materials science.
+
+He is currently an Associate Editor for Nanotechnology and IEEE Transactions on Nanotechnology. He has received a number of awards, including the NSF CAREER Award (2002), the NASA TGIR Award (2002), the USC Junior Faculty Research Award (2004), and the first IEEE Nanotechnology Early Career Award (2007).
+
+# research_summary
+
+Research Summary Zhou's research interests include nanoelectronics and nanotechnology molecular electronics mesoscopic physics MEMs and bioMEMs. Chongwu Zhou Research Summary
+
+# interests
+
+## carbon nanotubes
+## two-dimensional materials
+## graphene
+## bionanotechnology
+## energy nanotechnology
+
+
+# publications
+
+Title: Nanotube Stochastic Resonance: Noise–enhanced Detection of Subthreshold Signals, 2016
+Title: Black phosphorus gas sensors, 2015
+Title: Chemical vapor deposition growth of monolayer WSe2 with tunable device characteristics and growth mechanism study, 2015
+Title: Mechanical and Electrical Anisotropy of Few-Layer Black Phosphorus, 2015
+Title: Step-Edge-Guided Nucleation and Growth of Aligned WSe2 on Sapphire via a Layer-over-Layer Growth Mode, 2015
+Title: Reversible Semiconducting-to-Metallic Phase Transition in Chemical Vapor Deposition Grown Monolayer WSe2 and Applications for Devices, 2015
+Title: Tandem solar cells using GaAs nanowires on Si: Design, Fabrication, and Observation of voltage addition, 2015
+Title: SnO 2 coated carbon cloth with surface modification as Na-ion battery anode, 2015
+Title: Redox sorting of carbon nanotubes, 2015
+Title: High-power lithium ion batteries based on flexible and light-weight cathode of LiNi 0.5 Mn 1.5 O 4/carbon nanotube film, 2015
+
+

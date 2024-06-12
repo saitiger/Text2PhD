@@ -1,0 +1,12 @@
+# position
+
+Professor of Computer Science
+
+# biography
+
+David Kempe received his Ph.D. from Cornell University in 2003, and has been on the faculty in the computer science department at USC since the Fall of 2004, where he is currently an Associate Professor.
+
+# research_summary
+
+Research Summary Primary research interests are in computer science theory and the design and analysis of algorithms, with a particular emphasis on social networks, topics at the intersection of economics and computing, and algorithmic learning questions. He is a recipient of the NSF CAREER award, the VSoE Junior Research Award, the ONR Young Investigator Award, a Sloan Fellowship, and an Okawa Fellowship, in addition to several USC mentoring awards.
+

@@ -1,0 +1,12 @@
+# position
+
+Research Assistant Professor of Civil and Environmental Engineering 
+
+# biography
+
+Dr. Botong Zheng joined the University of Southern California as a Research Assistant Professor in 2022. His current research interest is in the digital construction of concrete structures. He also works on the fatigue of steel and structural applications of composites and shape memory alloys, for which he received the Mirko Roš Award Silver Medal in 2017. Prior to joining USC, he was a Research Assistant Professor at The Hong Kong Polytechnic University, and he received his PhD from the University of Houston in 2016 and his M.E. and B.E. from Tongji University in 2012 and 2009, respectively. He currently serves as a member of the International Editorial Board for ASCE Journal of Composites for Construction and the Assistant Editor for the journal Advances in Structure Engineering. He is also a member of the ASTM Committee F42 on Additive Manufacturing Technologies. Dr. Zheng teaches the class Mechanical Behavior of Materials.
+
+# research_summary
+
+Research Summary His current research aims at addressing three challenges in 3D concrete printing: 1) understand the mechanical behavior of fresh 3D printed concrete from the solid mechanics perspective, 2) accurately model the fresh concrete structure behavior during the 3D printing process, and 3) develop an effective reinforcing system suited for 3D printed concrete structures that provides sufficient tensile capacity while being compatible to automation and geometry flexibility. Dr Zheng also works on the constitutive modeling of conventional concrete, especially under sophisticated confinement from high strength reinforcement such as high strength steel and fiber reinforced polymer composites. His research extends
+

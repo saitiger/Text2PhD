@@ -1,0 +1,34 @@
+# position
+
+Associate Professor of Computer Science Practice
+
+# biography
+
+Clifford Neuman is a Scientist at the Information Sciences Institute of the University of Southern California and holds a research faculty appointment in the Computer Science Department.
+
+He received an S.B. degree in Computer Science and Engineering from the Massachusetts Institute of Technology in June 1985. Upon completion he spent a year working for MIT's Project Athena where he was a principal designer of the Kerberos authentication system. Neuman began graduate studies in the Computer Science Department of the University of Washington in the fall of 1986, received an M.S. degree in 1988, and a Ph.D. in June of 1992.
+
+# research_summary
+
+Research Summary Dr. Neuman's research interests include issues of scale in large distributed systems. He has proposed the Virtual System Model, a scalable approach to organizing large systems, and is the author of the Prospero Directory Service, a prototype directory service based on that model. The Prospero Directory Service organizes data from distributed Internet file systems and information services into a coherent whole. Dr. Neuman has applied the Virtual System Model to managing resources in distributed systems. The Prospero Resource Manager forms the basis of a network computing infrastructure that schedules multi-processor resources in the broader context of distributed systems.
+
+# interests
+
+## Computer Security
+## Distributed Systems
+
+
+# publications
+
+Title: Risk assessment of smart grids under cyber-physical attacks using Bayesian networks, 2020
+Title: IGNORE: A Policy Server to Prevent Cyber-Attacks from Propagating to the Physical Domain, 2020
+Title: A comprehensive analysis of smart grid systems against cyber-physical attacks, 2018
+Title: Rl-bags: A tool for smart grid risk assessment, 2018
+Title: A systematic approach for analyzing multiple cyber-physical attacks on the smart grid, 2018
+Title: PSP: A Framework to Allocate Resources to Power Storage Systems under Cyber-Physical Attacks, 2018
+Title: Civil Law and Privacy, 2018
+Title: Analyzing cyber-physical attacks on smart grid systems, 2017
+Title: BAGS: A Tool to Quantify Smart Grid Resilience., 2017
+Title: Evaluating resilience of gas pipeline systems under cyber-physical attacks: A function-based methodology, 2016
+
+

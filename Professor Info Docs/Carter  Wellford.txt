@@ -1,0 +1,14 @@
+# position
+
+Professor of Civil and Environmental Engineering
+
+# biography
+
+Ph.D. 1975 University of Alabama, Huntsville  
+M.S. 1971 University of Alabama, Huntsville 
+B.S. 1966 University of Virginia
+
+# research_summary
+
+Research Summary * Numerical methods in engineering * Finite element methods * Linear and nonlinear structural analysis
+

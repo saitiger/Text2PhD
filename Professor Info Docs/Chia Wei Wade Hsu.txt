@@ -1,0 +1,37 @@
+# position
+
+Assistant Professor of Electrical and Computer Engineering
+
+# biography
+
+Wade Hsu joined the USC Ming Hsieh Department of Electrical and Computer Engineering in August 2019. He received his B.A. with high honors in physics and mathematics from Wesleyan University, and carried out his Ph.D. work at Harvard University and at the Massachusetts Institute of Technology. Before coming to USC, he was a postdoctoral fellow in applied physics at Yale University.
+
+Dr. Hsu has co-authored over 50 papers, with over 7000 citations and h-index over 30. He holds 5 granted patents and serves as a research advisor for a start-up company Lux Labs. His work has been featured in scientific magazines and the media such as Nature, Scientific American, Physics Today, BBC News, Huffington Post, and CNET. He serves on the Editorial Board of NPG Communications Physics.
+
+# research_summary
+
+Research Summary Dr. Hsu works on photonics in complex systems, where physics and applications meet. He has pioneered new ways to confine light in nanophotonic structures and to control wave propagation in scattering media, as well as inventing transparent displays based on resonant scattering. His group employs a combination of experimental, numerical, and analytical techniques. The common experimental tools include optical characterizations, wavefront shaping with spatial light modulators (to synthesize customized light fields), and nanofabrication (to create tailored photonic structures). Full-wave electromagnetics simulations, many developed in the group, are used extensively for design and to extract information that cannot be
+
+# interests
+
+## Complex Media
+## Nanophotonics
+## Computational Electromagnetics
+## Non-Hermitian Optics
+## Metasurfaces
+
+
+# publications
+
+Title: Coherent Backscattering of Entangled Photon Pairs, 2023
+Title: Adaptive beamforming for optical wireless communication via fiber modal control, 2023
+Title: Fast multi-channel inverse design through augmented partial factorization, 2023
+Title: Numerical experiments of tomographic optical imaging inside scattering media, 2023
+Title: Creating high-contrast patterns in multiple-scattering media via wavefront shaping, 2023
+Title: Frequency comb generation with lasers near exceptional points, 2023
+Title: Delivering Broadband Light Deep into Diffusive Media, 2023
+Title: Deep imaging inside scattering media through virtual spatiotemporal wavefront shaping, 2023
+Title: Ab initio Theory for Exceptional-Point Lasers and Periodic-Inversion Lasers, 2023
+Title: Inverse Design of Nonlocal Metasurfaces Using Augmented Partial Factorization, 2023
+
+

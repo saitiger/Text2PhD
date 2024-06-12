@@ -1,0 +1,20 @@
+# position
+
+Research Professor of Astronautics
+
+# biography
+
+David Barnhart is a Research Professor in the Department of Astronautical Engineering at USC, the Director/Co- Founder of the USC Space Engineering Research Center, and the Director of Space Systems and Technology Division at USC/ISI.  At USC he specializes in developing innovative technologies and architectures for 2nd generation space morphologies, satellite robotics and inspiration-based engineering techniques through hands-on projects with students, faculty and staff amongst the various Schools at USC, with outreach to industry based on the “engineering teaching hospital” construct.   David was most recently a senior space Project Manager at DARPA, pioneering cellular spacecraft morphologies, satbotics and space robotics on the Phoenix and SeeMe projects, and represented the first DARPA space project presented at the United Nations COPUOS in Vienna Austria.
+
+At the Space Engineering Research Center he has helped develop innovative solutions in aerospace and small satellite systems and technologies, new satellite design-synthesis tools to cut design time down to days from months and incorporate integration as a design tool, hybrid robotics concepts for satellites with the ability to be demonstrated in very large multi-dimensional low cost ground testbed, the creation which was 2nd only to NASA’s in scope and the largest University research facility of its kind to pioneer small satellite swarm interactions.  The SERC created and launched USC’s first two Cubesat’s into space and has clean room and electrical/mechanical labs that can support satellites up to 100kg.
+
+Prior to USC David helped initiate two commercial space companies; co-founding and serving as Vice President and CFO of Millennium Space Systems, which has grown into a sustainable aerospace business with both Government and commercial customers in Los Angeles CA; and was the youngest elected member of a three-person international Executive Management board for a German startup in Bremen, Vanguard Space. At Vanguard he energized international space re-insurance and financial institutions on the technical attributes of a new space market, while developing US and European engineering contracts to execute the business plan.
+
+David served as an AF civilian for over 13 years and helped birth several notable projects over that time including pioneering demonstration of a miniature lunar lander vehicle modified from KKV technologies, showcased to the Vice President on the 25th Anniversary of Apollo 11; and created and lead the first $150M Small-Satellite Project team for the Air Force that formed the initial basis for US technology infusion in micro-satellite systems.   Both the XSS-10 and XSS-11 team’s received the National AIAA Space Systems Award in 2003 and 2007 for pioneering developments and contributions to the aerospace industry.
+
+David holds a Bachelor of Science degree in Aerospace Engineering from Boston University and a Masters of Engineering from Virginia Polytechnic Institute, and has authored over 35 research publications and has been a keynote speaker at multiple national and international space conferences on 2nd generation space architectures.
+
+# research_summary
+
+
+
