@@ -1,0 +1,14 @@
+# position
+
+Associate Professor of Chemical Engineering and Materials Science
+
+# biography
+
+Ph.D., Chemical Engineering, Texas, Austin
+M.S., Chemical Engineering, Clemson University, 1996
+B.S., Chemical Engineering, Clemson University, 1994
+
+# research_summary
+
+Research Summary The photocontrolled binding of light-sensitive surfactants onto proteins is being investigated as a means to control protein folding with light irradiation. These photosensitive surfactants undergo a reversible photoisomerization upon exposure to the appropriate wavelength of light, with the visible-light form of the surfactant being more hydrophobic than the UV-light form. As a consequence, the visible-light form exhibits enhanced binding to the hydrophobic domains of the protein compared to the UV-light form of the surfactant. Light scattering and small-angle neutron scattering have recently revealed that this light-directed (i.e., reversible) surfactant binding causes bovine serum albumin (BSA) to unfold, with
+

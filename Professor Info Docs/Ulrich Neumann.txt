@@ -1,0 +1,39 @@
+# position
+
+Professor of Computer Science and Electrical and Computer Engineering
+
+# biography
+
+Dr. Ulrich Neumann is a professor in the Computer Science Department at the University of Southern California.  He earned an MSEE from SUNY at Buffalo in 1980 and his computer science Ph.D. at the University of North Carolina at Chapel Hill in 1993 where his focus was on parallel algorithms for interactive volume-visualization. His research relates to video visualization, interactive media, tracking for augmented reality, and human facial modeling, rendering, and animation.
+
+Dr. Neumann is the former (2000-2004) Director of the Integrated Media Systems Center (IMSC), an NSF Engineering Research Center (ERC), and he directs the Computer Graphics and Immersive Technologies (CGIT) Laboratory at USC. Prior to his academic career, he designed multiprocessor graphics and DSP systems, cofounded a video game corporation, and independently developed and licensed electronic products.
+
+Prof. Neumann is a recipient of an NSF CAREER Award (1995) and the USC Northrop Grumman Junior Faculty Research Award (1999). He is a member of the ACM, Siggraph, and the IEEE Computing Society.
+
+# research_summary
+
+Research Summary Computer Graphics, Computer Vision, Data Visualization, 3D Modeling, Tracking, Augmented Reality
+
+# interests
+
+## computer graphics
+## computer vision
+## 3D modeling
+## virtual reality
+## augmented reality
+
+
+# publications
+
+Title: Collaborative uncertainty benefits multi-agent multi-modal trajectory forecasting, 2023
+Title: Strivec: Sparse Tri-Vector Radiance Fields, 2023
+Title: MMVP: Motion-Matrix-based Video Prediction, 2023
+Title: Meta-Optimization for Higher Model Generalizability in Single-Image Depth Prediction, 2023
+Title: Complete 3D Human Reconstruction From a Single Incomplete Image, 2023
+Title: Point-nerf: Point-based neural radiance fields, 2022
+Title: Behind the curtain: Learning occluded shapes for 3d object detection, 2022
+Title: Toward practical monocular indoor depth estimation, 2022
+Title: Aware of the history: Trajectory forecasting with the local behavior data, 2022
+Title: Cross-Modal Perceptionist: Can Face Geometry be Gleaned from Voices?, 2022
+
+

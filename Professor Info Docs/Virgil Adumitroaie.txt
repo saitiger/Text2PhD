@@ -1,0 +1,12 @@
+# position
+
+Part-Time Lecturer of Chemical Engineering and Materials Science
+
+# biography
+
+Virgil Adumitroaie received his Ph. D. degree in Mechanical Engineering from the University at Buffalo in 1997, for research performed in simulation and modeling of high-speed turbulent reacting flows. He served for six years as a Senior Engineer at the CFD Research Corporation, Huntsville, AL prior to joining the Jet Propulsion Laboratory as a Senior Member of Technical Staff in 2004, and USC as Adjunct Lecturer in 2006. He has published papers and technical reports on advanced modeling of compressible flows, direct numerical simulations and large eddy simulations (LES) of chemically reacting flows, magnetohydrodynamics, decision support for technology portfolio investments, and giant planets atmospheric and magnetospheric modeling. During his career he has been involved in turbulent combustion modeling, data dimension reduction, neural networks, signaling pathways and scientific software development. At JPL, his work in optimization methods and uncertainty analysis applied to decision problems supported tasks from the JPL 's Strategic Technologies Program Office. He was part of the Sounder PEATE software development team in the Suomi NPP project. Currently, as Data Scientist, he develops outer planetary environment models and radiation monitoring software for the Juno Mission. Dr. Adumitroaie has delivered undergraduate and graduate level courses: Energy and Process Efficiency, Strength of Materials, Discrete Systems Simulation, Value and Decision Theory, Engineering Economic Analysis and Advanced Engineering Economics.
+
+# research_summary
+
+
+

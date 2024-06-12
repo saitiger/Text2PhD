@@ -1,0 +1,16 @@
+# position
+
+Professor of Electrical and Computer Engineering
+
+# biography
+
+Ph.D. in Electrical Engineering, 1962, Purdue, West Lafayette, IN.
+
+Dr. Lindsey is an internationally known expert in the field of Communication Sciences and has over thirty years experience in deep space and satellite communication system architecting, engineering, design, analysis and simulation. His areas of interest include channel characterization, measurement, synchronization and communication techniques as applied to global mobile communication and navigation systems, satellite communications and personal communication networks. He has published more than 140 papers on various topics in communication and information theory and he holds several patents. His patents have been implemented in numerous communication satellite systems and ground station and mobile communications receivers located around the world.
+
+Dr. Lindsey is a member of the National Academy of Engineering and a Lifetime Fellow of the IEEE. He has received several awards and honors and held numerous offices. He was one of the pioneering founders of the IEEE Communication Society, served on the Board of Governors and Editorial Boards of the IEEE,served as editor for the IEEE Transactions on Communications, and he has been the Technical Program Chairman for numerous national and international conferences on communications and telemetry. He serves on Commission C, Signals and Systems of the International Scientific Union (URSI) and the CCIR Standards Committee.
+
+# research_summary
+
+Research Summary Adaptive coded modulation, channel characterization, PCS communications, satellite communications, smart modems/antennas, positioning systems.
+

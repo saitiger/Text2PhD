@@ -1,0 +1,35 @@
+# position
+
+WiSE Gabilan and Assistant Professor Assistant Professor Industrial and Systems Engineering 
+
+# biography
+
+Sze-chuan Suen joined the Daniel J. Epstein Department of Industrial & Systems Engineering at  the University of Southern California as an Assistant Professor in 2016 and is a faculty member at the USC Schaeffer Center for Health Policy and Economics.  Sze holds a PhD from the department of Management Science and Engineering from Stanford University.
+
+# research_summary
+
+Research Summary Sze's research focuses on how to develop innovative models that adapt to changing demographic and secular trends in healthcare to support actionable policy recommendations. Her research draws from techniques in simulation, dynamic systems modeling, cost-effectiveness analysis, and decision analysis. Her previous work has focused on the control of tuberculosis in resource-constrained settings, with emphasis on policies to address drug-resistance. She has ongoing collaborations with researchers in the Stanford School of Medicine and Center for Primary Care and Outcomes Research, and she is a member of INFORMS (Institute of Operations Research and the Management Science), and the Society for
+
+# interests
+
+## Health policy modeling
+## Markov Decision Processes
+## medical decision making
+## infectious disease dynamics
+## cost-effectiveness
+
+
+# publications
+
+Title: Assessment of machine learning methods to predict massive blood transfusion in trauma, 2023
+Title: Examining Chronic Kidney Disease Screening Frequency Among Diabetics: A POMDP Approach, 2023
+Title: Impact of COVID-19 Response on the HIV Epidemic in Men Who Have Sex With Men in San Francisco County: The Importance of Rapid Return to Normalcy, 2023
+Title: Design of incentive programs for optimal medication adherence in the presence of observable consumption, 2022
+Title: Are unequal policies in pre-exposure prophylaxis uptake needed to improve equality? An examination among men who have sex with men in los Angeles county, 2022
+Title: Optimizing diabetes screening frequencies for at-risk groups, 2022
+Title: APOL1 Genotype, Proteinuria, and the Risk of Kidney Failure: A Secondary Analysis of the AASK (African American Study of Kidney Disease and Hypertension) and CRIC (Chronic …, 2022
+Title: Using microsimulation modeling to inform EHE implementation strategies in Los Angeles County, 2022
+Title: Fexapotide triflutate vs oral pharmacotherapy as initial therapy for moderate-to-severe benign prostate hyperplasia patients: a cost-effectiveness analysis, 2022
+Title: Early transplantation maximizes survival in severe acute-on-chronic liver failure: results of a Markov decision process model, 2021
+
+

@@ -1,0 +1,12 @@
+# position
+
+Associate Professor of Radiology and Biomedical Engineering
+
+# biography
+
+Dr. Zhaoyang Fan is a tenured Associate Professor of Radiology and Director of Magnetic Resonance (MR) Imaging Research at the Keck School of Medicine, University of Southern California (USC). He holds a joint appointment at the Departments of Biomedical Engineering and Radiation Oncology. He is also a full member of the USC Norris Comprehensive Cancer Center. Before joining USC, he was an Associate Professor of Biomedical Sciences at Cedars-Sinai Medical Center and Technical Director of 3-Tesla MR at the institution's Research Imaging Core, with affiliate faculty appointments at the Departments of Bioengineering and Medicine, University of California, Los Angeles. Dr. Fan received his bachelor's degree from Tsinghua University and his PhD degree in Biomedical Engineering from Northwestern University.
+
+# research_summary
+
+Research Summary Dr. Fan's career as an MR imaging scientist has been focused on the development and clinical translation of novel MR and machine learning methods for fast and precise assessment of human diseases. His current research interests include diagnosis and characterization of cardio- and neuro-vascular diseases, quantitative cancer imaging, and imaging-guided radiation therapy. He has authored over 140 peer-reviewed publications and over 260 conference abstracts. He is Principal Investigator of NIH-funded projects and an active reviewer for national and international funding agencies, conferences, and journals. He is Junior Fellow of the International Society for Magnetic Resonance in Medicine (ISMRM),
+

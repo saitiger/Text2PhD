@@ -1,0 +1,15 @@
+# position
+
+Part-Time Lecturer of Aerospace and Mechanical Engineering
+
+# biography
+
+Dr. Zuhair Ibrahim is a Part-Time Lecturer at the Viterbi School of Engineering, University of Southern California where he teaches AME 331 (Heat Transfer), and AME 430 (Thermal Systems Design). 
+
+Dr. Ibrahim is an expert in thermal/mechanical devices and industrial equipment. He applies mechanical engineering, thermodynamic, and fluid dynamic principles to the investigation of Loss of Containment events and large loss fires and explosions. He has conducted process safety, risk assessment, design, and performance reviews for a range of equipment in industrial, transportation, consumer equipment, and appliances, and is experienced in evaluating site and equipment-specific procedures, including engineering and regulatory controls designed to mitigate or prevent such events.
+He is experienced in evaluating the relationship between equipment design, automation, and operator decisions and practices and leads multidisciplinary teams to assess the integrity of large assets and the potential risk and mechanism of failure. He investigates complex engineering failures by evaluating design and specification documents, process and operations data, alarm logs, available videos and photographs, laboratory test results, examination of physical artifacts, computer modeling and witness interviews in an integrated manner.
+
+# research_summary
+
+Research Summary Combustion Flame Dynamics Explosions Failure Investigation and Root Cause Analysis
+

@@ -1,0 +1,35 @@
+# position
+
+Professor of Industrial and Systems Engineering and Electrical and Computer Engineering
+
+# biography
+
+served as a program director at NSF where he was responsible for the Operations Research, and the Service Enterprise Engineering programs. At NSF, he also headed the Cyber infrastructure planning activities of the Engineering Directorate. Concurrently with his appointment at NSF, he was a professor of Systems and Industrial Engineering at the University of Arizona.
+
+Professor Sen has served on the editorial board of several journals, including Operations Research as Area Editor for Optimization, and as Associate Editor in INFORMS Journal on Computing, Telecommunications Systems, as well as Operations Research. He is the past-Chair of the INFORMS Telecommunications Section and founded the INFORMS Optimization Section. Professor Sen is a Fellow of INFORMS.
+
+# research_summary
+
+Research Summary Modeling with Optimization Technologies Applications (Infrastructure Systems: Electric Power and Markets, Telecommunications Networks, Traffic and Transportation) Optimization Theory: Large Scale and Stochastic Optimization, Integer Programming Applications: Infrastructure Systems, including, Cyber, Power, Transportation.
+
+# interests
+
+## Operations Research
+## Stochastic Programming
+## Large Scale Optimization
+
+
+# publications
+
+Title: Compromise policy for multi-stage stochastic linear programming: Variance and bias reduction, 2023
+Title: Coupled learning enabled stochastic programming with endogenous uncertainty, 2022
+Title: Predictive stochastic programming, 2022
+Title: Towards a sustainable power grid: Stochastic hierarchical planning for high renewable integration, 2022
+Title: Online Non-parametric Estimation for Nonconvex Stochastic Programming, 2022
+Title: Measurement of differential cross sections for Z bosons produced in association with charm jets in pp collisions at s  = 13 TeV, 2021
+Title: Stochastic decomposition for two-stage stochastic linear programs with random cost coefficients, 2021
+Title: Stochastic dynamic linear programming: A sequential sampling algorithm for multistage stochastic linear programming, 2021
+Title: Decision Intelligence for Nationwide Ventilator Allocation During the COVID-19 Pandemic, 2021
+Title: On synchronous, asynchronous, and randomized best-response schemes for stochastic Nash games, 2020
+
+

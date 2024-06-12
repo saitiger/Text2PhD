@@ -1,0 +1,35 @@
+# position
+
+Professor of Computer Science
+
+# biography
+
+William Halfond is an associate professor in computer science at the University of Southern California. He received his Ph.D. in 2010 from the Georgia Institute of Technology. Halfond's research is in software engineering in the area of program analysis and software testing. His research work focuses on improving quality assurance for web applications, developer-oriented techniques for reducing the power consumption of smartphone mobile applications, and software security.
+
+# research_summary
+
+Research Summary William Halfond's work has broadly focused on developing techniques that help developers to improve the quality of their web and mobile apps. In particular, his group's work has focused on areas that have become of increasing importance: energy consumption, appearance of the user interface (UI), and security. For energy consumption, their work has focused on techniques that enable developers to understand and change their mobile apps' energy consumption; leading to the development of techniques that provide developers with fine-grained insight into how energy is consumed by their apps and help them to make changes that can save significant
+
+# interests
+
+## Software engineering
+## program analysis and software testing
+## software security
+## software energy consumption
+## mobile and web apps
+
+
+# publications
+
+Title: Detecting Dialog-Related Keyboard Navigation Failures in Web Applications, 2023
+Title: BAGEL: An Approach to Automatically Detect Navigation-Based Web Accessibility Barriers for Keyboard Users, 2023
+Title: Detecting keyboard accessibility issues in web applications, 2023
+Title: Automatically Reproducing Android Bug Reports Using Natural Language Processing and Reinforcement Learning, 2023
+Title: Recdroid+: Automated end-to-end crash reproduction from bug reports for android apps, 2022
+Title: Automated detection of talkback interactive accessibility failures in android applications, 2022
+Title: Static Analysis for Automated Identification of Valid Game Actions During Exploration, 2022
+Title: Automated repair of size-based inaccessibility issues in mobile applications, 2021
+Title: Effective automated repair of internationalization presentation failures in web applications using style similarity clustering and search‐based techniques, 2021
+Title: Detecting and localizing keyboard accessibility failures in web applications, 2021
+
+

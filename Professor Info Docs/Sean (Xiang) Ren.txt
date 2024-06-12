@@ -1,0 +1,12 @@
+# position
+
+Andrew and Erna Viterbi Early Career Chair and Associate Professor of Computer Science
+
+# biography
+
+Xiang Ren an Associate Professor in Computer Science and the Andrew and Erna Viterbi Early Career Chair at USC, where he's the PI of the Intelligence and Knowledge Discovery (INK) Research Lab. Xiang also hold appointment as a Research Team Leader in Information Sciences Institute (ISI) and serve as a member of the USC NLP Group, USC Machine Learning Center and ISI Center on Knowledge Graphs. Outside of his USC work, Xiang spends time at Allen Institute for AI (AI2) working on machine common sense. Previously he was a Data Science Advisor at Snapchat. Prior to USC, Xiang did his PhD work in computer science at UIUC. He's also spent time with the NLP group and the SNAP group at the Stanford University.
+
+# research_summary
+
+Research Summary Xiang's research seeks to build generalizable natural language processing (NLP) systems that can handle a wide variety of language tasks and situations, to broaden the scope of model generality. I work on new algorithms and datasets to make NLP models cheaper to build and maintain, arm AI models with common sense, and improve model's transparency and reliability to build user trust. My group (INK Lab) recently focuses on: (1) creating evaluation methods and datasets that expose the state-of-the-art NLP systems in various human reasoning scenarios; (2) building novel learning algorithms and model architectures to augment NLP systems with
+

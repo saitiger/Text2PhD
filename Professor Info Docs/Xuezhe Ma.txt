@@ -1,0 +1,34 @@
+# position
+
+Research Assistant Professor of Computer Science
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Natural Language Processing
+## Machine Learning
+## Deep Generative Models
+## Dependency Parsing
+
+
+# publications
+
+Title: Lima: Less is more for alignment, 2023
+Title: Mega: moving average equipped gated attention, 2023
+Title: RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation, 2023
+Title: Look-back Decoding for Open-Ended Text Generation, 2023
+Title: Towards a unified view of parameter-efficient transfer learning, 2022
+Title: Prompt consistency for zero-shot task generalization, 2022
+Title: Investigating the benefits of free-form rationales, 2022
+Title: Improving stability of fine-tuning pretrained language models via component-wise gradient norm clipping, 2022
+Title: Better May Not Be Fairer: Can Data Augmentation Mitigate Subgroup Degradation?, 2022
+Title: On Human Visual Contrast Sensitivity and Machine Vision Robustness: A Comparative Study, 2022
+
+

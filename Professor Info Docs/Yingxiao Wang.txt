@@ -1,0 +1,12 @@
+# position
+
+Dwight C. and Hildagarde E. Baum Chair in Biomedical Engineering and Professor of Biomedical Engineering and Molecular Microbiology & Immunology 
+
+# biography
+
+Dr. Wang obtained his bachelor’s and master’s degrees in Mechanics and Fluid Mechanics from Peking University, Beijing, P.R. China, in 1992 and 1996, respectively. He received his Ph.D. degree in Bioengineering from the University of California, San Diego Jacobs School of Engineering in 2002 and continued his postdoctoral work at UC San Diego working under Bioengineering Professor Shu Chien and Professor Roger Y. Tsien in the Department of Pharmacology. He is currently the department chair and a professor in the department of Biomedical Engineering at USC and a fellow of American Institute of Medical and Biological Engineering (AIMBE), International Academy of Medical and Biological Engineering (IAMBE), and Biomedical Engineering Society (BMES). Before joining the USC in 2023, he was a faculty of Bioengineering at the University of Illinois, Urbana-Champaign (UIUC), and University of California, San Diego (UCSD). Dr. Wang is the recipient of the Wallace H. Coulter Early Career Award (both Phase I and Phase II), the National Science Foundation CAREER Award, and National Institutes of Health Independent Scientist Award. His research is on cellular and molecular engineering for live cell imaging and controllable cell-based therapy. His lab is supported by the National Institutes of Health, National Science Foundation, and private foundations.
+
+# research_summary
+
+Research Summary My lab focuses on the integration of biotechnologies in cellular and molecular engineering for the development of genetically-encoded biosensors and the application of them to visualize molecular events in live cells and animals. We also develop molecular sensors and transducers for the engineering of immune cells to control genetic and epigenetic activities targeting cancer immunotherapy. For example, we engineer CAR T cells and macrophages so that they can be remotely and non-invasively controlled by ultrasound waves to recognize and eradicate tumors.
+

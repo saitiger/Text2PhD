@@ -1,0 +1,49 @@
+# position
+
+Professor Emeritus of Aerospace and Mechanical Engineering and Chemical Engineering and Materials Science
+
+# biography
+
+USC Academic Positions:
+
+2013-: Professor Emeritus, Departments of Aerospace and Mechanical Engineering, Materials Science and Earth Sciences, University of Southern California
+2003-2012: William E. Leonhard Professor of Engineering, University of Southern California
+2000-2012: Professor, Departments of Aerospace and Mechanical Engineering, Materials Science and Earth Sciences, University of Southern California
+1988-90: Chairman, Department of Materials Science, University of Southern California 
+1976: Professor, Departments of Materials Science, Mechanical Engineering and Earth Sciences, University of Southern California
+1971: Associate Professor, Departments of Materials Science and Mechanical Engineering, University of Southern California
+
+Other Professional Positions:
+2012-: Professor of Materials Science, Director, Centre for Bulk Nanostructured Materials, University of Southampton, United Kingdom
+1969-71: Research Associate, Department of Metallurgy, University of British Columbia, Vancouver, Canada
+1968-69: Research Fellow, Department of Physics, Cavendish Laboratory, University of Cambridge, England
+1967-68: Visiting Scientist, Edgar C. Bain Laboratory for Fundamental Research, U.S. Steel Corporation, Monroeville, Pennsylvania
+1965-67: Research Metallurgist, Inorganic Materials Research Division, Lawrence Radiation Laboratory, University of California, Berkeley, California
+
+# research_summary
+
+Research Summary Mechanical properties of metals and ceramics, creep, superplasticity, processing and properties of ultrafine-grained materials, severe plastic deformation
+
+# interests
+
+## Materials Science and Engineering
+## Creep
+## Superplasticity
+## Ultrafine-Grained Materials
+## Severe Plastic Deformation
+
+
+# publications
+
+Title: Seventy years of Hall-Petch, ninety years of superplasticity and a generalized approach to the effect of grain size on flow stress, 2023
+Title: Twenty years of the CoCrFeNiMn high-entropy alloy: Achieving exceptional mechanical properties through microstructure engineering, 2023
+Title: Modification of the Hall-Petch relationship for submicron-grained fcc metals, 2023
+Title: Breaks in the Hall–Petch relationship after severe plastic deformation of magnesium, aluminum, copper, and iron, 2023
+Title: Fracture mechanism of electrically-assisted micro-tension in nanostructured titanium using synchrotron radiation X-ray tomography, 2023
+Title: Evidence for two-stage hardening in an Al-Zn-Mg-Cu alloy processed by high-pressure torsion, 2023
+Title: An Overview on the Effect of Severe Plastic Deformation on the Performance of Magnesium for Biomedical Applications, 2023
+Title: The thermal instability mechanism and annealed deformation behavior of Cu/Nb nanolaminate composites, 2023
+Title: Overview: Using Severe Plastic Deformation in the Processing of Superplastic Materials, 2023
+Title: Influence of processing temperature on microhardness evolution, microstructure and superplastic behaviour in an Al–Mg alloy processed by high-pressure torsion, 2023
+
+

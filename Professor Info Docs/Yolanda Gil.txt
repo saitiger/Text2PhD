@@ -1,0 +1,35 @@
+# position
+
+Research Professor of Computer Science and Spatial Sciences and Principal Scientist at USC Information Sciences Institute
+
+# biography
+
+Senior Director for Strategic Artificial Intelligence and Data Science Initiatives at the Information Sciences Institute of the University of Southern California, and Research Professor in Computer Science and in Spatial Sciences. She is also Director of Data Science programs and of the USC Center for Knowledge-Powered Interdisciplinary Data Science. She received her M.S. and Ph. D. degrees in Computer Science from Carnegie Mellon University, with a focus on artificial intelligence. She initiated and chaired the W3C Provenance Group that led to a community standard in this area. Dr. Gil has served in the Advisory Committee of the Computer Science and Engineering Directorate of the National Science Foundation. She is a Fellow of the Association for Computing Machinery (ACM), the Association for the Advancement of Science (AAAS), and the Institute of Electrical and Electronics Engineers (IEEE). She is also Fellow of the Association for the Advancement of Artificial Intelligence (AAAI), and served as its 24th President.
+
+# research_summary
+
+Research Summary Her research is on intelligent interfaces for knowledge capture and discovery, which she investigates in a variety of projects concerning scientific discovery, knowledge-based planning and problem solving, information analysis and assessment of trust, semantic annotation and metadata, and community-wide development of knowledge bases. Dr. Gil collaborates with scientists in different domains on semantic workflows and metadata capture, social knowledge collection, computer-mediated collaboration, and automated discovery.
+
+# interests
+
+## Artificial Intelligence
+## Intelligent User Interfaces
+## Knowledge Capture
+## Scientific Workflows
+## Semantic Web
+
+
+# publications
+
+Title: Virtual Agent Approach for Teaching the Collaborative Problem Solving Skill of Negotiation, 2023
+Title: A framework for the broad dissemination of hydrological models for non-expert users, 2023
+Title: Reproducibility as a Stepping Stone to Intelligent Assistants for Data Analysis: Recreating a Study of Physical Activity, Sleep, and Work Shift in Nurses, 2023
+Title: Cyberinfrastructure for collecting and integrating geology field data: Community priorities and research agenda, 2023
+Title: Towards Reflection Competencies in Intelligent Systems for Science, 2023
+Title: Sources of irreproducibility in machine learning: A review, 2022
+Title: Will AI write scientific papers in the future?, 2022
+Title: Designing an integrated architecture: The prodigy view, 2022
+Title: Pyleoclim: Paleoclimate timeseries analysis and visualization with Python, 2022
+Title: Reproducibility as a Stepping Stone to Intelligent Assistants for Data Analysis: An Analysis of Physical Activity, Sleep, and Work Shift in Nurses, 2022
+
+

@@ -1,0 +1,12 @@
+# position
+
+Assistant Professor of Computer Science
+
+# biography
+
+Yue obtained his Ph.D. degree from Carnegie Mellon University in four years, with the support from Norton Fellowship and CMU Presidential Fellowship. He was a research intern at Norton Lab, Microsoft Research, and IQVIA, a visiting scholar at Stanford, and a senior data scientist at PwC Canada.
+
+# research_summary
+
+Research Summary I build fast and automated machine learning (ML) and data mining (DM) systems, with a focus on but not limited to graph neural networks and anomaly detection. 1. Accelerate large-scale learning tasks by leveraging ML systems techniques. 2. Automate unsupervised ML by model selection and hyperparameter optimization. 3. Develop open-source ML tools to support applications in healthcare, finance, and security. Research Keywords: Unsupervised ML, ML Systems, Automated ML, Anomaly/Outlier/Out-of-Distribution (OOD) Detection, AI for Science, Graph Neural Networks.
+

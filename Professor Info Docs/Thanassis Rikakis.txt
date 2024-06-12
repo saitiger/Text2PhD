@@ -1,0 +1,35 @@
+# position
+
+Professor of Arts and Technology and Business Innovation and of Biomedical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## intersectoral education
+## neurorehabilitation
+## adaptive life long learning
+## experiential media
+## media arts
+
+
+# publications
+
+Title: Capturing upper body kinematics and localization with low-cost sensors for rehabilitation applications, 2022
+Title: Smart Skin: Vision-Based Soft Pressure Sensing System for In-Home Hand Rehabilitation, 2022
+Title: A Hierarchical Bayesian Model for Cyber-Human Assessment of Rehabilitation Movement, 2022
+Title: Calibrating Video Capture Systems To Aid Automated Analysis and Expert Rating of Human Movement Performance, 2022
+Title: Automated movement assessment in stroke rehabilitation, 2021
+Title: Toward an integrative professional and personal competency-based learning model for inclusive workforce development, 2021
+Title: Hybrid workflow process for home based rehabilitation movement capture, 2021
+Title: Towards standardized processes for physical therapists to quantify patient rehabilitation, 2020
+Title: Motor memory in HCI, 2020
+Title: Adaptive Life-Long Learning for an Inclusive Knowledge Economy, 2020
+
+

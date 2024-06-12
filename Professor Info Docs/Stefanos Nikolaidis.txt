@@ -1,0 +1,34 @@
+# position
+
+Fluor Early Career Chair in Engineering and Assistant Professor of Computer Science
+
+# biography
+
+Stefanos Nikolaidis is an Assistant Professor of Computer Science at the University of Southern California and leads the Interactive and Collaborative Autonomous Robotics Systems (ICAROS) lab. His research draws upon expertise on artificial intelligence, procedural content generation and quality diversity optimization and leads to end-to-end solutions that enable deployed robotic systems to act robustly when interacting with people in practical, real-world applications. Stefanos completed his PhD at Carnegie Mellon's Robotics Institute and received an MS from MIT, a MEng from the University of Tokyo and a BS from the National Technical University of Athens. Stefanos has also worked as a research associate at the University of Washington, as a research specialist at MIT and as a researcher at Square Enix in Tokyo. He was recognized with an NSF CAREER award in 2022 for his work on “Enhancing the Robustness of Human-Robot Interactions via Automatic Scenario Generation." Stefanos' research has also been recognized with an oral presentation at the Conference on Neural Information Processing Systems and best paper awards and nominations from the IEEE/ACM International Conference on Human-Robot Interaction, the International Conference on Intelligent Robots and Systems, and the International Symposium on Robotics.
+
+# research_summary
+
+Research Summary Stefanos Nikolaidis directs the Interactive and Collaborative Autonomous Robotic Systems (ICAROS) lab, which focuses on enabling robots to interact robustly with users in unconstrained and dynamic environments. The ICAROS lab brings together two research thrusts, computational human-robot interaction and automatic scenario generation, to make fundamental advances in both developing interactive robots that assist users in complex, real-world tasks, as well as in generating complex, diverse and realistic scenarios that effectively test the developed systems to enhance their robustness.
+
+# interests
+
+## human-robot interaction
+## robotics
+## artificial intelligence
+## machine learning
+
+
+# publications
+
+Title: pyribs: A bare-bones Python library for quality diversity optimization, 2023
+Title: Covariance matrix adaptation map-annealing, 2023
+Title: Training diverse high-dimensional controllers by scaling covariance matrix adaptation map-annealing, 2023
+Title: Design metaphors for understanding user expectations of socially interactive robot embodiments, 2023
+Title: PATO: Policy Assisted TeleOperation for Scalable Robot Data Collection, 2023
+Title: Proximal Policy Gradient Arborescence for Quality Diversity Reinforcement Learning, 2023
+Title: Multi-Robot Coordination and Layout Design for Automated Warehousing, 2023
+Title: Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications, 2023
+Title: Contingency-Aware Task Assignment and Scheduling for Human-Robot Teams, 2023
+Title: Surrogate Assisted Generation of Human-Robot Interaction Scenarios, 2023
+
+

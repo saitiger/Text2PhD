@@ -1,0 +1,12 @@
+# position
+
+Professor of  Aerospace and Mechanical Engineering and Industrial and Systems Engineering 
+
+# biography
+
+Dr. Yong Chen is a professor of Aerospace and Mechanical Engineering and Industrial and Systems Engineering at the University of Southern California (USC).  He received his Ph.D. degree in Mechanical Engineering from Georgia Institute of Technology in 2001.  Prior to joining USC in 2006, he was a senior Research and Development (R&D) engineer in 3D Systems Inc, the pioneer in 3D Printing industry. Dr. Chen's research focuses on additive manufacturing (3D printing) in micro- and meso- scales, especially modeling, analyzing, synthesizing, and optimizing digital design and manufacturing. Dr. Chen has published more than 180 publications in refereed journals and conferences. He received over ten Best/Outstanding Paper Awards in major design and manufacturing journals and conferences. Other major awards he received include the National Science Foundation Faculty Early Career Development (CAREER) Award in 2012, the Outstanding Young Manufacturing Engineer Award from the Society of Manufacturing Engineers (SME) in 2008, and a Leadership and Service Award from the ASME CIE division in 2010.  He was invited to the National Academy of Engineering (NAE) Frontiers of Engineering Symposium in 2009, 2013, and 2015, respectively. Dr. Chen is a Fellow of American Society of Mechanical Engineers (ASME). He has served as conference/program chairs as well as keynote speakers in several international conferences, including the Conference Chair of the 2017 International Manufacturing Research Conference (NAMRC/MSEC/ICM&P), the Program Co-Chair of the 2019 International Design Engineering Technical Conferences (IDETC), and the Program Co-Chair of the 2021 and 2022 Manufacturing Science and Engineering Conference (MSEC).  At USC, Dr. Chen teaches design and manufacturing related courses to undergraduate and graduate students.  He also helped students and collaborators create several startup companies related to 3D printing.
+
+# research_summary
+
+Research Summary - Novel additive manufacturing process and machine development for direct digital manufacturing and 3D printing; - New methodologies and techniques for reliable and fast manufacturing process based on process modeling and control; - Design methods and computational tools for direct digital manufacturing enabled products and applications
+

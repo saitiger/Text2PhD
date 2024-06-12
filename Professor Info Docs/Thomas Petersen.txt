@@ -1,0 +1,12 @@
+# position
+
+Assistant Professor of Civil and Environmental Engineering
+
+# biography
+
+Dr. Petersen started working as an Assistant Professor in the Sonny Astani Department of Civil and Environmental Engineering in Fall 2022. Prior to arriving at the University of Southern California, he spent three years as a Senior Research Engineer at ExxonMobil, where he developed technologies to improve the integrity of wells during construction and operation. Specifically, he worked on composite fluid and solid systems that reduce pressure and stress developments in confined, high-temperature, and high-pressure environments. Before his research experience in industry, he obtained his Ph.D. (2019) on Mechanics of Materials and S.M. (2015) in Civil and Environmental Engineering from the Massachusetts Institute of Technology and received his B.S. (2011) in Civil Engineering with a Minor in Mathematics from North Carolina State University.
+
+# research_summary
+
+Research Summary Dr. Petersen’s research interests are on the mechanics and physics of porous materials. Topics include modeling the electrochemistry and dissolution-precipitation kinetics of reactive, solidifying systems; developing models and experiments to understand the growth in elasticity and internal stresses during cement hydration; and designing composite materials with new functionality for civil engineering applications. Research findings are hoped to advance understanding in carbon sequestration – either underground or in solid form in cement – and improve the durability and manufacture of high-performance infrastructure materials.
+

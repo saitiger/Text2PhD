@@ -1,0 +1,33 @@
+# position
+
+Associate Professor of Neurology, Electrical and Computer Engineering, and Biomedical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Connectomes
+## Computational anatomy
+## shape analysis
+
+
+# publications
+
+Title: Retinotopic degeneration of the retina and optic tracts in autosomal dominant Alzheimer's disease, 2023
+Title: Diffusion MRI Harmonization via Personalized Template Mapping, 2023
+Title: Vessel Density Mapping of Cerebral Small Vessels on 3D High Resolution Black Blood MRI, 2023
+Title: Characterization of spastic paraplegia in a family with a novel PSEN1 mutation, 2023
+Title: Locus coeruleus integrity is related to tau burden and memory loss in autosomal-dominant Alzheimer's disease, 2022
+Title: Retinal ganglion cell endowment is correlated with optic tract fiber cross section, not density, 2022
+Title: Exploratory imaging outcomes of a phase 1b/2a clinical trial of allopregnanolone as a regenerative therapeutic for Alzheimer's disease: Structural effects and functional …, 2022
+Title: Hippocampal asymmetry of regional development and structural covariance in preterm neonates, 2022
+Title: Enhanced Association of Tau Pathology and Cognitive Impairment in Mild Cognitive Impairment Subjects with Behavior Symptoms, 2022
+Title: Correlation between the retinal layer thickness changes and diffusion tensor imaging measurements in Autosomal Dominant Alzheimer’s disease, 2022
+
+

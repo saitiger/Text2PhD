@@ -1,0 +1,12 @@
+# position
+
+Professor of Aerospace and Mechanical Engineering
+
+# biography
+
+Dr. Yan Jin is Professor of Aerospace and Mechanical Engineering at University of Southern California and Director of USC IMPACT Laboratory. He received his Ph.D. degree in Naval Engineering from The University of Tokyo and did his PosDoc research at Stanford University. Dr. Jin has done research on design theory & methodology, knowledge-based systems, distributed and multiagent systems, organization modeling, project management, and collaborative engineering. Prior to joining USC faculty in the Fall of 1996, Dr. Jin worked as a Senior Research Scientist at Stanford University. His current research interests include design cognition and methods, collaborative engineering, enterprise modeling, complex systems & complexity. Dr. Jin is a recipient of National Science Foundation CAREER Award (1998), TRW Excellence in Teaching Award (2001), Best Paper in Human Information Systems (5th World Multi-Conference on Systemics, Cybernetics and Informatics, 2001), and Xerox Best Paper Award (ASME International Conference on Design Theory and Methodology (DTM), 2002). He served as Program Chair (2004) and Conference Chair (2005) of DTM Conference and is currently serving as Editor-in-Chief of AIEDAM Journal, Associate Editor of Journal of Mechanical Design, Editorial Board Member of AEI and Recent Patents on Mechanical Engineering. Dr. Jin was a UPS Foundation Visiting Professor at Stanford University from 2004 to 2006. He served as a Senior Engineer (adjunct) at RAND Corporation, and is currently a Guest Professor at Shanghai Jiaotong University. Dr. Jin is a Fellow of ASME (American Society of Mechanical Engineers).
+
+# research_summary
+
+Research Summary Collaborative engineering, design theory and methods, knowledge-based design and manufacturing systems, organization & enterprise modeling, self-organizing and complex systems
+

@@ -1,0 +1,33 @@
+# position
+
+Assistant Professor of Chemical Engineering and Materials Science
+
+# biography
+
+Dr. Zhenglu Li received his B.S. in physics from Fudan University, Shanghai, China, in 2012. He received his Ph.D. in physics from the University of California at Berkeley in 2019. He was a postdoctoral fellow at the Lawrence Berkeley National Laboratory and the University of California at Berkeley from 2019 - 2022. Beginning in 2023, Dr. Li joined the Mork Family Department of Chemical Engineering and Materials Science as an Assistant Professor.
+
+# research_summary
+
+Research Summary Dr. Li's research group is broadly interested in developing and applying massively-parallelized computational methods based on many-body quantum theories to study excited-state properties of materials, including bulk solids and two-dimensional systems. His group focuses on the developments of the first-principles approaches including the GW perturbation theory and time-dependent GW method, and their broad applications in quantum materials. These ab initio computational methods provide accurate many-electron-level descriptions of important phenomena such as electron-phonon coupling, superconductivity, nonequilibrium exciton dynamics, exciton-phonon coupling, and light-matter interactions. Dr. Li is particularly interested in the role of electron-phonon coupling in materials with strong electron
+
+# interests
+
+## Quantum Materials
+## Condensed Matter Physics
+## Computational Materials Science
+
+
+# publications
+
+Title: Electron-phonon coupling from GW perturbation theory: Practical workflow combining BerkeleyGW, ABINIT, and EPW, 2023
+Title: Imaging Moir\'e Excited States with Photocurrent Tunneling Microscopy, 2023
+Title: Intralayer charge-transfer moiré excitons in van der Waals superlattices, 2022
+Title: Optical and magneto-optical properties of ferromagnetic monolayer : A first-principles  and  plus Bethe-Salpeter equation study, 2022
+Title: Many-body effects in the X-ray absorption spectra of liquid water, 2022
+Title: Exciton-driven renormalization of quasiparticle band structure in monolayer , 2022
+Title: Multiple strong topological gaps and hexagonal warping in , 2022
+Title: Two-gap superconductivity and decisive role of rare-earth  electrons in infinite-layer nickelates, 2022
+Title: Two-dimensional single-valley exciton qubit and optical spin magnetization generation, 2022
+Title: Lattice fluctuation induced pseudogap in quasi-one-dimensional Ta2NiSe5, 2022
+
+

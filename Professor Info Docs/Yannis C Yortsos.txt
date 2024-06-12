@@ -1,0 +1,26 @@
+# position
+
+Zohrab A. Kaprielian Dean’s Chair in Engineering and Chester Dolley Professor of Chemical and Petroleum Engineering
+
+# biography
+
+Yannis C. Yortsos is the Dean of the USC Viterbi School of Engineering and the Zohrab Kaprielian Dean’s Chair in Engineering, a position he holds since 2005. Prior to that he served from 2001 to 2005 as Associate Dean and then as Sr. Associate Dean for Academic Affairs.
+
+Yortsos joined the USC faculty of Chemical and Petroleum Engineering in 1978. Between 1991 and 1997 he served as chair of the Department of Chemical Engineering and since 1995 he also holds the Chester Dolley Professorship.
+
+He received a BS (Diploma) degree in Chemical Engineering from the National Technical University of Athens, Greece, and MS and PhD degrees from the California Institute of Technology, all in chemical engineering. His research area is in fluid flow, transport and reaction processes in porous media with specific application to the subsurface. More recently, and prompted by the COVID-19 pandemic, he has published on the spreading of epidemics,  
+
+As dean of engineering, he articulated in 2008 the concept of Engineering+, positioning engineering as the enabling discipline of our times, and has been actively engaged in the effort to “change the conversation about engineering”. He organized and hosted at USC in Fall 2010 the NAE Second Grand Challenges Summit, which spurred in 2013 the series of Global Grand Challenges Summits. These are bi-annual meetings of the NAE, the Royal Academy of Engineering and the Chinese Academy of Engineering, on the organizing committees of which he has continuously served.
+
+Between 2012 and 2017, Yortsos was the chair of the Diversity Committee of the Engineering Deans Council, in which capacity he has spearheaded an engineering diversity initiative, now adopted by more than 250 engineering schools nationwide. In recognition of these initiatives, the USC Viterbi School of Engineering received in 2017 the ASEE President’s Award, and at the same time was one of the four engineering schools nationwide that received the ASEE Award for Excellence in Veterans in Engineering.
+
+Yortsos was elected to the National Academy of Engineering in 2008, where he has also served as secretary, vice-chair and chair of Section 11, and since July 2017 as a member of the NAE Council. He served on the NRC Committees for the 2017 report on a New Vision for Center-Based Engineering Research as well as the 2017 report on The Value of Social, Behavioral, and Economic Sciences to National Priorities and completed a three-year term as member of the NSF Engineering Advisory Committee. He is currently one of three Deputy Editors of the new NASEM journal PNAS Nexus. 
+
+In 2011 Yortsos was awarded the distinction of honorary member of the AIME, in 2013 he was elected as Associate member of the Academy of Athens, in 2014 he received the Ellis Medal of Honor and in 2017 he received an honorary degree from Tsinghua University. In 2022, he received along with three of his colleagues, the Gordon Prize of the National Academy of Engineering, for the creation in 2009 of the Grand Challenges Scholars Program, now adopted by many universities in the US and overseas. At the same year, he won, along with several of his USC colleagues, a Los Angeles area Emmy for his role in supporting the creation of the documentary Lives not Grades, that chronicled a USC engineering class on Engineering Innovation for Global Crises. He is a Fellow of the American Association for the Advancement of Science. 
+
+Yortsos was the PI of the NSF I-Corps Innovation Node Los Angeles (2014-2021), established as a partnership between USC, Caltech and UCLA, and also the PI of the NSF Gender Equity Initiative EDGE (2018-2021). Between 2011 and 2017 he served on the Executive Committee of the Engineering Deans Council (2011-2017) and on the Executive Committee of the Global Engineering Deans Council (2012-2016, 2021- present). Following the onset of the COVID-19 epidemic he led, since April 2020, the National Academy of Engineering Call to Action Against COVID. He is the PI of the NSF I-Corps Innovation Hub: West, a five-year partnership (2022-2027) between USC, the University of Colorado, UCLA, Caltech, Colorado School of Mines, the University of New Mexico, UC Riverside, and the University of Utah.
+
+# research_summary
+
+Research Summary * Fluid flow, transport, and reaction in porous media * Viscous flows in porous media geometries * Phase change in porous media * Applications to the recovery of subsurface fluids (oil recovery, a soil remediation) [Specific Research Projects] * Miscible flows in Hele-Shaw cells * Vapor-Liquid Flow in Porous Media * Transport and Displacement in Heterogeneous and Fractured Media * Scale-Up of Displacement Processes in Heterogeneous Media * Flow of Fluids with Yield Stress in Porous Media * Darcian Dynamics * Heterogeneity Identification * Filtration Combustion
+

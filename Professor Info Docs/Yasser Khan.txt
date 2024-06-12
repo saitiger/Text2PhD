@@ -1,0 +1,14 @@
+# position
+
+Assistant Professor of Electrical and Computer Engineering
+
+# biography
+
+Yasser Khan joined the Ming Hsieh Department of Electrical and Computer Engineering at the University of Southern California as an Assistant Professor in 2022. He received his B.S. and M.S. in Electrical Engineering from the University of Texas at Dallas and King Abdullah University of Science and Technology, respectively. Yasser completed his Ph.D. in Electrical Engineering and Computer Sciences from the University of California, Berkeley in 2018. Before joining USC, he was a postdoctoral researcher in the Department of Chemical Engineering at Stanford University.
+
+As an expert in flexible and stretchable electronics, he published over 40 research publications in the most reputed platforms in the field, which were highlighted by BBC News, Wall Street Journal, NSF News, and attracted over $2 million in research funding.
+
+# research_summary
+
+Research Summary Yasser’s research focuses on additive manufacturing and hardware AI to produce skin-like wearables, implantables, and ingestibles. These medical devices are being used for precision health and psychiatry.
+

@@ -1,0 +1,34 @@
+# position
+
+Associate Professor of Computer Science Practice
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Database systems
+## data integration
+## information retrieval
+## Web technology.
+
+
+# publications
+
+Title: Assessing Peer Correction of SQL and NoSQL Queries, 2023
+Title: Towards a Validated Self-Efficacy Scale for Data Management, 2023
+Title: Investigating Internship Experiences of Data Science Students for Curriculum Enhancement, 2022
+Title: Data Science Course Projects with Peer Challenges: An Experience Report, 2022
+Title: SQL2X: Learning SQL, NoSQL, and MapReduce via Translation, 2021
+Title: One Size Doesn't Fit All: Diversifying Data Science Course Projects by Student Background and Interests, 2021
+Title: CS vs non-CS: Analyzing Online Social Behaviors of Data Science Students with Diverse Academic Backgrounds, 2021
+Title: Proj4X: Diversifying Data Science Course Projects by Student Background and Interests, 2021
+Title: SLASH: Automatically Generating Flash Cards for Reviewing Concepts in Lectures Slides, 2018
+Title: Learning semantic representation with neural networks for community question answering retrieval, 2016
+
+

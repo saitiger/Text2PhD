@@ -1,0 +1,34 @@
+# position
+
+Assistant Professor of Chemical Engineering and Materials Science
+
+# biography
+
+Yu-Tsun Shao received his B.S. in Physics at National Taiwan University in 2012, a Ph.D. in Materials Science and Engineering at the University of Illinois at Urbana-Champaign in 2018, and did postdoctoral work at Cornell University. He will be joining USC as an Assistant Professor of Chemical Engineering & Materials Science starting 2023. He is the recipient of the Robert P. Apkarian Postdoctoral Scholar Award (2021) and Presidential Student Award (2016) of the Microscopy Society of America, and the Ludo Frevel Crystallography Scholarship Award of the International Centre for Diffraction Data (2016).
+
+# research_summary
+
+Research Summary Research in the Shao electron microscopy group develops and applies novel electron microscopy techniques to understand materials and devices at the atomic scale. Using the scanning transmission electron microscope (STEM), we are able to explore structural, chemical, electronic, and topological phases in materials at the atomic scale. Our current research focuses on understanding the interplay between spin, lattice, polarization, and charge in quantum materials. Specifically, we develop and apply 4D-STEM to study multiferroic crystals with the aim to elucidate the microscopic origin of interactions among local polar/magnetic order, strain, and chiralities during topological phase transitions.
+
+# interests
+
+## Electron Microscopy
+## Multiferroic Perovskites
+## 2D Magnets
+## Materials Science
+
+
+# publications
+
+Title: Operando studies reveal active Cu nanograins for CO2 electroreduction, 2023
+Title: Emergent chirality in a polar meron to skyrmion phase transition, 2023
+Title: Non-volatile electric-field control of inversion symmetry, 2023
+Title: Imaging Li Vacancies in a Li-Ion Battery Cathode Material by Depth Sectioning Multi-slice Electron Ptychographic Reconstructions, 2023
+Title: Smooth, homogeneous, high-purity Nb3Sn RF superconducting films by seed-free electrochemical synthesis, 2023
+Title: Smooth, homogeneous, high-purity Nb3Sn superconducting RF resonant cavity by seed-free electrochemical synthesis, 2023
+Title: Visualizing Polar Distortions and Interface Effects with Multislice Ptychography, 2023
+Title: Measuring Three-Dimensional Strain in Nb3Sn Grains by Combining ZOLZ and HOLZ diffraction, 2023
+Title: Principles and Applications of 4D-STEM Diffraction Imaging for Characterizing Complex Crystalline Materials, 2023
+Title: Operando Electrochemical Liquid-Cell 4D-STEM Studies of Dynamic Evolution of Cu Nanocatalysts for CO2 Reduction, 2023
+
+

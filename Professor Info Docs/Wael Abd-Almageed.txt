@@ -1,0 +1,34 @@
+# position
+
+Research Associate Professor of Electrical and Computer Engineering and Computer Science
+
+# biography
+
+Dr. AbdAlmageed is a Research Associate Professor at Department of Electrical and Computer Engineering, and a Research Director with Information Sciences Institute, both are units of USC Viterbi School of Engineering. He is the Founding Director of the Visual Intelligence and Multimedia Analytics Laboratory (VIMAL). He earned his B.S. in electrical engineering in 1994 and his M.S. in computer engineering in 1997 from Mansoura University in Egypt. He also earned a graduate software engineering diploma in 1997 from the Information Technology Institute in Egypt via a scholarship granted to distinguished graduates from Egyptian universities. He obtained his Ph.D. with Distinction from the University of New Mexico in 2003 where he was also awarded the Outstanding Graduate Student award. Prior to joining ISI, Dr. AbdAlmageed was a research scientist with the University of Maryland at College Park, where he led several research efforts for various NSF, DARPA and IARPA programs. His research interests include representation learning, debiasing and fair representations, multimedia forensics and visual misinformation identification (such as deepfake and image manipulation detection) and face recognition and biometric anti-spoofing. Dr. AbdAlmageed leads several multi-institution research efforts, including DARPA’s MediFor, GARD and LwLL and IARPA’s Janus, Odin and BRIAR. He has over 90 publications in top computer vision, machine learning and biometrics conferences and journals, including CVPR, NeurIPS, ICCV, ECCV, ACM MM, PAMI, TBIOM and ICB. Dr. AbdAlmageed is the recipient of 2022 and 2019 USC Information Sciences Institute Achievement Award. His research has also been featured in Forbes, Glamour UK, Fox News, Time For Kids and PCMag.
+My name is expressed as /waʔill/ using the International Phonetic Alphabet. If you are interested in pronouncing my name properly, please listen to this.
+
+# research_summary
+
+
+
+# interests
+
+## Machine learning
+## computer vision
+## biometrics
+
+
+# publications
+
+Title: TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization, 2023
+Title: Shadow Datasets, New challenging datasets for Causal Representation Learning, 2023
+Title: A Critical View of Vision-Based Long-Term Dynamics Prediction Under Environment Misalignment, 2023
+Title: Emergent Asymmetry of Precision and Recall for Measuring Fidelity and Diversity of Generative Models in High Dimensions, 2023
+Title: Trojan Model Detection Using Activation Optimization, 2023
+Title: Lightweight, mobile 3d face imaging system for clinical environments, 2023
+Title: P2M-DeTrack: Processing-in-Pixel-in-Memory for Energy-efficient and Real-Time Multi-Object Detection and Tracking, 2022
+Title: SILA: a system for scientific image analysis, 2022
+Title: Multispectral biometrics system, 2022
+Title: Do-Operation Guided Causal Representation Learning with Reduced Supervision Strength, 2022
+
+

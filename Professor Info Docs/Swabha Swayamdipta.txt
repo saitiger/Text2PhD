@@ -1,0 +1,32 @@
+# position
+
+WiSE Gabilan Assistant Professor and Assistant Professor of Computer Science
+
+# biography
+
+Swabha Swayamdipta is a Gabilan Assistant Professor and an Assistant Professor of CS since Fall 2022. She leads the Datasets, Interpretability, Language and Learning (DILL) Lab. She was previously a postdoc at the Allen Institute for AI and the University of Washington, working with Yejin Choi. She received her PhD in 2019 from CMU, where she was advised by Noah A. Smith and Chris Dyer. Her work has received Outstanding Paper Awards at ICML 2022 and NeurIPS 2021, and a Best Paper Honorable Mention at ACL 2020.
+
+# research_summary
+
+Research Summary Swabha's research interests are broadly in natural language processing and machine learning. Her focus is primarily in the estimation of dataset quality, and the discovery and mitigation of undesirable biases, including social biases, in data and models, aimed at improving robustness and generalization. Her recent research has also focused on (semi-)automatic collection of impactful data as well as evaluation and interpretation of model decisions.
+
+# interests
+
+## Natural Language Processing
+## Machine Learning
+
+
+# publications
+
+Title: We're Afraid Language Models Aren't Modeling Ambiguity, 2023
+Title: Cobra frames: Contextual reasoning about effects and harms of offensive statements, 2023
+Title: NeuroComparatives: Neuro-Symbolic Distillation of Comparative Knowledge, 2023
+Title: WANLI: Worker and AI Collaboration for Natural Language Inference Dataset Creation, 2022
+Title: Understanding Dataset Difficulty with V-Usable Information., 2022
+Title: I2d2: Inductive knowledge distillation with neurologic and self-imitation, 2022
+Title: Investigating the Benefits of Free-Form Rationales, 2022
+Title: MAUVE scores for generative models: Theory and practice, 2022
+Title: NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation, 2022
+Title: Selecting answer spans from electronic documents using neural networks, 2022
+
+

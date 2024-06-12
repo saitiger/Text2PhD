@@ -1,0 +1,18 @@
+# position
+
+Associate Professor of Information Technology Practice
+
+# biography
+
+Trina Gregory is an Associate Professor of Information Technology Practice teaching technology, programming, and engineering courses. She began teaching at USC in January 2007 as a part-time lecturer and transitioned to a full-time, teaching-track faculty position in August 2009. Trina created and oversees the Mobile App Development minor. She is also an Associate Director of Innovation and Entrepreneurship for the Viterbi Office of Technology Innovation and Entrepreneurship.
+
+After getting a bachelor's degree in Mathematics-Computer Science from UCSD, she worked full-time in the computer science field for over 12 years. She mainly worked for SAIC developing, writing, and managing software for the Department of Defense. She received a master's degree in Computer Science from USC. She is currently pursuing an Ed.D. from the Rossier School of Education in Organizational Change and Leadership.
+
+She has taught classes in Java, Python, Swift, and Objective-C programming, web publishing, information technology, and mobile apps. Whether it is a new class or one she has taught before, Trina is constantly updating the lectures and labs to keep up-to-date with the latest technologies. She loves helping students achieve their goals and is thus involved in various student organizations.
+
+For the Fall 2023 semester, she holds open office hours on Tuesday at 4 - 6 pm and Thursday at 11 am - 1 pm in RRB 243. You can also schedule one-to-one meetings with her using Calendly.
+
+# research_summary
+
+Research Summary diversity in tech, computer programming, computer science, Python, Swift, Java, mobile app development, iOS apps, Objective-C, web publishing, Internet, WWW, innovation, entrepreneurship
+

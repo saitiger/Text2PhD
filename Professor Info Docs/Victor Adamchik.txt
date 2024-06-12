@@ -1,0 +1,33 @@
+# position
+
+Professor of Computer Science Practice
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Scientific computation
+## algorithms
+## machine learning
+
+
+# publications
+
+Title: Primary Pseudoperfect Number, 2020
+Title: Circular Functions, 2019
+Title: Cayley Transform, 2018
+Title: غزوة السلسلة شاهد على شجاعته (عليه السلام)‎, 2018
+Title: Pen-Based Problem-Solving Environment for Computational Science, 2015
+Title: Contributions to the theory of the Barnes function, 2014
+Title: Integrals associated with the multiple gamma function, 2014
+Title: Data structures and algorithms in pen-based computing environments, 2011
+Title: On the Hurwitz function for rational arguments, 2007
+Title: The multiple gamma function and its application to computation of series, 2005
+
+

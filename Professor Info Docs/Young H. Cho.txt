@@ -1,0 +1,12 @@
+# position
+
+Part-Time Lecturer of Electrical and Computer Engineering
+
+# biography
+
+Young H. Cho (PI) is a Research Assistant Professor in USC and a Computer Scientist at the Networking division of ISI. He leads the USC/ISI Underwater Testbed initiative funded under NSF ORTUN and DATURNR. In order to support the micro-tomography work, he initiated the development of the physical level event-driven simulator for UWASN, SeaSim2D. He is the PI of the Rapid Problem Detection project which developed self-sustaining extremely low-power wireless sensor network. He is also co-PI for Green Edge Network project (NSF/GEN) which surrounds the research in conserving energy by actively monitoring and managing computer network and power activities. He also leads research effort in computer network intrusion detection and prevention using embedded systems including FPGAs, SoC, and microcontrollers as well as design in VLSI. He also has an extensive industrial experience in developing high performance networking interfaces, switches, and custom networking appliances. Role: The PI will be responsible for overall direction of the project, and will lead research in all three objectives. He will report the research results and publish papers. Dr. Cho will supervise one post-doctoral scholar and one Ph.D. student for this project. He also intends to recruit undergraduate and M.S. students for directed research.
+
+# research_summary
+
+Research Summary Young Cho's research interests include high performance networking, computer architecture, reconfigurable embedded systems, wireless sensor network, sensor technology, and high stability timers and time synchronization algorithms
+

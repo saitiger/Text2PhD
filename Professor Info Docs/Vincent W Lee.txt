@@ -1,0 +1,17 @@
+# position
+
+Professor of Civil and Environmental Engineering
+
+# biography
+
+B.S., 1973, California Institute of Technology
+M.S., 1976, California Institute of Technology
+Ph.D., 1979, University of Southern California
+assistant professor 1983-1990
+associate professor 1990-2003
+professor 2003 onwards
+
+# research_summary
+
+Research Summary * Earthquake engineering * Computer numerical methods * Computer-aided design * elastic wave propagation
+

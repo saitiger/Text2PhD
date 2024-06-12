@@ -1,0 +1,39 @@
+# position
+
+Research Professor of Industrial and Systems Engineering
+
+# biography
+
+Dr. Yigal Arens is USC Information Sciences Institute’s Senior Director for Administrative Affairs and Research Professor at USC’s Daniel J. Epstein Department of Industrial and Systems Engineering. At ISI he oversees the Institute’s administrative operations, working closely with division leaders to foster a culture of excellence in operational performance. In this role, Arens ensures research leaders, staff and administrative personnel are provided the most productive and rewarding working environment possible.
+
+Prior to this ISI position, Arens was the director of ISI’s Intelligent Systems division. Under his 15-year leadership, the division grew to more than 100 researchers and students, spanning the full range of expertise in artificial intelligence (AI). He continues to be deeply involved in information integration, specifically dealing with medical study data.
+
+Dr. Arens received his Ph.D. from the University of California at Berkeley. His current main research interest is cyberinfrastructure for biomedical research. In 1983, he joined the faculty of the Computer Science Department at the University of Southern California. He joined USC's Information Sciences Institute (USC/ISI) in 1987, where he first worked on the Integrated Interfaces project, a multimedia presentation design system combining text, tables, maps, and other graphics. For almost ten years he headed the SIMS (Single Interface to Multiple Sources) research group specializing in integration of heterogeneous databases and other information sources. Arens joined the USC Daniel J. Epstein Department of Industrial and Systems Engineering in 2002.
+
+Arens previously directed the USC Digital Government Research Center, which explored the use of information technology by governments to communicate with citizens. He was a co-founder of the Digital Government Society and continues to be involved with the society and its conference series. He was also a co-founder of Fetch Technologies, a provider of web information-gathering solutions, which has since been acquired.
+
+# research_summary
+
+Research Summary Computational infrastructure for biomedical applications, digital government, “Unexpected events”, intelligent access to multiple heterogeneous information sources, human-computer interfaces, multimedia interfaces, natural language understanding and generation, representation of knowledge
+
+# interests
+
+## Artificial Intelligence
+## information integration
+## bioinformatics
+
+
+# publications
+
+Title: Automated processing of phenotypic data submissions (abstract + poster), 2019
+Title: Enhancing Access to Data at the NIMH Repository and Genomics Resource (Abstract), 2019
+Title: Special issue on models and strategies toward planning and developing smart cities, 2018
+Title: Session details: Smart Cities, Smart Citizens and Smart Government (III), 2016
+Title: PhenoExplorer: A tool to help researchers identify relevant studies and phenotypic variables in dbGaP (abstract + poster), 2013
+Title: A ν-support vector regression based approach for predicting imputation quality, 2012
+Title: Exploring label dependency in active learning for phenotype mapping, 2012
+Title: Active Learning to Associate Semantically-related Phenotypes Across Genetic Epidemiologic Studies., 2012
+Title: Information Explorer: A Suite of Tools for Cross-study Phenotype Mapping (poster), 2012
+Title: Phenotype mapping using information explorer (abstract + poster), 2012
+
+

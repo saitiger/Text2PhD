@@ -1,0 +1,35 @@
+# position
+
+Assistant Professor of Chemical Engineering and Materials Science 
+
+# biography
+
+Dr. Wade Zeno received his B.S. in Chemical Engineering at the University of Nevada, Reno in 2010, where he also minored in mathematics and chemistry. He then earned a Ph.D. in Chemical Engineering with a Designated Emphasis in Biotechnology from the University of California, Davis in 2016. His doctoral work involved the characterization of biomaterials containing protein-lipid nanodiscs as well as understanding and controlling lipid phase behavior in the presence of highly concentrated proteins. During this time, he also completed an industrial internship at Bayer Pharmaceuticals where he worked on protein purification and isolation. After completing his Ph.D. work, Dr. Zeno did his postdoctoral work in Biomedical Engineering at the University of Texas at Austin, where he studied the role of protein-lipid interactions in membrane traffic.
+
+# research_summary
+
+Research Summary Cellular membranes provide critical interfaces for the biochemical interactions that regulate cell behavior and function. These membranes are composed of a heterogeneous mixture of lipids and proteins. Understanding and controlling biomolecular interactions that occur at membranes is challenging owing to the inherent ability of the membrane environment to functionally couple interactions between proteins and lipids. Nonetheless, elucidating the interplay between proteins and lipids in biological membranes is important for a variety of applications such as pinpointing the mechanisms of disease, discovering and delivering new drugs, and developing functional biomaterials. Toward addressing these challenges, I am using engineering principles
+
+# interests
+
+## biophysics
+## protein-lipid interactions
+## fluorescence
+## biological membranes
+## intrinsically disordered proteins
+
+
+# publications
+
+Title: Sizes, conformational fluctuations, and SAXS profiles for Intrinsically Disordered Proteins, 2023
+Title: Disordered protein networks as mechanistic drivers of membrane remodeling and endocytosis, 2023
+Title: Dynamic interactions between alpha-synuclein and curved membrane surfaces, 2023
+Title: The role of graphene quantum dots in mitigating lipid peroxidation, 2023
+Title: Membrane mechanics regulate the cooperativity of proteins in curvature sensing, 2023
+Title: Disordered proteins and bar domains collaborate to remodel membranes, 2023
+Title: Dynamic Interactions between Intrinsically Disordered Proteins and Curved Membrane Surfaces, 2022
+Title: Interfacial Processes at Biomembranes, 2022
+Title: Clathrin senses membrane curvature, 2021
+Title: A continuum membrane model can predict curvature sensing by helix insertion, 2021
+
+

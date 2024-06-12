@@ -1,0 +1,34 @@
+# position
+
+Research Assistant Professor of Electrical and Computer Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Optical computing
+## Optical sensing
+## Frequency comb
+## Laser spectroscopy
+
+
+# publications
+
+Title: Deep learning with coherent VCSEL neural networks, 2023
+Title: Spatially programmable spin interactions in neutral atom arrays, 2023
+Title: Near-ultraviolet photon-counting dual-comb spectroscopy, 2023
+Title: Temporal Imaging using Integrated Electro-Optic Time Lens on Thin Film Lithium Niobate, 2023
+Title: Wavelength Multiplexed Photonic Edge Computing in the Output Stationary Frame, 2023
+Title: Entanglement-enhanced dual-comb spectroscopy, 2023
+Title: Multiplexing methods for scaling up photonic logic, 2023
+Title: Coherent VCSEL homodyne neural networks, 2023
+Title: Thin-film lithium-niobate electro-optic platform for spectrally tailored dual-comb spectroscopy, 2022
+Title: Delocalized Photonic Deep Learning on the Internet's Edge, 2022
+
+

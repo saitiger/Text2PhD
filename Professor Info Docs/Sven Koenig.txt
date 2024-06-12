@@ -1,0 +1,39 @@
+# position
+
+Dean's Professor of Computer Science and Professor of Computer Science 
+
+# biography
+
+Sven Koenig is Dean's Professor of Computer Science at the University of Southern California and was also a program director at the National Science Foundation (NSF) from 2010 to 2012. He received his Ph.D. degree in computer science from Carnegie Mellon University in 1997 for his dissertation on "Goal-Directed Acting with Incomplete Information." He also holds M.S. degrees from the University of California at Berkeley and Carnegie Mellon University and is a fellow of the Association for the Advancement of Artificial Intelligence (AAAI), the Association for Computing Machinery (ACM), the Institute of Electrical and Electronics Engineers (IEEE), and the American Association for the Advancement of Science (AAAS). He is proud of his students, who have won many awards (including best paper, best dissertation, best research assistant, and best teaching assistant awards) and took their first jobs in academia. For example, one of them (Prof. William Yeoh) was selected by IEEE Intelligent Systems as one of the "AI's 10 to Watch" 2015 ("10 young stars in the field of AI," chosen every two years from researchers around the world), another one of them (Prof. Hang Ma) received the ICAPS Best Dissertation Award 2021, and a third one accepted a tenure-track position at Carnegie Mellon University.
+
+Sven has edited several conference proceedings and published more than 280 papers in various areas of artificial intelligence and robotics, including more than 50 papers at AAAI and IJCAI (the two main artificial intelligence conferences), as well as papers in planning (ICAPS and its predecessors AIPS and ECP), agents (AAMAS and its predecessor Autonomous Agents), machine learning (ICML, COLT), numerical artificial intelligence and control (NIPS, UAI, AI and Mathematics), knowledge representation and reasoning (KR, CP, CPAIOR), robotics (ICRA, IROS, RSS), games (AIIDE, FDG, CIG), and others. He was conference co-chair of the 2002 Symposium on Abstraction, Reformulation, and Approximation (SARA), the 2004 International Conference on Automated Planning and Scheduling (ICAPS), the 2009 International Symposium on Combinatorial Search (SoCS), the 2018 International Joint Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), and the 2022 International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR). He was program co-chair of the 2005 International Joint Conference on Autonomous Agents and Multi-Agent Systems, the 2015 AAAI Conference on Artificial Intelligence, the 2016 and 2017 Symposia on Educational Advances in AI (EAAI), and the 2018 International Conference on Automated Planning and Scheduling. He is an elected member-at-large of the steering group of the AAAS Information, Computing, and Communication section, an elected member of the board of directors of the International Foundation for Autonomous Agents and Multiagent Systems (IFAAMAS), and an invited member of the Computing Community Consortium (CCC) of the Computing Research Association (CRA). He is past chair of the AAAI conference committee, past president of SoCS, and past chair of the ACM Special Interest Group on Artificial Intelligence (ACM SIGAI). He is also an associate editor of the Journal of Autonomous Agents and Multi-Agent Systems and an editor of the Communications of the ACM (Research Highlights). He was a councilor of AAAI, a member of the advisory board of the Journal of Artificial Intelligence Research (JAIR) and AI Magazine (where he earlier helped to start both the "Competition Report" and the "AI in Industry" tracks), an associate editor of the Artificial Intelligence journal, Computational Intelligence, Advances in Complex Systems and JAIR, and a member of the steering committees of ICAPS, SoCS, and SARA.
+
+Additional information about Sven can be found on his webpages: idm-lab.org.
+
+# research_summary
+
+Research Summary Sven is interested in intelligent systems that operate in large, nondeterministic, nonstationary or only partially known domains. Most of his research centers around techniques for decision making (planning and learning) that enable single situated agents (such as robots or decision-support systems) and teams of agents to act intelligently in their environments and exhibit goal-directed behavior in real-time, even if they have only incomplete knowledge of their environment, imperfect abilities to manipulate it, limited or noisy perception or insufficient reasoning speed. He believes that finding good solutions to these problems requires approaches that cut across many different fields and,
+
+# interests
+
+## Heuristic Search
+## Automated Planning
+## Autonomous Systems
+## Intelligent Agents
+## Artificial Intelligence
+
+
+# publications
+
+Title: Simple and efficient bi-objective search algorithms via fast dominance checks, 2023
+Title: Deadline-aware multi-agent tour planning, 2023
+Title: Greedy Priority-Based Search for Suboptimal Multi-Agent Path Finding, 2023
+Title: Intersection coordination with priority-based search for autonomous vehicles, 2023
+Title: Co-Design of Topology, Scheduling, and Path Planning in Automated Warehouses, 2023
+Title: Efficient Multi-Query Bi-Objective Search via Contraction Hierarchies, 2023
+Title: Conflict-tolerant and conflict-free multi-agent meeting, 2023
+Title: Improved Conflict-Based Search for the Virtual Network Embedding Problem, 2023
+Title: Towards Effective Multi-Valued Heuristics for Bi-objective Shortest-Path Algorithms via Differential Heuristics, 2023
+Title: Must-Expand Nodes in Multi-Objective Search, 2023
+
+

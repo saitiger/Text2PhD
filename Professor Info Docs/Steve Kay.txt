@@ -1,0 +1,34 @@
+# position
+
+University and Provost Professor of Neurology, Biomedical Engineering, and Biological Sciences
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Circadian
+## Drug Discovery
+## Systems Biology
+## Transcription
+
+
+# publications
+
+Title: Circadian regulator BMAL1:: CLOCK promotes cell proliferation in hepatocellular carcinoma by controlling apoptosis and cell cycle, 2023
+Title: Inhibiting PAC1 receptor internalization and endosomal ERK pathway activation may ameliorate hyperalgesia in a chronic migraine rat model, 2023
+Title: E-box binding transcription factors in cancer, 2023
+Title: Watching the Clock in Glioblastoma, 2023
+Title: Comprehensive profiling of clock genes expression in hepatocellular carcinoma (HCC)., 2023
+Title: Pharmacological targeting of circadian clock genes reveals regulatory mechanisms of E-box regulated genes in cancer, 2023
+Title: Small molecule circadian clock compounds display therapeutic potential in targeting glioblastoma stem cells, 2023
+Title: Targeting the clock pathway to modulate immune response in MSI-high colorectal cancer (CRC): evidence from a preclinical in vivo model, 2023
+Title: Abstract P6-10-17: Pharmacological Strategies to Target Circadian Clock Genes in TNBC, 2023
+Title: Abstract P4-08-06: Clock Genes in Breast Cancer, 2023
+
+

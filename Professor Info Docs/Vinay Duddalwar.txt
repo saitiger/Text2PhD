@@ -1,0 +1,35 @@
+# position
+
+Professor of Clinical Radiology and Biomedical Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Abdominal Imaging
+## Oncological Imaging
+## Radiomics
+## Radiogenomics
+## Contrast enhanced Ultrasound
+
+
+# publications
+
+Title: Is Artificial Intelligence Replacing Our Radiology Stars? Not Yet!, 2023
+Title: PRISMA AI reporting guidelines for systematic reviews and meta-analyses on AI in healthcare, 2023
+Title: Transperineal magnetic resonance imaging/transrectal ultrasonography fusion prostate biopsy under local anaesthesia: the'double-freehand'technique, 2023
+Title: Predicting Soft Tissue Sarcoma Response to Neoadjuvant Chemotherapy Using an MRI-Based Delta-Radiomics Approach, 2023
+Title: Radiogenomic associations clear cell renal cell carcinoma: an exploratory study, 2023
+Title: MP09-06 ASSESSMENT OF A NOVEL BPMRI-BASED MACHINE LEARNING FRAMEWORK TO AUTOMATE THE DETECTION OF CLINICALLY SIGNIFICANT PROSTATE CANCER USING THE PI-CAI (PROSTATE IMAGING …, 2023
+Title: MP09-05 AUTOMATED PROSTATE GLAND AND PROSTATE ZONES SEGMENTATION USING A NOVEL MRI-BASED MACHINE LEARNING FRAMEWORK AND CREATION OF SOFTWARE INTERFACE FOR USERS ANNOTATION, 2023
+Title: MP55-20 A NOVEL MACHINE LEARNING FRAMEWORK FOR AUTOMATED DETECTION OF PROSTATE CANCER LESIONS CONFIRMED ON MRI-INFORMED TARGET BIOPSY, 2023
+Title: Multi-platform fractal dimension analysis of renal masses from multiphase contrast-enhanced computed tomography as markers for tumor subtyping, 2023
+Title: Cost-effectiveness of contrast-enhanced ultrasound for diagnosis and active surveillance of complex cystic renal lesions, 2023
+
+

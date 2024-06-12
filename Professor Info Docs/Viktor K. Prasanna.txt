@@ -1,0 +1,39 @@
+# position
+
+Charles Lee Powell Chair in Electrical and Computer Engineering and Professor of Electrical and Computer Engineering and Computer Science
+
+# biography
+
+Viktor K. Prasanna (V. K. Prasanna Kumar) is Charles Lee Powell Chair in Engineering and is Professor of Electrical Engineering and Professor of Computer Science at the University of Southern California (USC) and serves as the director of the Center for Energy Informatics(CEI). He is an associate member of the Center for Applied Mathematical Sciences (CAMS). He leads the Integrated Optimizations (IO) efforts at the USC-Chevron Center of Excellence for Research and Academic Training on Interactive Smart Oilfield Technologies (CiSoft) at USC and the demand response optimizations in the LA Smartgrid project. His research interests include High Performance Computing, Parallel and Distributed Systems, Reconfigurable Computing, Cloud Computing and Smart Energy Systems. He received his BS in Electronics Engineering from the Bangalore University, MS from the School of Automation, Indian Institute of Science and Ph.D in Computer Science from the Pennsylvania State University.
+
+Prasanna has published extensively and consulted for industries in the above areas. He is the Steering Committee Co-Chair of the International Parallel & Distributed Processing Symposium (IPDPS) [merged IEEE International Parallel Processing Symposium (IPPS) and Symposium on Parallel and Distributed Processing (SPDP)]. He is the Steering Committee Chair of the International Conference on High Performance Computing (HiPC). In the past, he has served on the editorial boards of the IEEE Transactions on Very Large Scale Integration (VLSI) Systems, IEEE Transactions on Parallel and Distributed Systems (TPDS), Journal of Pervasive and Mobile Computing, and the Proceedings of the IEEE. He serves on the editorial boards of the Journal of Parallel and Distributed Computing and the ACM Transactions on Reconfigurable Technology and Systems. During 2003-'06, he was the Editor-in-Chief of the IEEE Transactions on Computers. He was the founding chair of the IEEE Computer Society Technical Committee on Parallel Processing. He currently serves as the Editor-in-Chief of the Journal of Parallel and Distributed Computing (JPDC).
+
+Prasanna received W. Wallace McDowell Award from the IEEE Computer Society in 2015 for his contributions to reconfigurable computing. His work on regular expression matching received one of the most significant papers in FCCM during its first 20 years award in 2013. He received an Outstanding Engineering Alumnus Award from the Pennsylvania State University in 2009. He has received best paper awards at several international forums including ACM Computing Frontiers (CF), IEEE International Parallel and Distributed Processing Symposium (IPDPS), International Conference on Parallel and Distributed Systems (ICPADS), International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD), International Conference on Parallel and Distributed Computing and Systems (PDCS), IEEE International Conference on High Performance Switches and Routers (HPSR), among others. He is a recipient of the 2005 Okawa Foundation Grant. He is a Fellow of the IEEE, the Association for Computing Machinery (ACM) and the American Association for Advancement of Science (AAAS).
+
+# research_summary
+
+Research Summary Parallel and distributed systems, embedded systems, configurable architectures, reconfigurable computing, high performance computing, parallel computing, parallel algorithms, FPGAs, accelerators, applications of machine learning, data science, big data, smartgrid, smart grid, smart energy systems, energy informatics, HPC, Cloud, multicore, multi-core, GPU.
+
+# interests
+
+## parallel computation
+## high performance computing
+## reconfigurable computing
+## data science
+## energy efficient computing
+
+
+# publications
+
+Title: GraphAGILE: An FPGA-based Overlay Accelerator for Low-latency GNN Inference, 2023
+Title: A Framework for Mapping DRL Algorithms With Prioritized Replay Buffer Onto Heterogeneous Platforms, 2023
+Title: Parallel peeling of Bipartite Networks for hierarchical dense subgraph discovery, 2023
+Title: Graph neural network for accurate and low-complexity SAR ATR, 2023
+Title: Dynasparse: Accelerating GNN Inference through Dynamic Sparsity Exploitation, 2023
+Title: A Framework for Monte-Carlo Tree Search on CPU-FPGA Heterogeneous Platform via on-chip Dynamic Tree Management, 2023
+Title: Characterizing Speed Performance of Multi-Agent Reinforcement Learning, 2023
+Title: Exploiting On-chip Heterogeneity of Versal Architecture for GNN Inference Acceleration, 2023
+Title: DistTGL: Distributed Memory-Based Temporal Graph Neural Network Training, 2023
+Title: Graph neural network based SAR automatic target recognition with human-in-the-loop, 2023
+
+

@@ -1,0 +1,33 @@
+# position
+
+Research Assistant Professor of Computer Science 
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Virtual Human
+## Neural Render
+## AR/VR
+
+
+# publications
+
+Title: Exemplar-based pattern synthesis with implicit periodic field network, 2022
+Title: Task-generic hierarchical human motion prior using vaes, 2021
+Title: Topologically consistent multi-view face inference using volumetric sampling, 2021
+Title: Vapid: A rapid vanishing point detector via learned optimizers, 2021
+Title: DisUnknown: Distilling unknown factors for disentanglement learning, 2021
+Title: Learning formation of physically-based face attributes, 2020
+Title: Effects of iron on the growth, biofilm formation and virulence of Klebsiella pneumoniae causing liver abscess, 2020
+Title: Dynamic facial asset and rig generation from a single scan., 2020
+Title: The prevalence and mechanism of triclosan resistance in Escherichia coli isolated from urine samples in Wenzhou, China, 2020
+Title: Chlorhexidine exposure of clinical Klebsiella pneumoniae strains leads to acquired resistance to this disinfectant and to colistin, 2019
+
+

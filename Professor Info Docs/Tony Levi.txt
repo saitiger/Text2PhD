@@ -1,0 +1,12 @@
+# position
+
+Professor of Electrical and Computer Engineering and Physics and Astronomy
+
+# biography
+
+Tony Levi joined the USC faculty in mid-1993 after working for almost 10 years at AT&T Bell Laboratories, Murray Hill, New Jersey. He invented hot electron spectroscopy, discovered ballistic electron transport in heterostructure bipolar transistors, demonstrated room temperature operation of unipolar transistors with ballistic electron transport, created the first microdisk laser, and carried out groundbreaking work in optimal design of small electronic and photonic systems. To date he has published numerous scientific papers, several book chapters, is author of the books ‘Applied Quantum Mechanics‘,  ‘Essential Classical Mechanics for Device Physics‘, ‘Essential Semiconductor Laser Device Physics‘, ‘Essential Electron Transport for Device Physics‘, coeditor of the book ‘Optimal Device Design‘, and holds 17 U.S. patents. Tony Levi has been Chair of Electrical and Computer Engineering - Electrophysics since 2018.
+
+# research_summary
+
+Research Summary Dr. Levi's current research interests include device physics at the classical-quantum boundary, system engineering and integration, high-performance electronics and optimization in system design. Tony Levi Research Summary
+

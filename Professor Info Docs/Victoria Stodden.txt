@@ -1,0 +1,31 @@
+# position
+
+Associate Professor of Industrial and Systems Engineering
+
+# biography
+
+http://stodden.net/Bio
+
+# research_summary
+
+
+
+# interests
+
+## reproducibility
+
+
+# publications
+
+Title: Research reproducibility, 2022
+Title: Same data, different conclusions: Radical dispersion in empirical results when independent analysts operationalize and test the same hypothesis, 2021
+Title: Domain-specific fixes for flaky tests with wrong assumptions on underdetermined specifications, 2021
+Title: Learning from reproducing computational results: Introducing three principles and the Reproduction Package, 2021
+Title: Understanding reproducibility and characteristics of flaky tests through test reruns in Java projects, 2020
+Title: The Data Science Life Cycle: A Disciplined Approach to Advancing Data Science as a Science, 2020
+Title: Trust but Verify: How to Leverage Policies, Workflows, and Infrastructure to Ensure Computational Reproducibility in Publication, 2020
+Title: Highlights of the US National Academies Report on “Reproducibility and Replicability in Science”, 2020
+Title: Toward Enabling Reproducibility for Data-Intensive Research Using the Whole Tale Platform, 2020
+Title: Beyond Open Data: A Model for Linking Digital Artifacts to Enable Reproducibility of Scientific Claims, 2020
+
+

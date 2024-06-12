@@ -1,0 +1,12 @@
+# position
+
+Assistant Professor of Computer Science
+
+# biography
+
+Willie Neiswanger is an incoming Assistant Professor of Computer Science at USC, starting January 2024. Currently, he is a postdoc in computer science at Stanford University, affiliated with the StatsML Group, Stanford AI Lab, and SLAC National Accelerator Laboratory. Previously, he received his Ph.D. in Machine Learning from Carnegie Mellon University.
+
+# research_summary
+
+Research Summary I develop machine learning methods to perform efficient optimization and experimental design in costly real-world settings, where resources are limited. My work spans topics in active learning, uncertainty quantification, Bayesian decision making, and reinforcement learning. I apply these methods downstream to solve problems in science and engineering, for example in the physical sciences and machine learning systems. I have also worked on distributed algorithms for scalable machine learning, and I develop/maintain software libraries for multilevel optimization, uncertainty quantification, AutoML, and Bayesian optimization.
+

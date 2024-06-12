@@ -1,0 +1,35 @@
+# position
+
+Associate Professor of Data Sciences and Operations and Computer Science
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Digital Platform
+## Analytics & AI & Experimentation
+## Data Value & Privacy & Regulation
+## Social Networks
+## Omnichannel Retail
+
+
+# publications
+
+Title: Gpts and labor markets in the developing economy: Evidence from china, 2023
+Title: Worker Experience and Donor Heterogeneity: The Impact of Charitable Workers on Donors’ Blood Donation Decisions, 2023
+Title: Measuring, Interpreting, and Improving Fairness of Algorithms using Causal Inference and Randomized Experiments, 2023
+Title: Understanding the Impacts of De-personalization in Search Algorithm on Consumer Behavior: A Field Experiment with a Large Online Retail Platform, 2023
+Title: Consumer and AI Co-creation: When and Why Nudging Human Participation Improves AI Creation., 2023
+Title: COVID-19 and E-commerce Operations: Evidence from Alibaba, 2022
+Title: Individualized conditional independence testing under model-X with heterogeneous samples and interactions, 2022
+Title: How Recommendation Affects Customer Search: A Field Experiment, 2022
+Title: The value of personal data in internet commerce: A high-stake field experiment on data regulation policy, 2021
+Title: A prescriptive analytics framework for optimal policy deployment using heterogeneous treatment effects., 2021
+
+

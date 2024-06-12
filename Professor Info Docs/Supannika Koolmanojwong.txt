@@ -1,0 +1,12 @@
+# position
+
+Part-Time Lecturer of Computer Science
+
+# biography
+
+Supannika Koolmanojwong is a full-time lecturer and a researcher at the University of Southern California Center for Systems and Software Engineering.
+
+# research_summary
+
+Research Summary Her primary research area focuses on Systems and Software Process Modeling, Software Process Improvement, Software Process Quality Assurance, Software Metrics and Measurement, Agile and Lean Software Development and Expediting Systems Engineering.
+

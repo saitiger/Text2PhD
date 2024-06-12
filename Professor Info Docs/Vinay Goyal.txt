@@ -1,0 +1,12 @@
+# position
+
+Part-Time Lecturer of Aerospace and Mechanical Engineering
+
+# biography
+
+Dr. Vinay Goyal, who has extensive experience in the areas of launch vehicles and aircraft with emphasis in the application of advanced materials. He has over 20 years of experience,  is a Systems Director  at The Aerospace Corporation working on several launch vehicles and spacecraft. He is a member of two NASA NESC technical teams dedicated to ensure flight safety of human spaceflight. He has published over 40 technical papers in the aircraft and launch structural issues.
+
+# research_summary
+
+Research Summary Mission critical applications including analysis and testing of additive manufacturing, ceramic ball bearings, impact damage, sandwich structures, thermal protection systems and ablative systems, failure analysis of composites, failure assessments of polymeric materials, durability of out-of-autoclave composites, durability and damage tolerance of bonded joints, optical-thermal-structures, and filament wound pressure vessels.
+

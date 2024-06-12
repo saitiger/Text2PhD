@@ -1,0 +1,34 @@
+# position
+
+Senior Lecturer of Industrial and Systems Engineering
+
+# biography
+
+Dr. Yalda Khashe received her Ph.D. from the Daniel J. Epstein department of industrial and systems engineering at the Viterbi School of Engineering USC. She also served as a Postdoctoral Research Associate with the Viterbi Technology Innovation and Entrepreneurship program. She has previously held positions as Adjunct Faculty in the College of Business Administration and Public Policy at the California State University, Dominguez Hills and the Graziadio School of Business and Management at the Pepperdine University.
+
+# research_summary
+
+Research Summary Dr. Khashe has extensive research experience on technology integration and the role of human and organizational factors in the reliability of complex technological systems. Her work expands across multiple industries including healthcare, surface transportation, aviation, and emergency response. In her current capacity as the Faculty at the Daniel J. Epstein Department of Industrial and Systems Engineering (ISE) at USC, she works on Human-Systems Integration of new technologies in complex safety-critical systems, the application of High Reliability Organization (HRO) principles in these systems and evaluation of Human-Computer Interaction (HCI) principles. She is also the lead instructor at the ISE
+
+# interests
+
+## Human Factors and Ergonomics
+## Human-computer Interaction
+## Technology Implementation in Complex High-risk Organizations
+## High Rel
+
+
+# publications
+
+Title: Improving Quality of Care for Patients Receiving Care through Telehealth in the Time of COVID-19 Global Pandemic and Beyond: HCI-based Leading Indicators for Virtual Visits, 2023
+Title: Creating A Reliable Digital Maternal Health Platform Using Maslow's Hierarchy and Nielsen Heuristics, 2023
+Title: Expectant Mothers and Digital Health Interventions: The Application of HRO Principles in Prenatal Care in COVID-19 Era and Beyond, 2022
+Title: Putting Technology in Charge: Human and Organizational factors influencing the reliability of train operations under PTC, 2022
+Title: Improving Quality of Care in Virtual Visits: Heuristic Evaluations of the User Interface in Telehealth, 2021
+Title: Interoperability in Healthcare Systems: The Application of HRO Principles in New Technology Implementation in Digital Healthcare, 2021
+Title: New technology implementation in high-risk organizations-the application of HRO principles in new technology implementation in railroad industry, 2020
+Title: A High Reliability Organization (HRO)-based Retrospective Analysis of Boeing 737 Max Crashes, 2020
+Title: Human and organizational factors of positive train control safety system the application of high reliability organizing in railroad, 2019
+Title: A Proactive Risk Analysis Framework to Enhance Safety and Reliability in Railroad Operations: Assessment of the Positive Safety Culture Traits, 2019
+
+

@@ -1,0 +1,31 @@
+# position
+
+Dean's Professor of Biomedical Engineering and Professor of Biomedical Engineering
+
+# biography
+
+Vasilis Z. Marmarelis received his diploma in Electrical and Mechanical Engineering from the National Technical University of Athens in 1972 and his M.S. in Information Science and Ph.D. in Engineering Science (Bio-Information Systems) from the California Institute of Technology in 1973 and 1976, respectively. He was a Lecturer and Research Fellow at the California Institute of Technology in BioInformation Systems from 1976 to 1978. In September 1978, he joined the faculty of the Biomedical and Electrical Engineering Departments at USC, where he is currently a Professor. Dr. Marmarelis served as Chairman of Biomedical Engineering from 1990 to 1996. He is also Co-Director of the Biomedical Simulations Resource (BMSR), a research center dedicated to modeling and simulation of physiological systems that has been funded by the National Institutes of Health through multi-million dollar grants since 1985.He co-authored the seminal book: Analysis of Physiological System: The White Noise Approach (Plenum, New York 1978; Russian translation, 1981; Chinese translation, 1990) and recently authored the monograph: Nonlinear Dynamic Modeling of Physiological Systems (Wiley-Interscience 2004). He has published more than a hundred journal papers and book chapters.  In 2000, he invented the "Multimodal Ultrasound Tomography" system for the early detection of breast cancer, which has been recently validated clinically in the EU. He is a Fellow of the IEEE and the AIMBE.
+
+# research_summary
+
+Research Summary Dr. Marmarelis' research interests lie primarily in the areas of biomedical systems modeling and signal analysis with applications to physiology and medical diagnosis. Of particular interest are the problems of nonlinear modeling and closed-loop multi-variate systems. Areas of application include neural information processing and cardio-vascular autoregulation. Recent projects have dealt with the questions of nonlinear modeling of neuronal ensembles, neurostimulation, nonlinear physiological feedback, cerebral flow autoregulation, closed-loop control of blood glucose and novel diagnostic techniques for diabetes and neurodegenerative diseases. Prof. Marmarelis has pioneered the use of Principal Dynamic Modes for modeling nonlinear dynamic systems and improved clinical
+
+# interests
+
+## Biomedical systems and signals
+
+
+# publications
+
+Title: Increasing coordination and responsivity of emotion-related brain regions with a heart rate variability biofeedback randomized trial, 2023
+Title: Multimodal neuroimaging data from a 5-week heart rate variability biofeedback randomized clinical trial, 2023
+Title: Slow-breathing induced hypocapnia mitigates deficit of vasoreactivity measured in patients with cognitive impairment, 2023
+Title: Elevated Carotid Pulse Wave Velocity is associated with Cognitive Impairment and Cerebral Amyloid Deposition: A Phase-Contrast MRI Study, 2023
+Title: Patterned hippocampal stimulation facilitates memory in patients with a history of head impact and/or brain injury, 2022
+Title: Multi‐center study reveals impairment of cortical tissue oxygenation during rising blood CO2 tension in MCI and AD patients, 2022
+Title: Impairment of cerebral CO2 dynamic vasoreactivity in MCI & AD patients: a multi‐center study of cerebral flow regulation, 2022
+Title: Dynamic effects of cholinergic blockade upon cerebral blood flow autoregulation in healthy adults, 2022
+Title: Corrigendum: Patterned hippocampal stimulation facilitates memory in patients with a history of head impact and/or brain injury, 2022
+Title: Enhancing the brain's emotion regulation capacity with a randomised trial of a 5-week heart rate variability biofeedback intervention, 2021
+
+

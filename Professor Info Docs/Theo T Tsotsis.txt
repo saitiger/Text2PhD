@@ -1,0 +1,12 @@
+# position
+
+Robert E. Vivian Chair in Energy Resources and Professor of Chemical Engineering and Materials Science
+
+# biography
+
+Professor Tsotsis received his Ph.D. in Chemical Engineering from the University of Illinois at Urbana-Champaign in 1978. He then joined the University of Southern California (USC), where he currently holds the title of the Robert E. Vivian Professor in Energy Resources in the Mork Family Department of Chemical Engineering and Materials Science. He also served as the Department’s inaugural Chair in 2005. Professor Tsotsis’ research interests are in the areas of transport, adsorption and reaction in complex porous media, reaction engineering, reactor design, and membrane separations.  He is the author of over 280 technical papers, several book chapters, eight U. S. and one European patent, and one book. He has also edited two Technical Meeting Proceedings volumes. He has worked on a broad array of problems, ranging from the abstract and theoretical (symmetry breaking instabilities, reaction rate oscillations) to the practical and applied (petroleum upgrading, and membrane reactors and bioreactors). Professor Tsotsis was the co-founder and a member of the executive board of USC’s NSF/IGERT Center in Environmental Engineering. He is a Fellow of the AIChE.
+
+# research_summary
+
+Research Summary * Reaction engineering , membrane Separation Processes Specific Research Projects * Sorption and Transport Phenomena in Synthetic and Natural Porous Media We are interested in the study of transport and sorption phenomena in both synthetic (membranes, adsorbents, and catalysts) and natural (shales, sandstones, various porous carbons, etc.) porous media. Inorganic membranes (e.g., carbon molecular sieve, SiC, and layered-double-hydroxide) are of particular interest because of their application in reactive separation applications (e.g., membrane reactors), but also because they serve as model systems for the study of such phenomena in other practical porous systems like adsorbents and catalysts. The studies
+

@@ -1,0 +1,12 @@
+# position
+
+David Packard Chair in Engineering and Professor of Biomedical Engineering
+
+# biography
+
+Neurophysiology of memory and learning, nonlinear systems analysis of hippocampal network properties.
+
+# research_summary
+
+Research Summary The research of Dr. T.W. Berger involves the complementary use of experimental and theoretical approaches to developing biologically constrained mathematical models of mammalian neural systems. The focus of the majority of current research is the hippocampus, a neural system essential for learning and memory functions. The goal of this research is to address three general issues: (1) the relation between cellular/molecular processes, systems-level functions, and learned behavior; (2) the extent of which the functional dynamics of neural systems are altered by activity-dependent synaptic plasticity; (3) the extent to which the essential functions of a neural system can be
+

@@ -1,0 +1,34 @@
+# position
+
+Senior Lecturer of Electrical and Computer Engineering
+
+# biography
+
+
+
+# research_summary
+
+
+
+# interests
+
+## Analog Design
+## Integrated Circuits
+## CMOS
+## Electrical Engineering
+
+
+# publications
+
+Title: Complementary current field-effect transistor devices and amplifiers, 2022
+Title: CHARGE TRANSFER LOGIC (CTL) USING COMPLEMENTARY CURRENT FIELD EFFECT TRANSISTOR DEVICES (CiFET) AND/OR COMPLEMENTARY SWITCHED CURRENT FIELD EFFECT TRANSISTOR DEVICES (CsiFET), 2021
+Title: Complementary current field-effect transistor devices and amplifiers, 2020
+Title: Low noise trans-impedance amplifiers based on complementary current-injection field-effect transistor devices, 2020
+Title: VOLTAGE CONTROLLED OSCILLATOR BASED ON COMPLEMENTARY CURRENT-INJECTION FIELD-EFFECT TRANSISTOR DEVICES, 2020
+Title: Reference generator and current source transistor based on complementary current field-effect transistor devices, 2020
+Title: Super-saturation current field effect transistor and trans-impedance mos device, 2020
+Title: Complementary current field-effect transistor devices and amplifiers, 2020
+Title: Low noise trans-impedance amplifiers based on complementary current field-effect transistor devices, 2019
+Title: Reference generator and current source transistor based on complementary current field-effect transistor devices, 2019
+
+

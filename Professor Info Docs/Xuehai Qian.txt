@@ -1,0 +1,12 @@
+# position
+
+Adjunct Research Assistant Professor of Electrical and Computer Engineering
+
+# biography
+
+I have a Ph.D. from the Computer Science Department at University of Illinois at Urbana-Champaign. I lead ALCHEM (Architecture Lab for Creative High-performance Energy-efficient Machines) at USC. Our group focuses on computer architecture, its interactions with software/systems and the implication of emerging technologies. Our research takes a vertical approach and considers multifaceted aspects to realize the vision of correct, high performance and energy efficient intelligent systems. The unique vertical approach tackles the challenges by focusing on the interactions across multiple system stacks including applications, programming model, runtime/compiler, architecture and emerging technology. This approach fully exploits all the opportunities that are not sufficient, or even possible if only one system layer is considered. We are currently working on several topics including Correctness of Concurrency, Data Movement and Performance, Architectural Supports for Irregular Applications, Embedded Intelligence, Non-Volatile Memory (NVM) Systems and Stochastic Computing for Machine Learning.
+
+# research_summary
+
+Research Summary Computer architecture. System and architecture for graph processing and machine learning. Hardware acceleration with emerging technologies
+

@@ -1,0 +1,31 @@
+# position
+
+WiSE Gabilan Assistant Professor and Assistant Professor of Computer Science 
+
+# biography
+
+I am an Assistant Professor of Computer Science at the University of Southern California. Before joining USC, I was an Assistant Professor at University at Buffalo from 2018 to 2022. I earned my Ph.D. degree in Computer Science from Purdue University in 2018. My work has been published in top-tier venues in software engineering, security, measurement, and web, such as ICSE, FSE, ASE, IEEE S&P, NDSS, IMC, and WWW. In recognition of my research contributions, I was awarded a University at Buffalo Exceptional Scholar - Young Investigator Award in 2022, an NSF CAREER Award in 2021, a Facebook Testing and Verification Research Award in 2019, a Mozilla Research Award in 2019, and a Maurice H. Halstead Memorial Research Award in 2018.
+
+# research_summary
+
+Research Summary I am broadly interested in software engineering, software security, computer systems, and machine learning. My work aims to build testing and analysis techniques for improving the reliability, security, and efficiency of complex software systems. My current projects include static/dynamic bug detection, program analysis for WebAssembly, attack investigation and detection, compiler testing, and performance profiling.
+
+# interests
+
+## Software Engineering
+
+
+# publications
+
+Title: BFTDETECTOR: Automatic Detection of Business Flow Tampering for Digital Content Service, 2023
+Title: Adhere: Automated Detection and Repair of Intrusive Ads, 2023
+Title: Automated WebAssembly Function Purpose Identification With Semantics-Aware Analysis, 2023
+Title: Wobfuscator: Obfuscating JavaScript Malware via Opportunistic Translation to WebAssembly, 2022
+Title: Topology-aware space distortion for structured visualization spaces, 2022
+Title: Hiding Critical Program Components via Ambiguous Translation., 2022
+Title: Jasmine: A Static Analysis Framework for Spring Core Technologies, 2022
+Title: An empirical analysis of UI-based flaky tests, 2021
+Title: Understanding the performance of webassembly applications, 2021
+Title: An Empirical Study of Bugs in WebAssembly Compilers, 2021
+
+
